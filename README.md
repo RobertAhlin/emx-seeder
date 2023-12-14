@@ -8,3 +8,4 @@ Starting up.
 4. Installed BeautifulSoup
 5. Installed Selenium
 
+Launch Notebook with: jupyter notebook --NotebookApp.token='' --NotebookApp.password=''
