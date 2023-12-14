@@ -2,14 +2,15 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import pandas as pd
 
-def display_rankings_page(dataframe):
+# Function to display rankings by Klubb
+def display_rankings_page(ranked_dataframe):
     st.title("Rankings by Klubb")
 
     # Get unique Klubb values
-    unique_klubbs = dataframe['Klubb'].unique()
+    unique_klubbs = ranked_dataframe['Klubb'].unique()
     selected_klubb = st.selectbox("Select a Klubb", unique_klubbs)
 
-    klubb_data = dataframe[dataframe['Klubb'] == selected_klubb]
+    klubb_data = ranked_dataframe[ranked_dataframe['Klubb'] == selected_klubb]
 
     namn_values = klubb_data['Namn'].tolist()
     rank_columns = [f'Rank_{i}' for i in range(1, 7)]
