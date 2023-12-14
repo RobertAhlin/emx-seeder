@@ -9,3 +9,5 @@ Starting up.
 5. Installed Selenium
 
 Launch Notebook with: jupyter notebook --NotebookApp.token='' --NotebookApp.password=''
+
+Codeanywhere workspace got offline and wasn't able to start the Jupyter Notebook again. Just got 403 error. Switched to VS Code.
