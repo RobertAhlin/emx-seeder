@@ -1,4 +1,4 @@
-Namn,Rank_1,Rank_2,Rank_3,Rank_4,Rank_5,Rank_6,Klass,Klubb,AvgRank
+Namn,Rank FMCK Skövde,Rank Tidaholms MK,Rank Töreboda MK,Rank Carlsborgs MK,Rank Falköpings MK,Rank Tibro MK,Klass,Klubb,AvgRank
 Hugo Andersson,6.0,3.0,1.0,1.0,2.0,,Ungdom E1,Tibro MK,2.6
 Per Korsell,,,,,4.0,2.0,Motion 40-49,Götene MK,3.0
 Olof Backman,,,4.0,,,,Ungdom E1,Karlskoga EK,4.0
@@ -49,7 +49,6 @@ Simon Holmbäck,,,33.0,,,,Motion -39,Hjo MK,33.0
 Henrik Klövmark,,,34.0,,,,Motion 40-49,Ma Lerum,34.0
 Jonas Bergqvist,,,,,,34.0,Motion 40-49,Skene MS,34.0
 Felix Johansson,,,41.0,,,28.0,Motion -39,Kinds MK,34.5
-Erik Larsson,8.0,12.0,7.0,5.0,,142.0,"Ungdom E1, Motion -39",Tibro MK,34.8
 Melker Svantesson,34.0,34.0,,45.0,32.0,37.0,Motion -39,Kullings MS,36.4
 Sebastian Carlsson,,68.0,36.0,27.0,,16.0,Motion 40-49,SMK Vadstena,36.75
 Andreas Remfäldt,,35.0,40.0,36.0,49.0,24.0,Motion 40-49,Mariestads EK,36.8
@@ -60,7 +59,6 @@ Jonathan Petersson,,,,,,38.0,Motion -39,SMK Trollhättan,38.0
 Simon Henriksson,,43.0,38.0,37.0,35.0,,Motion -39,Lilla Edets MCK,38.25
 Daniel Hellstadius,28.0,50.0,,,,,Motion -39,Kullings MS,39.0
 George Svantesson,47.0,45.0,45.0,,28.0,31.0,Motion -39,Kullings MS,39.2
-Erik Larsson,8.0,12.0,7.0,167.0,,3.0,"Ungdom E1, Motion -39",Tibro MK,39.4
 Elis Wahlman,,,,41.0,,,Ungdom E1,SMK Kolmården,41.0
 Harald Lindholm,,,,51.0,,33.0,Motion -39,Älvbygdens MK,42.0
 Victor Sterling,,42.0,,,,,Ungdom E1,Linköpings MS,42.0
@@ -108,7 +106,6 @@ Henrik Madsen,,70.0,59.0,67.0,,,Motion -39,Huskvarna MK,65.33333333333333
 Sam Hämäläinen,71.0,60.0,,,,,Motion 40-49,Tibro MK,65.5
 Fredrik Kron,,,,94.0,39.0,,Motion 40-49,Falköpings MK,66.5
 Petter Hedlund,,,69.0,64.0,,,Motion -39,Hallsbergs MK,66.5
-Erik Larsson,8.0,12.0,7.0,167.0,,142.0,"Ungdom E1, Motion -39",Tibro MK,67.2
 Thim Svensson,55.0,75.0,62.0,,,81.0,Motion -39,Vissefjärda EK,68.25
 Christian Johansson,60.0,72.0,89.0,74.0,59.0,60.0,Motion 40-49,Tidaholms MK,69.0
 Axel Karlsson,,,97.0,73.0,65.0,46.0,Motion -39,Laxå MK,70.25
