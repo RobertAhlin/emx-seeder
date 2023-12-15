@@ -89,7 +89,7 @@ pyparsing==2.4.7
 python-dateutil==2.8.2
 python-json-logger==2.0.7
 pytz==2023.3.post1
-PyYAML==5.4.1
+
 pyzmq==25.1.2
 referencing==0.32.0
 requests==2.31.0
