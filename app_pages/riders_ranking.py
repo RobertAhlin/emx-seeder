@@ -2,37 +2,6 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import pandas as pd
 
-# Function to plot rankings for specific riders
-def plot_rankings(dataframe, rider_names):
-    fig, ax = plt.subplots(figsize=(10, 6))
-
-    for rider_name in rider_names:
-        # Filter data for the rider
-        rider_data = dataframe[dataframe['Namn'] == rider_name]
-
-        # Get ranking columns
-        ranking_columns = [col for col in rider_data.columns if col.startswith('Rank')]
-
-        # Convert columns to numeric using .loc to avoid SettingWithCopyWarning
-        for col in ranking_columns:
-            rider_data.loc[:, col] = pd.to_numeric(rider_data[col], errors='coerce')
-
-        # Extract rider's rankings
-        rankings = rider_data[ranking_columns].fillna(pd.NA).values.flatten().astype(float)
-
-        # Plot rankings as a line chart for each rider
-        ax.plot(range(1, len(rankings) + 1), rankings, marker='o', label=rider_name)
-
-    ax.set_xlabel('')
-    ax.set_ylabel('Rank')
-    ax.set_title('Rankings for Riders')
-    ax.legend(loc='upper center', bbox_to_anchor=(0.5, -0.35), fancybox=True, shadow=True, ncol=5)  # Position the legend below
-    ax.grid(True)  # Add grid lines
-    ax.set_xticks(range(1, len(ranking_columns) + 1))  # Set x-ticks for the ranking columns
-    ax.set_xticklabels(ranking_columns, rotation=90)  # Set x-tick labels and rotate them by 90 degrees
-
-    return fig
-
 # Function to select riders and plot rankings
 def select_and_plot_rankings(dataframe):
     st.title("Select Riders and View Rankings")
@@ -65,6 +34,9 @@ def select_and_plot_rankings(dataframe):
         axes[1].set_ylabel('Average Rank')
         axes[1].set_title('Average Rank for Selected Riders')
         axes[1].tick_params(axis='x', rotation=90)
+
+        # Adjust vertical spacing between subplots
+        plt.subplots_adjust(hspace=1)  
         
         st.pyplot(fig)
 
@@ -90,7 +62,7 @@ def plot_rankings(dataframe, rider_names, ax):
     ax.set_xlabel('')
     ax.set_ylabel('Rank')
     ax.set_title('Rankings for Riders')
-    ax.legend(loc='upper center', bbox_to_anchor=(0.5, -0.35), fancybox=True, shadow=True, ncol=5)  # Position the legend below
+    ax.legend(loc='upper center', bbox_to_anchor=(0.5, -0.5), fancybox=True, shadow=True, ncol=5)  # Position the legend below
     ax.grid(True)  # Add grid lines
     ax.set_xticks(range(1, len(ranking_columns) + 1))  # Set x-ticks for the ranking columns
     ax.set_xticklabels(ranking_columns, rotation=90)  # Set x-tick labels and rotate them by 90 degrees
