@@ -23,11 +23,13 @@ def plot_rankings(dataframe, rider_names):
         # Plot rankings as a line chart for each rider
         ax.plot(range(1, len(rankings) + 1), rankings, marker='o', label=rider_name)
 
-    ax.set_xlabel('Competition')
-    ax.set_ylabel('Ranking')
+    ax.set_xlabel('')
+    ax.set_ylabel('Rank')
     ax.set_title('Rankings for Riders')
-    ax.legend(loc='upper center', bbox_to_anchor=(0.5, -0.1), fancybox=True, shadow=True, ncol=5)  # Position the legend above
+    ax.legend(loc='upper center', bbox_to_anchor=(0.5, -0.35), fancybox=True, shadow=True, ncol=5)  # Position the legend below
     ax.grid(True)  # Add grid lines
+    ax.set_xticks(range(1, len(ranking_columns) + 1))  # Set x-ticks for the ranking columns
+    ax.set_xticklabels(ranking_columns, rotation=90)  # Set x-tick labels and rotate them by 90 degrees
 
     return fig
 
