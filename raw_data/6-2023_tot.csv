@@ -1,668 +1,667 @@
-Tibro MK,2023,Plac,Klass,#,Namn,Klubb,Märke/Anmälare,Varvtider,Varv,Tid
-,,1,Motion 50-59,1465,Per Wikvist,Hallsbergs MK,KTM,19:06.0  18:18.8  18:30.5  ,3,55:55.3
-,,2,Ungdom E0,1,Hampus Andersson,Tibro MK,KTM,18:46.6  18:39.3  18:51.4  ,3,56:17.4
+Plats,År,Plac,Klass,#,Namn,Klubb,Märke/Anmälare,Varvtider,Varv,Tid
+Tibro MK,2023,1,Motion 50-59,1465,Per Wikvist,Hallsbergs MK,KTM,19:06.0  18:18.8  18:30.5  ,3,55:55.3
+Tibro MK,2023,2,Ungdom E0,1,Hampus Andersson,Tibro MK,KTM,18:46.6  18:39.3  18:51.4  ,3,56:17.4
 ,,,,,,,,,,
-,,3,Motion 50-59,1244,Robert Salomonsson,Tibro MK,Beta,18:47.7  18:51.4  18:45.2  ,3,56:24.5
+Tibro MK,2023,3,Motion 50-59,1244,Robert Salomonsson,Tibro MK,Beta,18:47.7  18:51.4  18:45.2  ,3,56:24.5
 ,,,,,,,,,,
-,,4,Motion 50-59,1222,Klas Elofsson,Skene MS,Beta,19:40.9  18:56.9  19:06.4  ,3,57:44.4
+Tibro MK,2023,4,Motion 50-59,1222,Klas Elofsson,Skene MS,Beta,19:40.9  18:56.9  19:06.4  ,3,57:44.4
 ,,,,,,,,,,
-,,5,Ungdom E0,89,Hjalmar Johansson,SMK Eksjö,KTM,19:46.0  19:14.4  19:20.4  ,3,58:20.9
+Tibro MK,2023,5,Ungdom E0,89,Hjalmar Johansson,SMK Eksjö,KTM,19:46.0  19:14.4  19:20.4  ,3,58:20.9
 ,,,,,,,,,,
-,,6,Motion 50-59,1286,Mikael Wiberg,Hallsbergs MK,Husqvarna,19:58.2  19:15.8  19:17.2  ,3,58:31.3
+Tibro MK,2023,6,Motion 50-59,1286,Mikael Wiberg,Hallsbergs MK,Husqvarna,19:58.2  19:15.8  19:17.2  ,3,58:31.3
 ,,,,,,,,,,
-,,7,Motion 50-59,1291,Joakim Fri,Älvbygdens MK,KTM,19:54.5  19:25.7  19:21.7  ,3,58:42.0
+Tibro MK,2023,7,Motion 50-59,1291,Joakim Fri,Älvbygdens MK,KTM,19:54.5  19:25.7  19:21.7  ,3,58:42.0
 ,,,,,,,,,,
-,,8,Ungdom E0,57,Filip Wahlström,Hallsbergs MK,Husqvarna,19:35.3  19:25.5  20:06.6  ,3,59:07.5
+Tibro MK,2023,8,Ungdom E0,57,Filip Wahlström,Hallsbergs MK,Husqvarna,19:35.3  19:25.5  20:06.6  ,3,59:07.5
 ,,,,,,,,,,
-,,9,Motion 50-59,1255,Jimmy Kaukinen,Wäxjö MS,GasGas,19:42.0  19:41.7  19:43.9  ,3,59:07.7
+Tibro MK,2023,9,Motion 50-59,1255,Jimmy Kaukinen,Wäxjö MS,GasGas,19:42.0  19:41.7  19:43.9  ,3,59:07.7
 ,,,,,,,,,,
-,,10,Motion 50-59,1355,Robert Oskarsson,Hallsbergs MK,Husqvarna,19:53.5  19:35.3  19:48.4  ,3,59:17.3
+Tibro MK,2023,10,Motion 50-59,1355,Robert Oskarsson,Hallsbergs MK,Husqvarna,19:53.5  19:35.3  19:48.4  ,3,59:17.3
 ,,,,,,,,,,
-,,11,Ungdom E0,7,Leo Klasson,Tibro MK,Suzuki,19:42.9  19:50.1  19:57.0  ,3,59:30.2
+Tibro MK,2023,11,Ungdom E0,7,Leo Klasson,Tibro MK,Suzuki,19:42.9  19:50.1  19:57.0  ,3,59:30.2
 ,,,,,,,,,,
-,,12,Motion 50-59,1210,Lars Arvidsson,Kullings MS,KTM,20:02.6  19:46.1  19:53.2  ,3,59:41.9
+Tibro MK,2023,12,Motion 50-59,1210,Lars Arvidsson,Kullings MS,KTM,20:02.6  19:46.1  19:53.2  ,3,59:41.9
 ,,,,,,,,,,
-,,13,Motion 50-59,1228,Jerker Svantesson,Kullings MS,KTM,20:08.7  19:59.0  19:48.6  ,3,59:56.4
+Tibro MK,2023,13,Motion 50-59,1228,Jerker Svantesson,Kullings MS,KTM,20:08.7  19:59.0  19:48.6  ,3,59:56.4
 ,,,,,,,,,,
-,,14,Motion 60-,1521,Mikael Persson,Töreboda MK,Sherco,20:20.9  19:54.8  19:44.4  ,3,00:00.1
+Tibro MK,2023,14,Motion 60-,1521,Mikael Persson,Töreboda MK,Sherco,20:20.9  19:54.8  19:44.4  ,3,00:00.1
 ,,,,,,,,,,
-,,15,Motion 50-59,1300,Christian Hagberg,FMCK Borås,KTM,19:54.2  20:00.3  20:09.2  ,3,00:03.9
+Tibro MK,2023,15,Motion 50-59,1300,Christian Hagberg,FMCK Borås,KTM,19:54.2  20:00.3  20:09.2  ,3,00:03.9
 ,,,,,,,,,,
-,,16,Motion 50-59,1310,Richard Karlsson,Götene MK,Husqvarna,20:09.9  20:07.7  19:59.3  ,3,00:17.0
+Tibro MK,2023,16,Motion 50-59,1310,Richard Karlsson,Götene MK,Husqvarna,20:09.9  20:07.7  19:59.3  ,3,00:17.0
 ,,,,,,,,,,
-,,17,Motion 50-59,1287,Terje Berge,Flittig Enduro,Husqvarna,20:22.8  19:50.5  20:07.3  ,3,00:20.7
+Tibro MK,2023,17,Motion 50-59,1287,Terje Berge,Flittig Enduro,Husqvarna,20:22.8  19:50.5  20:07.3  ,3,00:20.7
 ,,,,,,,,,,
-,,18,Motion 50-59,1280,Pelle Persson,Falköpings MK,KTM,20:51.4  20:02.6  19:32.9  ,3,00:27.1
+Tibro MK,2023,18,Motion 50-59,1280,Pelle Persson,Falköpings MK,KTM,20:51.4  20:02.6  19:32.9  ,3,00:27.1
 ,,,,,,,,,,
-,,19,Motion 50-59,1215,Christer Johansson,Varbergs MK,Husqvarna,20:25.1  19:55.6  20:06.5  ,3,00:27.2
+Tibro MK,2023,19,Motion 50-59,1215,Christer Johansson,Varbergs MK,Husqvarna,20:25.1  19:55.6  20:06.5  ,3,00:27.2
 ,,,,,,,,,,
-,,20,Motion 50-59,1284,Magnus Kallander,Linköpings MS,Husqvarna,20:37.6  20:02.4  19:51.5  ,3,00:31.6
+Tibro MK,2023,20,Motion 50-59,1284,Magnus Kallander,Linköpings MS,Husqvarna,20:37.6  20:02.4  19:51.5  ,3,00:31.6
 ,,,,,,,,,,
-,,21,Motion 50-59,1205,Peter Björnqvist,FMCK Borås,Husqvarna,20:39.2  19:59.5  20:02.7  ,3,00:41.4
+Tibro MK,2023,21,Motion 50-59,1205,Peter Björnqvist,FMCK Borås,Husqvarna,20:39.2  19:59.5  20:02.7  ,3,00:41.4
 ,,,,,,,,,,
-,,22,Motion 50-59,1218,Johan Karlsson,Götene MK,Sherco,20:53.3  20:00.2  19:51.9  ,3,00:45.4
+Tibro MK,2023,22,Motion 50-59,1218,Johan Karlsson,Götene MK,Sherco,20:53.3  20:00.2  19:51.9  ,3,00:45.4
 ,,,,,,,,,,
-,,23,Motion 60-,1520,Anders Johansson,MCK Hallandia,Husqvarna,20:45.2  20:07.6  19:56.9  ,3,00:49.8
+Tibro MK,2023,23,Motion 60-,1520,Anders Johansson,MCK Hallandia,Husqvarna,20:45.2  20:07.6  19:56.9  ,3,00:49.8
 ,,,,,,,,,,
-,,24,Ungdom E0,85,Ville Hjelm,Finspångs MS,KTM / Team Bloms MX Racing,20:45.7  20:03.7  20:06.1  ,3,00:55.6
+Tibro MK,2023,24,Ungdom E0,85,Ville Hjelm,Finspångs MS,KTM / Team Bloms MX Racing,20:45.7  20:03.7  20:06.1  ,3,00:55.6
 ,,,,,,,,,,
-,,25,Motion 50-59,1263,Magnus Ragnarsson,Skene MS,Sherco / Team VIXUS MC,20:35.7  20:14.1  20:22.0  ,3,01:11.9
+Tibro MK,2023,25,Motion 50-59,1263,Magnus Ragnarsson,Skene MS,Sherco / Team VIXUS MC,20:35.7  20:14.1  20:22.0  ,3,01:11.9
 ,,,,,,,,,,
-,,26,Motion 50-59,1269,Lars Jansson,Karlskoga EK,GasGas,20:53.4  20:07.4  20:20.7  ,3,01:21.7
+Tibro MK,2023,26,Motion 50-59,1269,Lars Jansson,Karlskoga EK,GasGas,20:53.4  20:07.4  20:20.7  ,3,01:21.7
 ,,,,,,,,,,
-,,27,Motion 60-,1526,Inge Edberg,Huskvarna MK,Kawasaki,20:31.0  20:30.0  20:31.6  ,3,01:32.8
+Tibro MK,2023,27,Motion 60-,1526,Inge Edberg,Huskvarna MK,Kawasaki,20:31.0  20:30.0  20:31.6  ,3,01:32.8
 ,,,,,,,,,,
-,,28,Motion 50-59,1245,Tony Larsson,FMCK Borås,KTM,20:39.7  20:20.1  20:32.9  ,3,01:32.9
+Tibro MK,2023,28,Motion 50-59,1245,Tony Larsson,FMCK Borås,KTM,20:39.7  20:20.1  20:32.9  ,3,01:32.9
 ,,,,,,,,,,
-,,29,Motion 60-,1561,Jan-Olof Wallskog,Töreboda MK,KTM,20:21.1  20:45.3  20:26.7  ,3,01:33.2
+Tibro MK,2023,29,Motion 60-,1561,Jan-Olof Wallskog,Töreboda MK,KTM,20:21.1  20:45.3  20:26.7  ,3,01:33.2
 ,,,,,,,,,,
-,,30,Motion 50-59,1321,Michael Larsson,SMK Värnamo,Beta,20:38.4  20:23.9  20:38.6  ,3,01:41.0
+Tibro MK,2023,30,Motion 50-59,1321,Michael Larsson,SMK Värnamo,Beta,20:38.4  20:23.9  20:38.6  ,3,01:41.0
 ,,,,,,,,,,
-,,31,Motion 50-59,1387,Johan Siggesson,Tibro MK,Kawasaki,20:36.4  20:44.5  20:31.2  ,3,01:52.2
+Tibro MK,2023,31,Motion 50-59,1387,Johan Siggesson,Tibro MK,Kawasaki,20:36.4  20:44.5  20:31.2  ,3,01:52.2
 ,,,,,,,,,,
-,,32,Motion 50-59,1225,Joakim Holm,FMCK Skövde,Husqvarna,21:12.5  20:19.6  20:26.0  ,3,01:58.2
+Tibro MK,2023,32,Motion 50-59,1225,Joakim Holm,FMCK Skövde,Husqvarna,21:12.5  20:19.6  20:26.0  ,3,01:58.2
 ,,,,,,,,,,
-,,33,Motion 50-59,1308,Peter Blomdahl,Ulricehamns MK,Husqvarna,20:56.3  20:55.0  20:18.7  ,3,02:10.1
+Tibro MK,2023,33,Motion 50-59,1308,Peter Blomdahl,Ulricehamns MK,Husqvarna,20:56.3  20:55.0  20:18.7  ,3,02:10.1
 ,,,,,,,,,,
-,,34,Motion 50-59,1219,Björn Sandstedt,Tibro MK,Sherco,20:51.2  20:44.8  21:05.3  ,3,02:41.4
+Tibro MK,2023,34,Motion 50-59,1219,Björn Sandstedt,Tibro MK,Sherco,20:51.2  20:44.8  21:05.3  ,3,02:41.4
 ,,,,,,,,,,
-,,35,Motion 50-59,1320,Anders Löf,Hallsbergs MK,KTM,21:02.9  21:16.4  20:35.3  ,3,02:54.7
+Tibro MK,2023,35,Motion 50-59,1320,Anders Löf,Hallsbergs MK,KTM,21:02.9  21:16.4  20:35.3  ,3,02:54.7
 ,,,,,,,,,,
-,,36,Motion 50-59,1253,Fabian Aleryd,Kullings MS,KTM,21:13.6  20:32.0  21:39.3  ,3,03:25.0
+Tibro MK,2023,36,Motion 50-59,1253,Fabian Aleryd,Kullings MS,KTM,21:13.6  20:32.0  21:39.3  ,3,03:25.0
 ,,,,,,,,,,
-,,37,Motion 50-59,1319,Ronnie Bengtsson,Tidaholms MK,Sherco,21:25.9  21:11.4  20:52.6  ,3,03:30.0
+Tibro MK,2023,37,Motion 50-59,1319,Ronnie Bengtsson,Tidaholms MK,Sherco,21:25.9  21:11.4  20:52.6  ,3,03:30.0
 ,,,,,,,,,,
-,,38,Motion 50-59,1334,Jonas Nordmark,Varbergs MK,Yamaha,21:03.9  21:24.7  21:16.7  ,3,03:45.4
+Tibro MK,2023,38,Motion 50-59,1334,Jonas Nordmark,Varbergs MK,Yamaha,21:03.9  21:24.7  21:16.7  ,3,03:45.4
 ,,,,,,,,,,
-,,39,Ungdom E0,94,Wilje Bogren,Töreboda MK,Husqvarna,21:19.6  21:25.1  21:01.0  ,3,03:45.7
+Tibro MK,2023,39,Ungdom E0,94,Wilje Bogren,Töreboda MK,Husqvarna,21:19.6  21:25.1  21:01.0  ,3,03:45.7
 ,,,,,,,,,,
-,,40,Motion 60-,1517,Peter Elofsson,Skene MS,Husqvarna,21:37.2  21:10.9  20:59.7  ,3,03:47.9
+Tibro MK,2023,40,Motion 60-,1517,Peter Elofsson,Skene MS,Husqvarna,21:37.2  21:10.9  20:59.7  ,3,03:47.9
 ,,,,,,,,,,
-,,41,Motion 50-59,1333,Kenneth Pettersson,FMCK Skövde,GasGas,21:30.2  21:22.3  21:06.4  ,3,03:59.1
+Tibro MK,2023,41,Motion 50-59,1333,Kenneth Pettersson,FMCK Skövde,GasGas,21:30.2  21:22.3  21:06.4  ,3,03:59.1
 ,,,,,,,,,,
-,,42,Motion 50-59,1257,Kenneth Zimmerblad,Skene MS,Sherco,21:26.9  21:25.4  21:20.1  ,3,04:12.4
+Tibro MK,2023,42,Motion 50-59,1257,Kenneth Zimmerblad,Skene MS,Sherco,21:26.9  21:25.4  21:20.1  ,3,04:12.4
 ,,,,,,,,,,
-,,43,Motion 50-59,1304,Henrik Karlsson,Stenungsunds MS,Sherco,21:50.7  21:23.2  21:08.8  ,3,04:22.8
+Tibro MK,2023,43,Motion 50-59,1304,Henrik Karlsson,Stenungsunds MS,Sherco,21:50.7  21:23.2  21:08.8  ,3,04:22.8
 ,,,,,,,,,,
-,,44,Motion 50-59,1260,Mathias Svensson,Skene MS,Husqvarna,21:29.5  21:32.8  21:23.7  ,3,04:26.1
+Tibro MK,2023,44,Motion 50-59,1260,Mathias Svensson,Skene MS,Husqvarna,21:29.5  21:32.8  21:23.7  ,3,04:26.1
 ,,,,,,,,,,
-,,45,Motion 50-59,1216,Per Hedskog,SMK Trollhättan,Yamaha,21:58.5  20:56.9  21:39.2  ,3,04:34.8
+Tibro MK,2023,45,Motion 50-59,1216,Per Hedskog,SMK Trollhättan,Yamaha,21:58.5  20:56.9  21:39.2  ,3,04:34.8
 ,,,,,,,,,,
-,,46,Motion 50-59,1221,Benny Andersson,Kullings MS,KTM,21:39.8  21:22.6  21:35.0  ,3,04:37.4
+Tibro MK,2023,46,Motion 50-59,1221,Benny Andersson,Kullings MS,KTM,21:39.8  21:22.6  21:35.0  ,3,04:37.4
 ,,,,,,,,,,
-,,47,Ungdom E0,61,Anton Magnusson,Norrahammars MK,KTM,21:24.2  21:54.0  21:23.5  ,3,04:41.8
+Tibro MK,2023,47,Ungdom E0,61,Anton Magnusson,Norrahammars MK,KTM,21:24.2  21:54.0  21:23.5  ,3,04:41.8
 ,,,,,,,,,,
-,,48,Motion 50-59,1233,Jimmy Öhlin,MK Ran,KTM,21:45.3  21:48.6  21:15.9  ,3,04:49.9
+Tibro MK,2023,48,Motion 50-59,1233,Jimmy Öhlin,MK Ran,KTM,21:45.3  21:48.6  21:15.9  ,3,04:49.9
 ,,,,,,,,,,
-,,49,Motion Dam,472,Vilma Norlander,Kullings MS,KTM / Speedequipment MX Team,21:48.1  21:47.0  21:31.6  ,3,05:06.8
+Tibro MK,2023,49,Motion Dam,472,Vilma Norlander,Kullings MS,KTM / Speedequipment MX Team,21:48.1  21:47.0  21:31.6  ,3,05:06.8
 ,,,,,,,,,,
-,,50,Motion 50-59,1251,Sören Larsson,FMCK Borås,KTM,21:58.3  21:47.7  21:21.1  ,3,05:07.2
+Tibro MK,2023,50,Motion 50-59,1251,Sören Larsson,FMCK Borås,KTM,21:58.3  21:47.7  21:21.1  ,3,05:07.2
 ,,,,,,,,,,
-,,51,Motion 50-59,1293,Niclas Starck,Wäxjö MS,KTM,21:40.9  21:54.0  21:51.5  ,3,05:26.5
+Tibro MK,2023,51,Motion 50-59,1293,Niclas Starck,Wäxjö MS,KTM,21:40.9  21:54.0  21:51.5  ,3,05:26.5
 ,,,,,,,,,,
-,,52,Motion 50-59,1217,Tomas Karlsson,Skene MS,KTM,21:52.1  21:41.1  21:57.9  ,3,05:31.2
+Tibro MK,2023,52,Motion 50-59,1217,Tomas Karlsson,Skene MS,KTM,21:52.1  21:41.1  21:57.9  ,3,05:31.2
 ,,,,,,,,,,
-,,53,Ungdom E0,34,Casper Eriksson,FMCK Skövde,KTM,20:20.8  23:03.6  22:25.7  ,3,05:50.1
+Tibro MK,2023,53,Ungdom E0,34,Casper Eriksson,FMCK Skövde,KTM,20:20.8  23:03.6  22:25.7  ,3,05:50.1
 ,,,,,,,,,,
-,,54,Ungdom E0,3,William Marcher,Hallsbergs MK,GasGas / Ljunggrens Motor,21:39.7  22:07.2  22:08.1  ,3,05:55.1
+Tibro MK,2023,54,Ungdom E0,3,William Marcher,Hallsbergs MK,GasGas / Ljunggrens Motor,21:39.7  22:07.2  22:08.1  ,3,05:55.1
 ,,,,,,,,,,
-,,55,Motion 50-59,1208,Marcus Ljung,SMK Trollhättan,KTM,22:06.4  22:22.7  21:54.0  ,3,06:23.2
+Tibro MK,2023,55,Motion 50-59,1208,Marcus Ljung,SMK Trollhättan,KTM,22:06.4  22:22.7  21:54.0  ,3,06:23.2
 ,,,,,,,,,,
-,,56,Motion 50-59,1378,Magnus Björkman,SMK Kolmården,KTM,22:24.5  22:14.9  21:44.7  ,3,06:24.2
+Tibro MK,2023,56,Motion 50-59,1378,Magnus Björkman,SMK Kolmården,KTM,22:24.5  22:14.9  21:44.7  ,3,06:24.2
 ,,,,,,,,,,
-,,57,Motion 60-,1523,Mikael Kristensson,MCK Hallandia,Husqvarna,22:02.0  22:00.6  22:23.9  ,3,06:26.7
+Tibro MK,2023,57,Motion 60-,1523,Mikael Kristensson,MCK Hallandia,Husqvarna,22:02.0  22:00.6  22:23.9  ,3,06:26.7
 ,,,,,,,,,,
-,,58,Motion 50-59,1307,Ulf Johannesson,FMCK Borås,Husqvarna,22:41.6  22:22.0  21:52.1  ,3,06:55.7
+Tibro MK,2023,58,Motion 50-59,1307,Ulf Johannesson,FMCK Borås,Husqvarna,22:41.6  22:22.0  21:52.1  ,3,06:55.7
 ,,,,,,,,,,
-,,59,Motion 50-59,1275,Peter Franzén,Kortedala MK,KTM,22:42.8  22:16.0  22:01.6  ,3,07:00.5
+Tibro MK,2023,59,Motion 50-59,1275,Peter Franzén,Kortedala MK,KTM,22:42.8  22:16.0  22:01.6  ,3,07:00.5
 ,,,,,,,,,,
-,,60,Ungdom E0,92,Algot Hessel,Tidaholms MK,Husqvarna,21:09.9  21:57.9  23:53.7  ,3,07:01.7
+Tibro MK,2023,60,Ungdom E0,92,Algot Hessel,Tidaholms MK,Husqvarna,21:09.9  21:57.9  23:53.7  ,3,07:01.7
 ,,,,,,,,,,
-,,61,Motion 60-,1500,Tommy Berndtsson,SMK Trollhättan,Yamaha,23:02.3  22:04.8  22:04.4  ,3,07:11.6
+Tibro MK,2023,61,Motion 60-,1500,Tommy Berndtsson,SMK Trollhättan,Yamaha,23:02.3  22:04.8  22:04.4  ,3,07:11.6
 ,,,,,,,,,,
-,,62,Motion 50-59,1457,Magnus Persson,Götene MK,KTM,21:57.7  22:15.4  23:01.4  ,3,07:14.7
+Tibro MK,2023,62,Motion 50-59,1457,Magnus Persson,Götene MK,KTM,21:57.7  22:15.4  23:01.4  ,3,07:14.7
 ,,,,,,,,,,
-,,63,Motion 50-59,1262,Jörgen Petersson,Oskarshamns MSK,Husqvarna,22:29.4  21:50.9  23:30.8  ,3,07:51.2
+Tibro MK,2023,63,Motion 50-59,1262,Jörgen Petersson,Oskarshamns MSK,Husqvarna,22:29.4  21:50.9  23:30.8  ,3,07:51.2
 ,,,,,,,,,,
-,,64,Motion 60-,1508,Berth-Åke Åhman,FMCK Borås,Husqvarna,23:11.7  22:22.8  22:18.5  ,3,07:53.0
+Tibro MK,2023,64,Motion 60-,1508,Berth-Åke Åhman,FMCK Borås,Husqvarna,23:11.7  22:22.8  22:18.5  ,3,07:53.0
 ,,,,,,,,,,
-,,65,Motion 60-,1511,Håkan Persson,MK Ran,KTM,22:47.0  22:54.6  22:36.5  ,3,08:18.1
+Tibro MK,2023,65,Motion 60-,1511,Håkan Persson,MK Ran,KTM,22:47.0  22:54.6  22:36.5  ,3,08:18.1
 ,,,,,,,,,,
-,,66,Ungdom E0,20,Albin Glansén,Tidaholms MK,Yamaha / Team ATV Racing,24:21.0  22:13.2  21:59.0  ,3,08:33.3
+Tibro MK,2023,66,Ungdom E0,20,Albin Glansén,Tidaholms MK,Yamaha / Team ATV Racing,24:21.0  22:13.2  21:59.0  ,3,08:33.3
 ,,,,,,,,,,
-,,67,Motion 50-59,1270,Mikael Almqvist,Lidköpings MCK,Sherco,22:52.3  22:58.2  22:47.2  ,3,08:37.9
+Tibro MK,2023,67,Motion 50-59,1270,Mikael Almqvist,Lidköpings MCK,Sherco,22:52.3  22:58.2  22:47.2  ,3,08:37.9
 ,,,,,,,,,,
-,,68,Motion 50-59,1346,Fredrik Langvall,Skene MS,KTM,23:11.2  22:52.7  22:39.1  ,3,08:43.2
+Tibro MK,2023,68,Motion 50-59,1346,Fredrik Langvall,Skene MS,KTM,23:11.2  22:52.7  22:39.1  ,3,08:43.2
 ,,,,,,,,,,
-,,69,Motion 50-59,1376,Karl Essgärde,Götene MK,KTM,22:49.3  22:52.4  23:03.1  ,3,08:44.9
+Tibro MK,2023,69,Motion 50-59,1376,Karl Essgärde,Götene MK,KTM,22:49.3  22:52.4  23:03.1  ,3,08:44.9
 ,,,,,,,,,,
-,,70,Motion 50-59,1220,Lennart Bodin,FMCK Borås,KTM,23:37.6  23:12.4  22:17.9  ,3,09:08.0
+Tibro MK,2023,70,Motion 50-59,1220,Lennart Bodin,FMCK Borås,KTM,23:37.6  23:12.4  22:17.9  ,3,09:08.0
 ,,,,,,,,,,
-,,71,Motion 50-59,1273,Jan-Eric Höög,Skene MS,Sherco / Team VIXUS MC,23:16.3  22:36.3  23:19.2  ,3,09:11.9
+Tibro MK,2023,71,Motion 50-59,1273,Jan-Eric Höög,Skene MS,Sherco / Team VIXUS MC,23:16.3  22:36.3  23:19.2  ,3,09:11.9
 ,,,,,,,,,,
-,,72,Motion 50-59,1254,Jörgen Rutgersson,Stenungsunds MS,KTM,24:06.5  22:27.2  22:46.4  ,3,09:20.2
+Tibro MK,2023,72,Motion 50-59,1254,Jörgen Rutgersson,Stenungsunds MS,KTM,24:06.5  22:27.2  22:46.4  ,3,09:20.2
 ,,,,,,,,,,
-,,73,Motion 60-,1514,Karl-Axel Andersson,FMCK Borås,KTM,23:58.9  23:01.9  22:22.8  ,3,09:23.7
+Tibro MK,2023,73,Motion 60-,1514,Karl-Axel Andersson,FMCK Borås,KTM,23:58.9  23:01.9  22:22.8  ,3,09:23.7
 ,,,,,,,,,,
-,,74,Motion 50-59,1223,Roger Wallgren,FMCK Skövde,Sherco,23:12.2  23:08.2  23:05.8  ,3,09:26.3
+Tibro MK,2023,74,Motion 50-59,1223,Roger Wallgren,FMCK Skövde,Sherco,23:12.2  23:08.2  23:05.8  ,3,09:26.3
 ,,,,,,,,,,
-,,75,Motion 50-59,1449,Jonas Eriksson,Skene MS,KTM,23:42.8  22:13.3  23:47.5  ,3,09:43.6
+Tibro MK,2023,75,Motion 50-59,1449,Jonas Eriksson,Skene MS,KTM,23:42.8  22:13.3  23:47.5  ,3,09:43.6
 ,,,,,,,,,,
-,,76,Motion 50-59,1268,Daniel Johansson,Töreboda MK,KTM,23:36.6  23:13.2  23:03.6  ,3,09:53.5
+Tibro MK,2023,76,Motion 50-59,1268,Daniel Johansson,Töreboda MK,KTM,23:36.6  23:13.2  23:03.6  ,3,09:53.5
 ,,,,,,,,,,
-,,77,Motion 60-,1524,Mikael Thräff,Götene MK,Husqvarna,23:41.1  23:48.5  22:52.7  ,3,10:22.5
+Tibro MK,2023,77,Motion 60-,1524,Mikael Thräff,Götene MK,Husqvarna,23:41.1  23:48.5  22:52.7  ,3,10:22.5
 ,,,,,,,,,,
-,,78,Ungdom E0,51,Felix Baldesten Kjellström,Tibro MK,KTM,23:26.0  24:00.1  23:07.1  ,3,10:33.3
+Tibro MK,2023,78,Ungdom E0,51,Felix Baldesten Kjellström,Tibro MK,KTM,23:26.0  24:00.1  23:07.1  ,3,10:33.3
 ,,,,,,,,,,
-,,79,Ungdom E0,2,Elvira Auvinen,FMCK Skövde,Husqvarna,24:44.8  23:03.3  22:46.1  ,3,10:34.3
+Tibro MK,2023,79,Ungdom E0,2,Elvira Auvinen,FMCK Skövde,Husqvarna,24:44.8  23:03.3  22:46.1  ,3,10:34.3
 ,,,,,,,,,,
-,,80,Ungdom E0,27,Max Linder,Tibro MK,Husqvarna,23:28.5  23:06.5  24:07.8  ,3,10:42.8
+Tibro MK,2023,80,Ungdom E0,27,Max Linder,Tibro MK,Husqvarna,23:28.5  23:06.5  24:07.8  ,3,10:42.8
 ,,,,,,,,,,
-,,81,Motion 50-59,1259,Markus Hansson,FMCK Borås,Husqvarna,22:47.8  23:22.7  24:43.4  ,3,10:53.9
+Tibro MK,2023,81,Motion 50-59,1259,Markus Hansson,FMCK Borås,Husqvarna,22:47.8  23:22.7  24:43.4  ,3,10:53.9
 ,,,,,,,,,,
-,,82,Motion 60-,1506,Lars-Gunnar Skogh,Falköpings MK,Husqvarna,23:59.7  23:45.7  23:22.3  ,3,11:07.8
+Tibro MK,2023,82,Motion 60-,1506,Lars-Gunnar Skogh,Falköpings MK,Husqvarna,23:59.7  23:45.7  23:22.3  ,3,11:07.8
 ,,,,,,,,,,
-,,83,Motion 50-59,1265,Kenny Elfström,Örebro EK,Husqvarna,23:51.8  23:48.1  23:34.7  ,3,11:14.8
+Tibro MK,2023,83,Motion 50-59,1265,Kenny Elfström,Örebro EK,Husqvarna,23:51.8  23:48.1  23:34.7  ,3,11:14.8
 ,,,,,,,,,,
-,,84,Motion 50-59,1409,Anders Månsson,FMCK Borås,Husqvarna,24:06.9  23:27.5  23:48.0  ,3,11:22.4
+Tibro MK,2023,84,Motion 50-59,1409,Anders Månsson,FMCK Borås,Husqvarna,24:06.9  23:27.5  23:48.0  ,3,11:22.4
 ,,,,,,,,,,
-,,85,Ungdom E0,18,Filip Georgsson,Tibro MK,KTM,23:54.2  23:56.8  24:13.5  ,3,12:04.6
+Tibro MK,2023,85,Ungdom E0,18,Filip Georgsson,Tibro MK,KTM,23:54.2  23:56.8  24:13.5  ,3,12:04.6
 ,,,,,,,,,,
-,,86,Motion 50-59,1201,Anders Edin,Falköpings MK,Yamaha,24:21.1  23:56.9  23:52.8  ,3,12:10.8
+Tibro MK,2023,86,Motion 50-59,1201,Anders Edin,Falköpings MK,Yamaha,24:21.1  23:56.9  23:52.8  ,3,12:10.8
 ,,,,,,,,,,
-,,87,Ungdom E0,12,Benjamin Bengtsson,Falköpings MK,KTM,24:10.0  23:56.7  24:05.3  ,3,12:12.1
+Tibro MK,2023,87,Ungdom E0,12,Benjamin Bengtsson,Falköpings MK,KTM,24:10.0  23:56.7  24:05.3  ,3,12:12.1
 ,,,,,,,,,,
-,,88,Motion 60-,1697,Mats Karlsson,Kungsbacka MA,Sherco,24:01.8  24:41.6  24:42.5  ,3,13:26.1
+Tibro MK,2023,88,Motion 60-,1697,Mats Karlsson,Kungsbacka MA,Sherco,24:01.8  24:41.6  24:42.5  ,3,13:26.1
 ,,,,,,,,,,
-,,89,Motion 50-59,1256,Jim Larsson,Stenungsunds MS,,23:58.0  24:12.4  25:36.5  ,3,13:46.9
+Tibro MK,2023,89,Motion 50-59,1256,Jim Larsson,Stenungsunds MS,,23:58.0  24:12.4  25:36.5  ,3,13:46.9
 ,,,,,,,,,,
-,,90,Ungdom E0,38,Liam Nilsson,Tidaholms MK,Husqvarna,25:02.5  25:47.7  24:00.8  ,3,14:51.0
+Tibro MK,2023,90,Ungdom E0,38,Liam Nilsson,Tidaholms MK,Husqvarna,25:02.5  25:47.7  24:00.8  ,3,14:51.0
 ,,,,,,,,,,
-,,91,Motion 60-,1507,Thomas Gustafsson,Älvbygdens MK,KTM,25:59.6  25:07.2  24:43.0  ,3,15:49.9
+Tibro MK,2023,91,Motion 60-,1507,Thomas Gustafsson,Älvbygdens MK,KTM,25:59.6  25:07.2  24:43.0  ,3,15:49.9
 ,,,,,,,,,,
-,,92,Motion 50-59,1250,Rikard Bengtsson,FMCK Borås,Husqvarna,25:21.7  25:26.3  25:09.2  ,3,15:57.4
+Tibro MK,2023,92,Motion 50-59,1250,Rikard Bengtsson,FMCK Borås,Husqvarna,25:21.7  25:26.3  25:09.2  ,3,15:57.4
 ,,,,,,,,,,
-,,93,Motion 50-59,1252,Richard Kling,MK Pionjär,GasGas,26:12.1  25:29.5  24:16.8  ,3,15:58.6
+Tibro MK,2023,93,Motion 50-59,1252,Richard Kling,MK Pionjär,GasGas,26:12.1  25:29.5  24:16.8  ,3,15:58.6
 ,,,,,,,,,,
-,,94,Motion 50-59,1313,Claes Hilmersson,Stenungsunds MS,KTM,26:37.7  25:06.3  24:16.1  ,3,16:00.2
+Tibro MK,2023,94,Motion 50-59,1313,Claes Hilmersson,Stenungsunds MS,KTM,26:37.7  25:06.3  24:16.1  ,3,16:00.2
 ,,,,,,,,,,
-,,95,Ungdom E0,11,Alicia Isaksson,Falköpings MK,Suzuki,25:23.4  26:07.5  25:10.2  ,3,16:41.2
+Tibro MK,2023,95,Ungdom E0,11,Alicia Isaksson,Falköpings MK,Suzuki,25:23.4  26:07.5  25:10.2  ,3,16:41.2
 ,,,,,,,,,,
-,,96,Motion 50-59,1400,Joakim Liljeblad,SMK Motala MC-Klubb,KTM,23:26.6  29:08.9  24:11.4  ,3,16:47.0
+Tibro MK,2023,96,Motion 50-59,1400,Joakim Liljeblad,SMK Motala MC-Klubb,KTM,23:26.6  29:08.9  24:11.4  ,3,16:47.0
 ,,,,,,,,,,
-,,97,Ungdom E0,50,Wilmer Kihlgren,Hjo MK,KTM,26:21.2  25:17.5  25:17.4  ,3,16:56.2
+Tibro MK,2023,97,Ungdom E0,50,Wilmer Kihlgren,Hjo MK,KTM,26:21.2  25:17.5  25:17.4  ,3,16:56.2
 ,,,,,,,,,,
-,,98,Motion 50-59,1246,Claes Gustafsson,Töreboda MK,KTM,25:45.2  26:54.9  25:16.4  ,3,17:56.6
+Tibro MK,2023,98,Motion 50-59,1246,Claes Gustafsson,Töreboda MK,KTM,25:45.2  26:54.9  25:16.4  ,3,17:56.6
 ,,,,,,,,,,
-,,99,Motion 50-59,1414,Björn-Ola Kronander,FMCK Borås,Husqvarna,26:44.3  26:04.6  25:14.7  ,3,18:03.6
+Tibro MK,2023,99,Motion 50-59,1414,Björn-Ola Kronander,FMCK Borås,Husqvarna,26:44.3  26:04.6  25:14.7  ,3,18:03.6
 ,,,,,,,,,,
-,,100,Ungdom E0,8,Sigrid Gunnarsson,Ma Lerum,Husqvarna,28:22.0  26:36.0  24:13.5  ,3,19:11.7
+Tibro MK,2023,100,Ungdom E0,8,Sigrid Gunnarsson,Ma Lerum,Husqvarna,28:22.0  26:36.0  24:13.5  ,3,19:11.7
 ,,,,,,,,,,
-,,101,Motion 50-59,1271,Roger Nyström,FMCK Borås,Husqvarna,26:03.0  26:37.5  26:34.3  ,3,19:14.9
+Tibro MK,2023,101,Motion 50-59,1271,Roger Nyström,FMCK Borås,Husqvarna,26:03.0  26:37.5  26:34.3  ,3,19:14.9
 ,,,,,,,,,,
-,,102,Motion 60-,1510,Stefan Pettersen,Falköpings MK,KTM,26:51.4  27:21.0  25:22.0  ,3,19:34.5
+Tibro MK,2023,102,Motion 60-,1510,Stefan Pettersen,Falköpings MK,KTM,26:51.4  27:21.0  25:22.0  ,3,19:34.5
 ,,,,,,,,,,
-,,103,Ungdom E0,69,Pontus Martinez Johansson,Töreboda MK,Yamaha,27:24.5  26:43.5  25:26.6  ,3,19:34.7
+Tibro MK,2023,103,Ungdom E0,69,Pontus Martinez Johansson,Töreboda MK,Yamaha,27:24.5  26:43.5  25:26.6  ,3,19:34.7
 ,,,,,,,,,,
-,,104,Ungdom E0,70,Melker Kihlgren,Hjo MK,KTM,29:07.4  25:55.5  24:34.7  ,3,19:37.8
+Tibro MK,2023,104,Ungdom E0,70,Melker Kihlgren,Hjo MK,KTM,29:07.4  25:55.5  24:34.7  ,3,19:37.8
 ,,,,,,,,,,
-,,105,Ungdom E0,52,Alvis Petersson,Norrahammars MK,Kawasaki,30:36.4  26:40.7  25:40.0  ,3,22:57.1
+Tibro MK,2023,105,Ungdom E0,52,Alvis Petersson,Norrahammars MK,Kawasaki,30:36.4  26:40.7  25:40.0  ,3,22:57.1
 ,,,,,,,,,,
-,,106,Ungdom E0,19,Douglas Sjöblom,SMK Värnamo,Husqvarna,19:57.5  19:39.7  ,2,39:37.2
+Tibro MK,2023,106,Ungdom E0,19,Douglas Sjöblom,SMK Värnamo,Husqvarna,19:57.5  19:39.7  ,2,39:37.2
 ,,,,,,,,,,
-,,107,Ungdom E0,90,Charlie Bergsten,SMK Värnamo,GasGas,22:06.6  21:54.1  ,2,44:00.8
+Tibro MK,2023,107,Ungdom E0,90,Charlie Bergsten,SMK Värnamo,GasGas,22:06.6  21:54.1  ,2,44:00.8
 ,,,,,,,,,,
-,,108,Motion 50-59,1342,Mikael Wargbäck,FMCK Borås,KTM,26:50.0  27:57.2  ,2,54:47.3
+Tibro MK,2023,108,Motion 50-59,1342,Mikael Wargbäck,FMCK Borås,KTM,26:50.0  27:57.2  ,2,54:47.3
 ,,,,,,,,,,
-,,109,Ungdom E0,16,Knut Persson,Tibro MK,Husqvarna,28:00.8  28:30.3  ,2,56:31.1
+Tibro MK,2023,109,Ungdom E0,16,Knut Persson,Tibro MK,Husqvarna,28:00.8  28:30.3  ,2,56:31.1
 ,,,,,,,,,,
-,,110,Motion Dam,459,Marie Gustafsson,Ulricehamns MK,Beta,28:54.3  29:38.7  ,2,58:33.0
+Tibro MK,2023,110,Motion Dam,459,Marie Gustafsson,Ulricehamns MK,Beta,28:54.3  29:38.7  ,2,58:33.0
 ,,,,,,,,,,
-,,111,Ungdom E0,41,Kevin Brand Pettersson,Tibro MK,Husqvarna,29:23.2  35:05.2  ,2,04:28.5
+Tibro MK,2023,111,Ungdom E0,41,Kevin Brand Pettersson,Tibro MK,Husqvarna,29:23.2  35:05.2  ,2,04:28.5
 ,,,,,,,,,,
-,,112,Ungdom E0,58,Alice Wahlström,Hallsbergs MK,Husqvarna,30:26.4  34:52.2  ,2,05:18.6
+Tibro MK,2023,112,Ungdom E0,58,Alice Wahlström,Hallsbergs MK,Husqvarna,30:26.4  34:52.2  ,2,05:18.6
 ,,,,,,,,,,
-,,113,Ungdom E0,26,Nils Kron,Falköpings MK,KTM,32:12.7  33:17.2  ,2,05:30.0
+Tibro MK,2023,113,Ungdom E0,26,Nils Kron,Falköpings MK,KTM,32:12.7  33:17.2  ,2,05:30.0
 ,,,,,,,,,,
-,,114,Motion 50-59,1203,Peter Appelqvist,Kortedala MK,Yamaha,19:48.0  ,1,19:48.0
+Tibro MK,2023,114,Motion 50-59,1203,Peter Appelqvist,Kortedala MK,Yamaha,19:48.0  ,1,19:48.0
 ,,,,,,,,,,
-,,115,Motion 50-59,1227,Anders Roth,Kristdala Motorsällskap,Sherco / Ostkustmx Racing Team,21:58.7  ,1,21:58.7
+Tibro MK,2023,115,Motion 50-59,1227,Anders Roth,Kristdala Motorsällskap,Sherco / Ostkustmx Racing Team,21:58.7  ,1,21:58.7
 ,,,,,,,,,,
-,,116,Motion 50-59,1279,Stefan Johansson,FMCK Skövde,GasGas,22:46.5  ,1,22:46.5
+Tibro MK,2023,116,Motion 50-59,1279,Stefan Johansson,FMCK Skövde,GasGas,22:46.5  ,1,22:46.5
 ,,,,,,,,,,
-,,117,Ungdom E0,40,Isac Tornberg,Carlsborgs MK,GasGas,26:42.4  ,1,26:42.4
+Tibro MK,2023,117,Ungdom E0,40,Isac Tornberg,Carlsborgs MK,GasGas,26:42.4  ,1,26:42.4
 ,,,,,,,,,,
-,,118,Ungdom E0,28,Olle Söderberg,Falköpings MK,KTM,30:46.3  ,1,30:46.3
+Tibro MK,2023,118,Ungdom E0,28,Olle Söderberg,Falköpings MK,KTM,30:46.3  ,1,30:46.3
 ,,,,,,,,,,
-,,119,Ungdom E0,9,William Sköld,Falköpings MK,KTM,31:22.0  ,1,31:22.0
+Tibro MK,2023,119,Ungdom E0,9,William Sköld,Falköpings MK,KTM,31:22.0  ,1,31:22.0
 ,,,,,,,,,,
-,,,Motion 50-59,1367,Anders Olsson,Götene MK,KTM,BRUTIT,0,00:00.0
+Tibro MK,2023,,Motion 50-59,1367,Anders Olsson,Götene MK,KTM,BRUTIT,0,00:00.0
 ,,,,,,,,,,
-,,,Motion 50-59,1368,Anders Engström,Stenungsunds MS,Husqvarna,BRUTIT,0,00:00.0
+Tibro MK,2023,,Motion 50-59,1368,Anders Engström,Stenungsunds MS,Husqvarna,BRUTIT,0,00:00.0
 ,,,,,,,,,,
-,,1,Ungdom E1,175,William Almén,SMK Värnamo,Husqvarna / Team Bloms MX Racing,17:31.1  17:27.5  18:06.3  ,3,53:05.1
+Tibro MK,2023,1,Ungdom E1,175,William Almén,SMK Värnamo,Husqvarna / Team Bloms MX Racing,17:31.1  17:27.5  18:06.3  ,3,53:05.1
 ,,2,Motion 40-49,1014,Per Korsell,Götene MK,Husaberg,17:28.7  17:45.7  18:01.5  ,3,53:16.0
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,3,Motion -39,539,Niklas Mörk,Laxå MK,KTM,17:42.0  17:59.3  18:06.8  ,3,53:48.1
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,4,Motion -39,519,Erik Larsson,Tibro MK,KTM,17:41.4  17:49.7  18:19.7  ,3,53:51.0
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,5,Ungdom E1,165,Hugo Hellström,Norrahammars MK,Sherco,18:01.7  18:05.1  18:28.0  ,3,54:34.9
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,6,Ungdom E1,183,Mille Söderblom,Hallsbergs MK,GasGas,18:04.9  18:17.2  18:14.7  ,3,54:36.9
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,7,Motion -39,620,Hampus Östensson,Hallsbergs MK,KTM,18:11.9  18:41.7  17:53.3  ,3,54:47.1
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,8,Ungdom E1,141,William Brehag Von Haugwitz,Carlsborgs MK,Yamaha,18:07.0  18:21.9  18:33.2  ,3,55:02.2
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,9,Motion -39,518,Alexander Fält,Försvarsmaktens EK,Honda,18:16.2  18:08.0  18:40.5  ,3,55:04.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,10,Ungdom E1,104,Theodor Popp,SMK Värnamo,Husqvarna,18:43.7  18:07.0  18:16.2  ,3,55:07.0
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,11,Ungdom E1,188,Liam Ljungström,SMK Vingåker,Beta,18:18.3  18:21.5  18:30.1  ,3,55:10.0
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,12,Motion 40-49,1111,Magnus Edberg,Huskvarna MK,KTM,18:44.7  18:05.2  18:25.8  ,3,55:15.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,13,Motion -39,552,Jakob Johansson,Tidaholms MK,KTM,18:23.6  18:15.6  18:39.6  ,3,55:18.9
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,14,Motion -39,568,Dennis Larsson,Örebro EK,KTM,18:28.7  18:45.0  18:28.8  ,3,55:42.7
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,15,Motion -39,513,Joacim Wigertson,Kullings MS,KTM,18:41.0  18:39.7  18:37.5  ,3,55:58.3
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,16,Motion 40-49,924,Sebastian Carlsson,SMK Vadstena,Husqvarna,18:50.9  18:34.4  18:35.1  ,3,56:00.4
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,17,Ungdom E1,151,Liam Nilsson,FMCK Skövde,Husqvarna,18:31.5  18:36.1  18:53.8  ,3,56:01.4
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,18,Motion -39,577,Måns Dalén,FMCK Skövde,KTM / Team A-Moto,18:37.3  18:45.7  18:52.2  ,3,56:15.2
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,19,Motion -39,520,Linus Ernstsson,Bengtsfors MCC,Husqvarna,18:44.9  18:47.8  18:58.2  ,3,56:31.1
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,20,Motion -39,536,Andreas Mörk,Laxå MK,KTM,18:44.2  18:56.7  18:51.0  ,3,56:32.0
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,21,Ungdom E1,105,Alfred Gustavsson,Mariestads EK,GasGas,18:38.6  18:55.2  19:02.1  ,3,56:36.0
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,22,Motion 40-49,944,Niklas Strömberg,Götene MK,Honda,18:50.5  19:03.4  19:07.2  ,3,57:01.3
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,23,Motion 40-49,964,Andreas Remfäldt,Mariestads EK,KTM,19:10.3  19:17.7  18:41.1  ,3,57:09.3
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,24,Motion -39,794,Joel Kvist,Försvarsmaktens EK,Husqvarna,19:05.8  18:55.6  19:07.8  ,3,57:09.3
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,25,Ungdom E1,184,Sven Höglander,Djursdala SK,Husqvarna / Team Bloms MX Racing,19:01.8  18:46.5  19:22.3  ,3,57:10.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,26,Motion 40-49,923,Stefan Liljedahl,Tibro MK,Honda,18:54.4  18:58.6  19:24.9  ,3,57:18.0
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,27,Motion 40-49,931,Mårten Gustavsson,Försvarsmaktens EK,KTM,19:33.9  19:00.2  18:49.4  ,3,57:23.6
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,28,Motion -39,547,Felix Johansson,Kinds MK,Honda,18:58.7  19:21.6  19:20.0  ,3,57:40.4
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,29,Ungdom E1,162,Axel Plogner,Karlstad MX Klubb,Sherco / Team MC-Center Karlstad,19:29.3  19:13.6  19:08.5  ,3,57:51.5
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,30,Motion -39,639,Melker Jansson,Karlskoga EK,KTM,19:10.0  19:33.0  19:15.3  ,3,57:58.3
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,31,Motion 40-49,976,Joakim Ericsson,Töreboda MK,KTM,19:39.3  19:16.4  19:23.4  ,3,58:19.2
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,32,Motion -39,581,Harald Lindholm,Älvbygdens MK,Husqvarna,19:49.5  19:27.9  19:26.3  ,3,58:43.7
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,33,Motion 40-49,962,Jonas Bergqvist,Skene MS,Beta,19:54.1  19:35.5  19:28.7  ,3,58:58.5
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,34,Motion -39,527,George Svantesson,Kullings MS,KTM,19:20.5  20:28.8  19:13.7  ,3,59:03.2
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,35,Motion 40-49,972,Jonas Svensson,Hallsbergs MK,Yamaha,19:46.0  19:52.1  19:37.8  ,3,59:16.0
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,36,Motion -39,551,Melker Svantesson,Kullings MS,KTM,19:47.8  19:43.0  19:59.6  ,3,59:30.5
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,37,Motion -39,524,Marcus Hjelm,Falköpings MK,Kawasaki,20:09.6  19:57.3  19:25.3  ,3,59:32.2
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,38,Motion -39,599,Jonathan Petersson,SMK Trollhättan,KTM,20:05.1  19:52.8  19:40.7  ,3,59:38.7
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,39,Motion 40-49,960,Fredric Randström,Hagfors MS,Beta,19:43.8  19:51.3  20:04.2  ,3,59:39.3
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,40,Motion 40-49,911,Ronny Eskengren,Älvbygdens MK,KTM,20:03.7  19:45.8  19:57.5  ,3,59:47.1
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,41,Motion -39,537,Emil Meijer,Götene MK,Yamaha,19:51.8  19:45.1  20:12.5  ,3,59:49.6
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,42,Motion -39,580,Albin Pettersson,Kristdala Motorsällskap,KTM / Ostkustmx Racing Team,19:51.0  19:50.1  20:12.1  ,3,59:53.3
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,43,Motion 40-49,918,Andréas Svensson,Stenungsunds MS,KTM,20:05.6  19:54.8  19:54.5  ,3,59:55.0
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,44,Motion 40-49,995,Oddbjørn Sandvik,Flittig Enduro,KTM,20:23.3  20:03.6  19:39.7  ,3,00:06.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,45,Motion -39,572,Axel Karlsson,Laxå MK,KTM,20:03.8  20:03.6  20:00.3  ,3,00:07.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,46,Motion 40-49,961,Daniel Lundqvist,Töreboda MK,Husqvarna,19:48.0  20:08.0  20:22.7  ,3,00:18.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,47,Motion 40-49,986,Rikard Skerget,Stenungsunds MS,KTM,20:05.4  20:07.0  20:08.9  ,3,00:21.4
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,48,Motion 40-49,978,Johan Karlsson,Älvbygdens MK,Husqvarna,20:10.2  20:09.8  20:08.7  ,3,00:28.9
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,49,Motion -39,509,Jonathan Storm,Kortedala MK,KTM,20:16.3  20:14.5  20:15.7  ,3,00:46.6
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,50,Motion -39,530,Patrik Olsson,Lilla Edets MCK,Beta,20:36.1  20:14.3  19:59.3  ,3,00:49.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,51,Motion -39,799,Patrik Förkrök Ledström,SMK Vadstena,KTM,20:34.7  20:13.6  20:02.3  ,3,00:50.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,52,Motion 40-49,900,Hans Torsborn,Ulricehamns MK,KTM,20:40.1  20:06.0  20:05.4  ,3,00:51.5
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,53,Motion 40-49,928,Johan Debrianté,SMK Ljungby,TM,20:11.5  20:41.3  20:02.8  ,3,00:55.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,54,Motion 40-49,997,Robert Strandberg,Hjo MK,Yamaha,20:28.9  20:17.9  20:09.9  ,3,00:56.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,55,Motion -39,631,Dennis Olesen,Kullings MS,KTM,20:20.9  20:24.4  20:28.6  ,3,01:13.9
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,56,Motion -39,533,Jimmy Josefsson,Skene MS,Beta,20:18.3  20:44.8  20:10.9  ,3,01:14.1
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,57,Motion -39,811,Björn Axelsson,FMCK Skövde,Yamaha,20:20.1  20:16.4  20:46.3  ,3,01:22.9
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,58,Motion -39,729,Gustav Malm,Hallsbergs MK,Husqvarna / Team Marin & Fritid,20:29.1  20:36.8  20:25.9  ,3,01:31.9
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,59,Motion 40-49,1022,Daniel Jönsson,Vimmerby MS,Husaberg,21:02.7  20:27.1  20:04.1  ,3,01:34.1
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,60,Motion -39,559,Jesper Herngren,Falköpings MK,Husqvarna,20:35.2  20:42.9  20:20.7  ,3,01:38.9
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,61,Motion 40-49,901,Mattias Eriksson,Varbergs MK,Sherco,20:25.2  20:28.2  20:47.0  ,3,01:40.4
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,62,Motion 40-49,941,Lars-Olof Lindström,FMCK Borås,KTM,20:47.6  20:28.3  20:27.5  ,3,01:43.4
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,63,Motion 40-49,947,Magnus Enander,Ulricehamns MK,KTM,20:39.9  20:46.9  20:17.4  ,3,01:44.3
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,64,Motion -39,786,Anton Persson,Tibro MK,Sherco,20:38.2  20:17.1  20:49.4  ,3,01:44.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,65,Motion -39,632,Viktor Hultman,Mariestads EK,GasGas,20:24.1  20:43.1  20:38.8  ,3,01:46.1
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,66,Motion 40-49,908,Martin Börjesson,FMCK Borås,KTM,20:46.7  20:33.5  20:26.9  ,3,01:47.2
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,67,Motion 40-49,952,Christian Johansson,Tidaholms MK,KTM,20:26.4  20:28.0  21:00.1  ,3,01:54.6
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,68,Ungdom E1,145,Wilmer Jansson,Tidaholms MK,KTM,20:37.9  20:44.8  20:32.6  ,3,01:55.4
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,69,Motion -39,589,Joel Rådberg,SMK Trollhättan,Husqvarna,20:55.5  20:43.6  20:21.5  ,3,02:00.6
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,70,Motion -39,504,Christer Strand,Tibro MK,GasGas,20:36.5  20:55.3  20:40.6  ,3,02:12.6
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,71,Motion 40-49,913,Daniel Blomqvist,FMCK Skövde,TM,20:54.5  20:40.5  20:39.9  ,3,02:15.0
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,72,Motion -39,501,Linus Kjellström,Götene MK,Husqvarna,20:40.0  20:48.0  20:50.4  ,3,02:18.5
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,73,Ungdom E1,125,Wiggo Hansson,Tidaholms MK,KTM,20:43.8  21:16.1  20:28.7  ,3,02:28.7
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,74,Motion 40-49,917,Tomas Blom,Hallsbergs MK,Sherco,20:40.9  21:00.0  20:57.7  ,3,02:38.7
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,75,Motion -39,727,Andreas Almroth,Borås MK,KTM,20:58.5  21:06.2  20:37.4  ,3,02:42.2
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,76,Motion -39,562,Johan Hedström,Kinds MK,KTM,20:32.4  21:17.8  21:00.9  ,3,02:51.3
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,77,Motion -39,541,Patric Gustafsson,Huskvarna MK,KTM,20:49.2  20:53.3  21:12.6  ,3,02:55.1
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,78,Motion -39,500,Tommy Oldenburg,FMCK Skövde,KTM,20:47.2  21:06.4  21:05.8  ,3,02:59.6
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,79,Motion -39,542,Bernard Abrahamsson,FMCK BohusDal,KTM,21:24.3  20:39.5  21:00.7  ,3,03:04.6
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,80,Motion 40-49,943,Anton Gustavsson,Mariestads EK,KTM,20:58.7  20:51.7  21:18.5  ,3,03:09.0
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,81,Motion -39,591,Thim Svensson,Vissefjärda EK,Yamaha,21:08.4  20:41.2  21:20.9  ,3,03:10.6
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,82,Motion -39,516,Dennis Ring,FMCK Borås,Husqvarna,21:23.7  20:59.1  20:58.9  ,3,03:21.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,83,Motion -39,515,Gustav Strinne,Edsvära MCK,KTM,20:42.2  21:32.6  21:19.9  ,3,03:34.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,84,Ungdom E1,103,Lisa Nyqvist,Stenungsunds MS,KTM / Speedequipment MX Team,21:19.0  21:06.0  21:14.2  ,3,03:39.2
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,85,Motion -39,823,Isak Ljungström,Hallsbergs MK,KTM,21:17.8  21:13.5  21:14.0  ,3,03:45.3
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,86,Motion -39,550,Eric Gustafsson,SMK Vingåker,KTM,21:08.5  21:00.0  21:36.8  ,3,03:45.4
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,87,Motion -39,667,Philip Baumgartner,Götene MK,Husqvarna,21:23.3  21:15.8  21:13.3  ,3,03:52.5
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,88,Motion 40-49,932,Niklas Utterberg,Norrahammars MK,KTM,21:36.4  21:08.5  21:16.1  ,3,04:01.2
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,89,Motion 40-49,904,Henrik Lindström,FMCK Borås,KTM,21:45.7  21:15.2  21:04.8  ,3,04:05.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,90,Motion -39,689,Jonatan Svantesson,Kullings MS,Yamaha,21:55.5  21:21.0  21:02.4  ,3,04:19.0
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,91,Motion 40-49,930,Jonas Lyttbacka,Örebro EK,Husqvarna,21:35.0  21:18.8  21:39.7  ,3,04:33.6
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,92,Motion -39,556,Tommy Gustafsson,Huskvarna MK,Husqvarna,21:31.4  21:48.9  21:13.7  ,3,04:34.1
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,93,Ungdom E1,181,Emil Gabrielsson,Skene MS,Yamaha,21:28.6  21:43.4  21:25.7  ,3,04:37.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,94,Motion -39,718,Isac Svensson,Vissefjärda EK,Yamaha,22:28.3  21:05.2  21:06.5  ,3,04:40.1
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,95,Motion -39,601,Joel Björkman,SMK Kolmården,KTM,21:45.2  21:40.8  21:20.9  ,3,04:47.0
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,96,Motion 40-49,1004,Rickard Persson,Tibro MK,Sherco,21:35.8  21:39.4  21:38.8  ,3,04:54.1
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,97,Motion -39,502,Johan Svensson,Falköpings MK,Yamaha,22:03.7  21:48.1  21:09.1  ,3,05:00.9
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,98,Motion -39,558,Albin Strandhag,FMCK Skövde,,21:28.5  21:42.6  21:59.3  ,3,05:10.5
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,99,Motion -39,728,Arvid Siggesson,Tibro MK,Honda,21:36.6  23:27.0  20:18.2  ,3,05:21.9
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,100,Motion -39,544,Anton Isaksson,Götene MK,Husaberg,21:52.7  21:48.5  21:53.8  ,3,05:35.2
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,101,Motion -39,669,Albin Johansson,Lidköpings MCK,Yamaha,22:12.1  21:42.6  21:41.6  ,3,05:36.3
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,102,Motion -39,517,Simon Gustafsson,Älvbygdens MK,Husqvarna,21:56.5  21:49.2  22:02.1  ,3,05:47.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,103,Motion 40-49,990,Johan Kjellson,FMCK Skövde,KTM,21:19.7  22:07.8  22:36.7  ,3,06:04.3
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,104,Motion 40-49,958,Erik Bergstrand,Oskarshamns MSK,Sherco / Ostkustmx Racing Team,21:26.8  22:38.3  21:59.9  ,3,06:05.1
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,105,Motion 40-49,919,Robert Ahlin,Falköpings MK,KTM,21:39.0  22:19.0  22:07.7  ,3,06:05.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,106,Motion 40-49,984,Robban Markusson,SMK Vadstena,Suzuki,22:19.2  21:43.6  22:15.3  ,3,06:18.2
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,107,Motion -39,565,Erik Wallskog,Töreboda MK,KTM,21:37.3  22:21.8  22:23.6  ,3,06:22.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,108,Motion -39,543,Axel Gustafsson,Lidköpings MCK,KTM,20:59.6  20:38.3  24:55.5  ,3,06:33.5
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,109,Motion 40-49,907,Jonas Milefors,Kortedala MK,Husqvarna,21:47.5  22:15.0  22:32.1  ,3,06:34.7
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,110,Motion 40-49,963,Ronny Larsen,Flittig Enduro,Husqvarna,21:52.4  22:21.7  22:25.6  ,3,06:39.7
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,111,Motion -39,771,Edvin Blad,Oskarshamns MSK,Husqvarna / Ostkustmx Racing Team,22:17.0  22:35.9  21:52.0  ,3,06:45.0
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,112,Motion -39,583,Karim Chanane,FMCK Skövde,Husqvarna,22:06.0  22:57.4  22:07.6  ,3,07:11.1
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,113,Motion -39,883,Filip Johansson,Skene MS,Sherco,21:51.4  22:48.6  22:35.1  ,3,07:15.2
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,114,Motion -39,652,Filip Johansson,Tidaholms MK,KTM,21:53.9  22:54.6  22:43.6  ,3,07:32.1
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,115,Motion 40-49,915,Martin Jonsson,Töreboda MK,GasGas,22:04.7  22:56.4  22:41.6  ,3,07:42.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,116,Motion -39,529,Jacob Emilsson,Kristdala Motorsällskap,Sherco / Ostkustmx Racing Team,22:11.4  24:06.7  21:48.2  ,3,08:06.3
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,117,Motion -39,699,Anton Johansson,FMCK Borås,Suzuki,22:09.1  21:55.3  24:36.7  ,3,08:41.1
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,118,Motion 40-49,980,Niclas Sjökvist,FMCK Borås,KTM,24:02.3  23:01.2  23:07.6  ,3,10:11.3
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,119,Motion 40-49,974,Ulric Karlsson,Tidaholms MK,Husqvarna,23:37.3  23:35.1  23:23.5  ,3,10:35.9
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,120,Motion 40-49,926,Mark Edvardsson,Alingsås MCK,KTM,23:57.5  22:47.7  23:51.5  ,3,10:36.7
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,121,Motion 40-49,982,Cristoffer Matlak,Alingsås MCK,KTM,24:01.2  22:50.6  23:54.6  ,3,10:46.6
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,122,Ungdom E1,126,Marwin Wik,Skene MS,Sherco / Team VIXUS MC,23:44.3  22:55.0  24:08.1  ,3,10:47.5
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,123,Motion 40-49,906,Anders Billestedt Andersson,Stenungsunds MS,KTM,23:26.3  24:08.8  23:44.1  ,3,11:19.3
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,124,Motion -39,707,Svante Strömberg,Götene MK,,24:21.3  23:48.0  23:11.4  ,3,11:20.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,125,Motion -39,769,Nils Jadermark,Karlskoga MF,Husqvarna,23:53.2  24:41.0  22:52.4  ,3,11:26.7
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,126,Motion -39,594,Anton Torgin,Donkelo RK,Honda,24:07.7  24:09.4  23:21.3  ,3,11:38.5
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,127,Motion -39,764,Andreas Jankowiak,Stenungsunds MS,TM,23:43.6  24:36.7  23:20.8  ,3,11:41.1
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,128,Ungdom E1,115,Simon Rutgersson,Stenungsunds MS,Husqvarna,21:32.4  28:57.0  21:16.5  ,3,11:46.1
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,129,Motion -39,590,Tobias Hagelin,FMCK Borås,KTM,24:22.6  23:49.1  23:50.0  ,3,12:01.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,130,Ungdom E1,199,William Blom,Skene MS,Yamaha,23:29.5  24:35.6  24:37.0  ,3,12:42.2
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,131,Motion 40-49,999,Johan Törnqvist,FMCK Skövde,KTM,23:27.4  24:33.1  24:43.9  ,3,12:44.6
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,132,Ungdom E1,111,Anton Andersson,Norrahammars MK,Beta,22:19.2  28:16.2  22:46.9  ,3,13:22.4
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,133,Ungdom E1,124,Sam Aronsson,Töreboda MK,KTM,24:19.6  24:57.5  24:52.8  ,3,14:10.1
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,134,Motion 40-49,914,Emil Kårlin,Lilla Edets MCK,Husqvarna,24:55.0  26:12.7  25:21.9  ,3,16:29.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,135,Motion -39,602,Oskar Johansson,Linköpings MS,KTM,30:15.9  25:11.1  23:14.6  ,3,18:41.7
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,136,Motion -39,508,Maria Thomsen,FMCK Borås,Husqvarna,25:39.3  27:05.7  26:11.3  ,3,18:56.4
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,137,Motion 40-49,983,Magnus Lilja,Älvbygdens MK,KTM,26:43.9  27:11.7  25:11.3  ,3,19:07.0
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,138,Ungdom E1,176,Erik Larsson,Tibro MK,Beta,27:06.6  26:34.0  26:03.2  ,3,19:43.9
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,139,Motion 40-49,921,Kent Aasheim,Emsk,Yamaha / Kenta,27:28.9  26:56.3  25:29.7  ,3,19:55.0
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,140,Motion 40-49,1020,Jonas Gustafsson,Götene MK,KTM,20:53.4  21:31.2  ,2,42:24.7
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,141,Motion 40-49,1030,Daniel Karlsson,Skene MS,Husqvarna,25:18.8  24:00.2  ,2,49:19.0
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,142,Motion 40-49,902,Andreas Sandberg,FMCK Borås,KTM,29:53.0  29:36.5  ,2,59:29.5
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,143,Ungdom E1,187,Ludwig Demegård,Tibro MK,KTM,29:47.0  29:54.6  ,2,59:41.7
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,144,Ungdom E1,109,Maja Reyper,Oskarshamns MSK,Sherco / Ostkustmx Racing Team,37:08.0  31:46.0  ,2,08:54.1
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,145,Motion 40-49,975,Hannu Ylipekkala,Anderstorp RC,KTM,22:08.9  48:19.9  ,2,10:28.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,146,Motion 40-49,1011,Mikael Hjelm,Finspångs MS,KTM,20:07.4  ,1,20:07.4
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,147,Motion 40-49,950,Johan Elfving,Ulricehamns MK,KTM,21:41.8  ,1,21:41.8
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,148,Motion 40-49,920,Christoffer Johnsson,Hisingens MK,Sherco,22:32.5  ,1,22:32.5
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,149,Ungdom E1,122,Tuva Sahlin Palmstedt,Lidköpings MCK,KTM,23:46.5  ,1,23:46.5
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,150,Motion 40-49,1017,Henrik Hermansson,SMK Vadstena,Sherco,24:30.1  ,1,24:30.1
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,151,Motion 40-49,954,Christian Appelgren,Stenungsunds MS,Sherco,25:19.2  ,1,25:19.2
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,152,Motion -39,592,Ludvig Nilsson,Anderstorp RC,KTM,34:45.1  ,1,34:45.1
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,153,Ungdom E1,102,Liam Qvist,Åbågen MCK,Honda / Team cljp Sweden,,0,00:00.0
-,,,,,,,,,,
+Tibro MK,2023,,,,,,,,,
 ,,1,Senior,3,Jesper Börjesson,Tibro MK,Sherco / Team SHERCO SWEDEN,15:53.8  15:51.8  15:59.5  16:18.4  16:22.3  ,5,20:26.1
-,,2,Senior,78,Adam Fast,SMK Vingåker,KTM,16:28.7  16:33.1  16:15.0  16:24.4  16:02.2  ,5,21:43.6
+Tibro MK,2023,2,Senior,78,Adam Fast,SMK Vingåker,KTM,16:28.7  16:33.1  16:15.0  16:24.4  16:02.2  ,5,21:43.6
 ,,,,,,,,,,
-,,3,Senior,14,Pontus Skoog,Karlskoga EK,Beta,16:22.2  16:24.3  16:21.4  16:22.4  16:13.8  ,5,21:44.3
+Tibro MK,2023,3,Senior,14,Pontus Skoog,Karlskoga EK,Beta,16:22.2  16:24.3  16:21.4  16:22.4  16:13.8  ,5,21:44.3
 ,,,,,,,,,,
-,,4,Senior,59,Anton Sandstedt,Tibro MK,Sherco / Team SHERCO SWEDEN,16:42.6  16:29.4  16:20.8  16:21.5  16:17.2  ,5,22:11.8
+Tibro MK,2023,4,Senior,59,Anton Sandstedt,Tibro MK,Sherco / Team SHERCO SWEDEN,16:42.6  16:29.4  16:20.8  16:21.5  16:17.2  ,5,22:11.8
 ,,,,,,,,,,
-,,5,Junior,191,Isac Friman,Tidaholms MK,Sherco / Team SHERCO SWEDEN,16:34.7  16:35.8  16:25.3  16:23.2  16:16.8  ,5,22:16.0
+Tibro MK,2023,5,Junior,191,Isac Friman,Tidaholms MK,Sherco / Team SHERCO SWEDEN,16:34.7  16:35.8  16:25.3  16:23.2  16:16.8  ,5,22:16.0
 ,,,,,,,,,,
-,,6,Senior,15,Victor Fahlén,Försvarsmaktens EK,Yamaha,16:35.8  16:38.8  16:26.7  16:31.9  16:23.0  ,5,22:36.4
+Tibro MK,2023,6,Senior,15,Victor Fahlén,Försvarsmaktens EK,Yamaha,16:35.8  16:38.8  16:26.7  16:31.9  16:23.0  ,5,22:36.4
 ,,,,,,,,,,
-,,7,Junior,186,Alvin Ceder,Götene MK,GasGas,16:29.7  16:34.9  16:27.7  16:42.4  16:42.2  ,5,22:57.1
+Tibro MK,2023,7,Junior,186,Alvin Ceder,Götene MK,GasGas,16:29.7  16:34.9  16:27.7  16:42.4  16:42.2  ,5,22:57.1
 ,,,,,,,,,,
-,,8,Senior,20,Robert Friberg,FMCK Skövde,Husqvarna,16:33.0  16:47.3  16:39.8  16:28.0  16:35.1  ,5,23:03.4
+Tibro MK,2023,8,Senior,20,Robert Friberg,FMCK Skövde,Husqvarna,16:33.0  16:47.3  16:39.8  16:28.0  16:35.1  ,5,23:03.4
 ,,,,,,,,,,
-,,9,Senior,5,Nisse Bengtsson,Tidaholms MK,Sherco / Team SHERCO SWEDEN,16:35.9  17:00.8  16:34.3  16:36.5  16:21.0  ,5,23:08.8
+Tibro MK,2023,9,Senior,5,Nisse Bengtsson,Tidaholms MK,Sherco / Team SHERCO SWEDEN,16:35.9  17:00.8  16:34.3  16:36.5  16:21.0  ,5,23:08.8
 ,,,,,,,,,,
-,,10,Senior,40,Anton Nordh,FMCK Skövde,Honda,17:08.8  16:38.8  16:35.7  16:33.4  16:19.6  ,5,23:16.5
+Tibro MK,2023,10,Senior,40,Anton Nordh,FMCK Skövde,Honda,17:08.8  16:38.8  16:35.7  16:33.4  16:19.6  ,5,23:16.5
 ,,,,,,,,,,
-,,11,Senior,8,Marcus Adielsson,Tibro MK,Beta,16:46.8  16:48.1  16:37.9  16:37.8  16:26.5  ,5,23:17.3
+Tibro MK,2023,11,Senior,8,Marcus Adielsson,Tibro MK,Beta,16:46.8  16:48.1  16:37.9  16:37.8  16:26.5  ,5,23:17.3
 ,,,,,,,,,,
-,,12,Junior,198,Kalle Ahlin,Falköpings MK,Husqvarna / Team Triple One,16:39.3  17:06.7  16:42.2  16:48.0  16:36.4  ,5,23:52.9
+Tibro MK,2023,12,Junior,198,Kalle Ahlin,Falköpings MK,Husqvarna / Team Triple One,16:39.3  17:06.7  16:42.2  16:48.0  16:36.4  ,5,23:52.9
 ,,,,,,,,,,
-,,13,Senior,52,Emil Gustavsson,Tibro MK,KTM / Team Bloms MX Racing,16:58.1  16:51.3  16:45.2  16:41.5  16:43.6  ,5,24:00.0
+Tibro MK,2023,13,Senior,52,Emil Gustavsson,Tibro MK,KTM / Team Bloms MX Racing,16:58.1  16:51.3  16:45.2  16:41.5  16:43.6  ,5,24:00.0
 ,,,,,,,,,,
-,,14,Junior,111,Marcel Tara,Tibro MK,KTM,16:55.0  16:41.0  16:48.6  16:36.2  17:04.0  ,5,24:04.9
+Tibro MK,2023,14,Junior,111,Marcel Tara,Tibro MK,KTM,16:55.0  16:41.0  16:48.6  16:36.2  17:04.0  ,5,24:04.9
 ,,,,,,,,,,
-,,15,Senior,7,Casper Lindholm,Linköpings MS,Husqvarna / Team Bloms MX Racing,15:54.8  19:58.8  16:18.9  16:09.7  16:01.4  ,5,24:23.8
+Tibro MK,2023,15,Senior,7,Casper Lindholm,Linköpings MS,Husqvarna / Team Bloms MX Racing,15:54.8  19:58.8  16:18.9  16:09.7  16:01.4  ,5,24:23.8
 ,,,,,,,,,,
-,,16,Senior,50,Anders Eriksson,Tibro MK,Sherco / Team SHERCO SWEDEN,16:48.9  16:49.3  16:52.1  17:00.5  17:12.3  ,5,24:43.3
+Tibro MK,2023,16,Senior,50,Anders Eriksson,Tibro MK,Sherco / Team SHERCO SWEDEN,16:48.9  16:49.3  16:52.1  17:00.5  17:12.3  ,5,24:43.3
 ,,,,,,,,,,
-,,17,Junior,182,Arvid Karlsson,FMCK Skövde,GasGas / CEC RACING,17:34.6  17:51.5  17:15.1  16:54.9  16:45.3  ,5,26:21.6
+Tibro MK,2023,17,Junior,182,Arvid Karlsson,FMCK Skövde,GasGas / CEC RACING,17:34.6  17:51.5  17:15.1  16:54.9  16:45.3  ,5,26:21.6
 ,,,,,,,,,,
-,,18,Junior,109,Jesper Storm,Tidaholms MK,KTM,17:13.5  17:36.5  17:11.7  17:09.1  17:24.5  ,5,26:35.5
+Tibro MK,2023,18,Junior,109,Jesper Storm,Tidaholms MK,KTM,17:13.5  17:36.5  17:11.7  17:09.1  17:24.5  ,5,26:35.5
 ,,,,,,,,,,
-,,19,Senior,32,Tobias Carlsson,Norrahammars MK,Sherco,17:17.2  17:38.3  17:25.0  17:10.9  17:07.6  ,5,26:39.2
+Tibro MK,2023,19,Senior,32,Tobias Carlsson,Norrahammars MK,Sherco,17:17.2  17:38.3  17:25.0  17:10.9  17:07.6  ,5,26:39.2
 ,,,,,,,,,,
-,,20,Junior,106,Dennis Henberg,Hjo MK,Sherco,16:50.3  17:01.5  16:47.3  17:40.0  18:24.4  ,5,26:43.6
+Tibro MK,2023,20,Junior,106,Dennis Henberg,Hjo MK,Sherco,16:50.3  17:01.5  16:47.3  17:40.0  18:24.4  ,5,26:43.6
 ,,,,,,,,,,
-,,21,Junior,137,Alfred Karlsson,FMCK Skövde,GasGas / CEC RACING,17:33.0  17:34.2  17:22.2  17:01.8  17:18.8  ,5,26:50.1
+Tibro MK,2023,21,Junior,137,Alfred Karlsson,FMCK Skövde,GasGas / CEC RACING,17:33.0  17:34.2  17:22.2  17:01.8  17:18.8  ,5,26:50.1
 ,,,,,,,,,,
-,,22,Junior,105,Hugo Svensson,Vimmerby MS,KTM,17:48.0  17:43.8  17:18.1  17:06.0  17:11.2  ,5,27:07.3
+Tibro MK,2023,22,Junior,105,Hugo Svensson,Vimmerby MS,KTM,17:48.0  17:43.8  17:18.1  17:06.0  17:11.2  ,5,27:07.3
 ,,,,,,,,,,
-,,23,Senior,22,Sebastian Cederbrant,Gotland Enduro Cross MS,KTM,17:50.4  17:42.3  17:22.6  17:13.0  17:17.1  ,5,27:25.6
+Tibro MK,2023,23,Senior,22,Sebastian Cederbrant,Gotland Enduro Cross MS,KTM,17:50.4  17:42.3  17:22.6  17:13.0  17:17.1  ,5,27:25.6
 ,,,,,,,,,,
-,,24,Junior,107,Lukas Engerstad,Skene MS,Yamaha,18:09.8  17:45.1  17:46.5  17:32.8  17:23.7  ,5,28:38.1
+Tibro MK,2023,24,Junior,107,Lukas Engerstad,Skene MS,Yamaha,18:09.8  17:45.1  17:46.5  17:32.8  17:23.7  ,5,28:38.1
 ,,,,,,,,,,
-,,25,Junior,131,Hugo Andersson,Tibro MK,Sherco,17:40.0  17:32.2  17:44.0  17:52.8  18:04.0  ,5,28:53.2
+Tibro MK,2023,25,Junior,131,Hugo Andersson,Tibro MK,Sherco,17:40.0  17:32.2  17:44.0  17:52.8  18:04.0  ,5,28:53.2
 ,,,,,,,,,,
-,,26,Junior,171,Sixten Lundgren,Norrahammars MK,GasGas,17:29.6  18:16.1  17:48.3  18:02.4  17:33.1  ,5,29:09.8
+Tibro MK,2023,26,Junior,171,Sixten Lundgren,Norrahammars MK,GasGas,17:29.6  18:16.1  17:48.3  18:02.4  17:33.1  ,5,29:09.8
 ,,,,,,,,,,
-,,27,Junior,149,Linus Knutsson,Falköpings MK,KTM,17:55.5  18:02.6  18:00.8  17:57.7  18:06.9  ,5,30:03.8
+Tibro MK,2023,27,Junior,149,Linus Knutsson,Falköpings MK,KTM,17:55.5  18:02.6  18:00.8  17:57.7  18:06.9  ,5,30:03.8
 ,,,,,,,,,,
-,,28,Junior,118,Emil Mann,Falköpings MK,KTM,18:02.4  18:03.7  17:57.5  17:59.0  18:01.8  ,5,30:04.7
+Tibro MK,2023,28,Junior,118,Emil Mann,Falköpings MK,KTM,18:02.4  18:03.7  17:57.5  17:59.0  18:01.8  ,5,30:04.7
 ,,,,,,,,,,
-,,29,Junior,125,Oliver Önnefors,FMCK Skövde,KTM,18:31.0  18:04.6  17:58.0  18:01.2  17:40.6  ,5,30:15.7
+Tibro MK,2023,29,Junior,125,Oliver Önnefors,FMCK Skövde,KTM,18:31.0  18:04.6  17:58.0  18:01.2  17:40.6  ,5,30:15.7
 ,,,,,,,,,,
-,,30,Junior,190,Mattias Cöster,SMK Östgöta,KTM,18:01.6  18:17.9  18:13.5  18:00.5  17:56.2  ,5,30:29.9
+Tibro MK,2023,30,Junior,190,Mattias Cöster,SMK Östgöta,KTM,18:01.6  18:17.9  18:13.5  18:00.5  17:56.2  ,5,30:29.9
 ,,,,,,,,,,
-,,31,Junior,114,Melvin Blom,Bodafors MK,Husqvarna,17:52.5  17:54.6  18:21.4  18:07.6  18:28.2  ,5,30:44.4
+Tibro MK,2023,31,Junior,114,Melvin Blom,Bodafors MK,Husqvarna,17:52.5  17:54.6  18:21.4  18:07.6  18:28.2  ,5,30:44.4
 ,,,,,,,,,,
-,,32,Junior,112,Viggo Johansson,SMK Eksjö,KTM,18:13.6  18:55.8  18:40.9  18:34.2  18:44.5  ,5,33:09.3
+Tibro MK,2023,32,Junior,112,Viggo Johansson,SMK Eksjö,KTM,18:13.6  18:55.8  18:40.9  18:34.2  18:44.5  ,5,33:09.3
 ,,,,,,,,,,
-,,33,Junior,103,Arvid Hellqvist,Töreboda MK,Beta,18:27.3  19:06.5  18:55.6  18:34.5  18:56.6  ,5,34:00.6
+Tibro MK,2023,33,Junior,103,Arvid Hellqvist,Töreboda MK,Beta,18:27.3  19:06.5  18:55.6  18:34.5  18:56.6  ,5,34:00.6
 ,,,,,,,,,,
-,,34,Junior,101,Arvid Petersson,Tranemo MK,KTM,19:04.9  19:19.3  19:06.2  18:36.1  18:35.2  ,5,34:41.9
+Tibro MK,2023,34,Junior,101,Arvid Petersson,Tranemo MK,KTM,19:04.9  19:19.3  19:06.2  18:36.1  18:35.2  ,5,34:41.9
 ,,,,,,,,,,
-,,35,Junior,104,Emil Löf,Karlskoga EK,KTM,18:09.0  19:21.5  19:11.7  19:15.4  18:55.6  ,5,34:53.4
+Tibro MK,2023,35,Junior,104,Emil Löf,Karlskoga EK,KTM,18:09.0  19:21.5  19:11.7  19:15.4  18:55.6  ,5,34:53.4
 ,,,,,,,,,,
-,,36,Junior,145,Ludvig Hamberg,FMCK Skövde,KTM,19:22.6  19:52.7  20:19.1  19:41.8  19:50.9  ,5,39:07.3
+Tibro MK,2023,36,Junior,145,Ludvig Hamberg,FMCK Skövde,KTM,19:22.6  19:52.7  20:19.1  19:41.8  19:50.9  ,5,39:07.3
 ,,,,,,,,,,
-,,37,Junior,134,Max Nordmark,Varbergs MK,Honda,21:17.3  20:52.4  21:53.4  22:00.1  21:38.2  ,5,47:41.5
+Tibro MK,2023,37,Junior,134,Max Nordmark,Varbergs MK,Honda,21:17.3  20:52.4  21:53.4  22:00.1  21:38.2  ,5,47:41.5
 ,,,,,,,,,,
-,,38,Bredd,245,Andreas Toresson,Lilla Edets MCK,KTM,17:13.9  16:59.6  17:03.6  16:56.1  ,4,08:13.4
+Tibro MK,2023,38,Bredd,245,Andreas Toresson,Lilla Edets MCK,KTM,17:13.9  16:59.6  17:03.6  16:56.1  ,4,08:13.4
 ,,,,,,,,,,
-,,39,Bredd,240,Jimmy Johansson,Försvarsmaktens EK,Husqvarna,17:26.8  17:47.7  17:20.4  17:19.3  ,4,09:54.4
+Tibro MK,2023,39,Bredd,240,Jimmy Johansson,Försvarsmaktens EK,Husqvarna,17:26.8  17:47.7  17:20.4  17:19.3  ,4,09:54.4
 ,,,,,,,,,,
-,,40,Junior,121,Carl Nydén,SMK Värnamo,KTM,17:25.0  17:31.7  17:25.9  17:36.0  ,4,09:58.7
+Tibro MK,2023,40,Junior,121,Carl Nydén,SMK Värnamo,KTM,17:25.0  17:31.7  17:25.9  17:36.0  ,4,09:58.7
 ,,,,,,,,,,
-,,41,Bredd,214,Magnus Blom,Bodafors MK,Husqvarna,17:43.6  17:36.9  17:25.7  17:14.4  ,4,10:00.8
+Tibro MK,2023,41,Bredd,214,Magnus Blom,Bodafors MK,Husqvarna,17:43.6  17:36.9  17:25.7  17:14.4  ,4,10:00.8
 ,,,,,,,,,,
-,,42,Bredd,201,Eddie Bergman,Tibro MK,KTM,17:39.2  17:53.8  17:50.2  17:34.6  ,4,10:57.9
+Tibro MK,2023,42,Bredd,201,Eddie Bergman,Tibro MK,KTM,17:39.2  17:53.8  17:50.2  17:34.6  ,4,10:57.9
 ,,,,,,,,,,
-,,43,Bredd,285,Sebastian Adielsson,MK Pionjär,Sherco,17:50.1  18:01.3  17:54.3  17:50.3  ,4,11:36.3
+Tibro MK,2023,43,Bredd,285,Sebastian Adielsson,MK Pionjär,Sherco,17:50.1  18:01.3  17:54.3  17:50.3  ,4,11:36.3
 ,,,,,,,,,,
-,,44,Dam,401,Linnéa Åkesson,FMCK Skövde,Beta,18:00.9  18:08.4  17:54.1  17:50.0  ,4,11:53.5
+Tibro MK,2023,44,Dam,401,Linnéa Åkesson,FMCK Skövde,Beta,18:00.9  18:08.4  17:54.1  17:50.0  ,4,11:53.5
 ,,,,,,,,,,
-,,45,Bredd,210,Melvin Bernström,Carlsborgs MK,Yamaha,18:06.5  18:18.5  18:11.7  18:06.2  ,4,12:43.1
+Tibro MK,2023,45,Bredd,210,Melvin Bernström,Carlsborgs MK,Yamaha,18:06.5  18:18.5  18:11.7  18:06.2  ,4,12:43.1
 ,,,,,,,,,,
-,,46,Bredd,369,Andreas Axelsson,Tibro MK,Honda,18:04.5  18:24.5  18:11.0  18:29.6  ,4,13:09.7
+Tibro MK,2023,46,Bredd,369,Andreas Axelsson,Tibro MK,Honda,18:04.5  18:24.5  18:11.0  18:29.6  ,4,13:09.7
 ,,,,,,,,,,
-,,47,Bredd,213,Björn Levin,Kinna MK,Husqvarna,18:39.1  18:19.7  18:30.7  18:26.4  ,4,13:56.1
+Tibro MK,2023,47,Bredd,213,Björn Levin,Kinna MK,Husqvarna,18:39.1  18:19.7  18:30.7  18:26.4  ,4,13:56.1
 ,,,,,,,,,,
-,,48,Bredd,332,Ulf Åström,Wäxjö MS,Sherco,19:03.6  19:05.7  19:10.9  18:58.2  ,4,16:18.5
+Tibro MK,2023,48,Bredd,332,Ulf Åström,Wäxjö MS,Sherco,19:03.6  19:05.7  19:10.9  18:58.2  ,4,16:18.5
 ,,,,,,,,,,
-,,49,Dam,441,Hilda Sjöberg,Tibro MK,Honda,19:31.1  19:36.3  19:18.4  19:05.1  ,4,17:31.0
+Tibro MK,2023,49,Dam,441,Hilda Sjöberg,Tibro MK,Honda,19:31.1  19:36.3  19:18.4  19:05.1  ,4,17:31.0
 ,,,,,,,,,,
-,,50,Bredd,315,Jesper Thorsson,Kungsbacka MA,Beta,19:36.0  19:27.1  19:18.8  19:30.9  ,4,17:53.0
+Tibro MK,2023,50,Bredd,315,Jesper Thorsson,Kungsbacka MA,Beta,19:36.0  19:27.1  19:18.8  19:30.9  ,4,17:53.0
 ,,,,,,,,,,
-,,51,Bredd,200,Andreas Josefsson,Falköpings MK,Husqvarna,19:45.6  19:41.4  19:35.8  19:42.1  ,4,18:45.1
+Tibro MK,2023,51,Bredd,200,Andreas Josefsson,Falköpings MK,Husqvarna,19:45.6  19:41.4  19:35.8  19:42.1  ,4,18:45.1
 ,,,,,,,,,,
-,,52,Bredd,231,Hannes Östensson,MK Ran,KTM,20:15.8  20:18.7  20:11.7  19:54.7  ,4,20:41.0
+Tibro MK,2023,52,Bredd,231,Hannes Östensson,MK Ran,KTM,20:15.8  20:18.7  20:11.7  19:54.7  ,4,20:41.0
 ,,,,,,,,,,
-,,53,Dam,410,Emelie Sandström,Bengtsfors MCC,KTM,20:24.2  20:06.0  20:28.5  21:06.8  ,4,22:05.7
+Tibro MK,2023,53,Dam,410,Emelie Sandström,Bengtsfors MCC,KTM,20:24.2  20:06.0  20:28.5  21:06.8  ,4,22:05.7
 ,,,,,,,,,,
-,,54,Bredd,238,Linus Adolfson,Ma Lerum,,20:50.6  20:28.8  21:25.9  20:57.1  ,4,23:42.6
+Tibro MK,2023,54,Bredd,238,Linus Adolfson,Ma Lerum,,20:50.6  20:28.8  21:25.9  20:57.1  ,4,23:42.6
 ,,,,,,,,,,
-,,55,Bredd,234,Patrik Kerttu,Kortedala MK,KTM,21:29.1  21:49.6  21:11.1  21:30.7  ,4,26:00.7
+Tibro MK,2023,55,Bredd,234,Patrik Kerttu,Kortedala MK,KTM,21:29.1  21:49.6  21:11.1  21:30.7  ,4,26:00.7
 ,,,,,,,,,,
-,,56,Bredd,254,Johan Sigby,Norrahammars MK,Husqvarna,22:14.8  21:34.2  21:50.1  21:12.0  ,4,26:51.3
+Tibro MK,2023,56,Bredd,254,Johan Sigby,Norrahammars MK,Husqvarna,22:14.8  21:34.2  21:50.1  21:12.0  ,4,26:51.3
 ,,,,,,,,,,
-,,57,Junior,172,Alexander Andersson,Tranemo MK,Yamaha,21:06.4  21:16.6  22:07.3  22:26.7  ,4,26:57.2
+Tibro MK,2023,57,Junior,172,Alexander Andersson,Tranemo MK,Yamaha,21:06.4  21:16.6  22:07.3  22:26.7  ,4,26:57.2
 ,,,,,,,,,,
-,,58,Bredd,311,Johan Wolgers,FMCK Borås,KTM,22:09.3  22:20.8  23:30.2  22:46.5  ,4,30:46.9
+Tibro MK,2023,58,Bredd,311,Johan Wolgers,FMCK Borås,KTM,22:09.3  22:20.8  23:30.2  22:46.5  ,4,30:46.9
 ,,,,,,,,,,
-,,59,Dam,407,Matilda Alexandersson Fridolfsson,Götene MK,KTM,22:58.0  23:20.6  24:06.3  23:26.4  ,4,33:51.5
+Tibro MK,2023,59,Dam,407,Matilda Alexandersson Fridolfsson,Götene MK,KTM,22:58.0  23:20.6  24:06.3  23:26.4  ,4,33:51.5
 ,,,,,,,,,,
-,,60,Bredd,286,Morgan Pettersson,Christinehamns MK,Husqvarna,22:15.8  22:53.8  23:29.7  25:15.8  ,4,33:55.3
+Tibro MK,2023,60,Bredd,286,Morgan Pettersson,Christinehamns MK,Husqvarna,22:15.8  22:53.8  23:29.7  25:15.8  ,4,33:55.3
 ,,,,,,,,,,
-,,61,Bredd,306,Jacob Johansson,Skene MS,Sherco,19:45.3  ,1,19:45.3
-,,,,,,,,,,
+Tibro MK,2023,61,Bredd,306,Jacob Johansson,Skene MS,Sherco,19:45.3  ,1,19:45.3
