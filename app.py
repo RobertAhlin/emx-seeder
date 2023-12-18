@@ -2,8 +2,9 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+import datetime
 from app_pages.multipage import MultiPage
-from app_pages import riders_ranking
+from app_pages import riders_ranking, seeding_riders
 
 # Load your data here
 @st.cache_data  # Add caching for faster reloads
@@ -19,7 +20,7 @@ app = MultiPage(app_name="Ranks and Seeding")
 
 app.add_page("Project Summary", lambda: st.write("This is the Project Summary page."))
 app.add_page("Riders rank 2023", lambda: riders_ranking.select_and_plot_rankings(ranked_dataframe))
+app.add_page("Seeding Riders", lambda: seeding_riders.main(ranked_dataframe))
 app.add_page("About", lambda: st.write("This is the About page."))
-
 
 app.run()
