@@ -36,7 +36,7 @@ def select_and_plot_rankings(dataframe):
         axes[1].tick_params(axis='x', rotation=90)
 
         # Adjust vertical spacing between subplots
-        plt.subplots_adjust(hspace=1)  
+        plt.subplots_adjust(hspace=2)  
         
         st.pyplot(fig)
 
@@ -62,7 +62,7 @@ def plot_rankings(dataframe, rider_names, ax):
     ax.set_xlabel('')
     ax.set_ylabel('Rank')
     ax.set_title('Rankings for Riders')
-    ax.legend(loc='upper center', bbox_to_anchor=(0.5, -0.5), fancybox=True, shadow=True, ncol=5)  # Position the legend below
+    ax.legend(loc='upper center', bbox_to_anchor=(0.5, -0.7), fancybox=True, shadow=True, ncol=4)  # Position the legend below
     ax.grid(True)  # Add grid lines
     ax.set_xticks(range(1, len(ranking_columns) + 1))  # Set x-ticks for the ranking columns
     ax.set_xticklabels(ranking_columns, rotation=90)  # Set x-tick labels and rotate them by 90 degrees
