@@ -1,197 +1,423 @@
-Töreboda MK,2023.0,Plac,Klass,#,Namn,Klubb,Varv,Tid,Varv 1,Varv 2,Varv 3,Varv 4
-,,1,Ungdom E1,169,Olof Backman,Karlskoga EK,4,01:14.0,14:56.8,15:13.7,15:26.0,15:37.3
-,,2,Motion -39,539,Niklas Mörk,Laxå MK,4,01:48.7,14:53.7,15:14.8,15:32.9,16:07.1
-,,3,Ungdom E1,175,William Almén,SMK Värnamo,4,02:01.9,14:50.7,15:07.8,15:50.9,16:12.3
-,,4,Ungdom E1,100,Hugo Andersson,Tibro MK,4,02:32.6,14:44.2,15:09.5,15:51.4,16:47.3
-,,5,Ungdom E1,104,Theodor Popp,SMK Värnamo,4,02:50.2,15:14.8,15:40.6,15:52.6,16:02.1
-,,6,Motion -39,519,Erik Larsson,Tibro MK,4,02:55.3,15:30.6,15:26.2,15:44.4,16:13.9
-,,7,Ungdom E1,184,Sven Höglander,Djursdala SK,4,03:01.3,15:09.7,15:44.9,15:58.6,16:07.9
-,,8,Motion -39,552,Jakob Johansson,Tidaholms MK,4,03:59.9,15:18.2,15:47.8,16:08.7,16:45.1
-,,9,Motion -39,518,Alexander Fält,Försvarsmaktens EK,4,04:43.0,15:35.5,16:09.0,16:31.6,16:26.7
-,,10,Motion 40-49,1111,Magnus Edberg,Huskvarna MK,4,04:51.3,15:29.2,16:01.5,16:26.9,16:53.6
-,,11,Ungdom E1,193,Emil Wänndahl,Huskvarna MK,4,05:08.6,15:23.3,15:59.4,16:14.7,17:31.2
-,,12,Ungdom E1,165,Hugo Hellström,Norrahammars MK,4,05:17.3,15:35.9,15:55.9,16:39.5,17:05.9
-,,13,Ungdom E1,162,Axel Plogner,Karlstad MX Klubb,4,05:42.2,16:10.0,16:13.5,16:45.0,16:33.4
-,,14,Motion -39,620,Hampus Östensson,Hallsbergs MK,4,05:55.3,15:54.2,16:34.5,16:42.5,16:44.0
-,,15,Motion 40-49,970,Roy Kolberg,Team Westom Motorcykel,4,06:04.6,15:51.5,16:30.1,16:50.8,16:52.1
-,,16,Motion 40-49,1008,Christer Huss,Göta MS,4,06:08.1,16:17.6,16:32.4,16:44.6,16:33.3
-,,17,Ungdom E1,188,Liam Ljungström,SMK Vingåker,4,06:46.3,15:59.0,16:22.1,16:59.5,17:25.5
-,,18,Motion -39,536,Andreas Mörk,Laxå MK,4,06:55.1,16:12.5,16:33.6,16:58.5,17:10.3
-,,19,Motion -39,507,Alfred Ivarsson,Älvbygdens MK,4,07:09.1,16:31.1,16:46.3,16:46.2,17:05.3
-,,20,Ungdom E1,105,Alfred Gustavsson,Mariestads EK,4,07:12.0,16:39.2,16:37.8,16:46.6,17:08.3
-,,21,Motion 40-49,931,Mårten Gustavsson,Försvarsmaktens EK,4,07:27.2,15:58.2,17:22.4,17:29.7,16:36.8
-,,22,Motion 40-49,976,Joakim Ericsson,Töreboda MK,4,07:34.5,16:47.6,16:35.6,17:00.0,17:11.3
-,,23,Motion 40-49,944,Niklas Strömberg,Götene MK,4,07:36.4,15:52.5,16:57.5,17:21.2,17:25.1
-,,24,Ungdom E1,102,Liam Qvist,Åbågen MCK,4,07:37.4,16:09.0,16:43.6,17:14.1,17:30.6
-,,25,Motion -39,513,Joacim Wigertson,Kullings MS,4,07:38.5,16:14.4,16:43.3,17:16.2,17:24.4
-,,26,Ungdom E1,177,Max Karlsson,Stenungsunds MS,4,07:42.2,15:51.0,17:36.2,16:44.2,17:30.7
-,,27,Motion -39,520,Linus Ernstsson,Bengtsfors MCC,4,07:42.9,16:16.2,16:50.6,17:00.7,17:35.3
-,,28,Motion -39,408,Matilda Huss,Göta MS,4,08:06.2,16:59.8,17:03.6,17:07.2,16:55.5
-,,29,Ungdom E1,151,Liam Nilsson,FMCK Skövde,4,08:10.1,16:14.1,17:57.3,16:45.6,17:12.9
-,,30,Motion 40-49,923,Stefan Liljedahl,Tibro MK,4,08:18.7,16:33.9,17:09.5,17:12.5,17:22.6
-,,31,Motion -39,576,Robert Lind,Tranås MS,4,08:30.9,16:23.8,16:48.1,17:36.5,17:42.3
-,,32,Motion -39,794,Joel Kvist,Försvarsmaktens EK,4,08:31.2,15:33.4,17:57.9,17:39.2,17:20.6
-,,33,Motion -39,521,Simon Holmbäck,Hjo MK,4,08:31.7,16:28.6,16:58.8,17:25.3,17:38.8
-,,34,Motion 40-49,1007,Henrik Klövmark,Ma Lerum,4,08:48.7,16:17.9,17:09.9,17:44.9,17:35.8
-,,35,Motion 40-49,964,Andreas Remfäldt,Mariestads EK,4,08:52.5,16:59.1,17:24.6,17:18.4,17:10.2
-,,36,Motion -39,547,Felix Johansson,Kinds MK,4,09:29.7,17:04.5,17:13.9,17:29.4,17:41.7
-,,37,Motion -39,527,George Svantesson,Kullings MS,4,09:31.1,17:12.1,17:28.1,17:29.9,17:20.8
-,,38,Motion -39,526,Simon Henriksson,Lilla Edets MCK,4,09:33.0,16:56.8,17:07.5,18:00.2,17:28.5
-,,39,Motion 40-49,994,Mikael Bengtsson,Falköpings MK,4,09:36.8,17:05.7,17:42.7,17:31.3,17:17.0
-,,40,Motion -39,568,Dennis Larsson,Örebro EK,4,09:46.8,16:50.8,17:41.5,17:34.6,17:39.8
-,,41,Motion 40-49,924,Sebastian Carlsson,SMK Vadstena,4,10:15.6,16:34.3,17:10.5,18:04.8,18:25.9
-,,42,Motion 40-49,1011,Mikael Hjelm,Finspångs MS,4,10:18.0,17:16.6,17:41.9,17:42.5,17:36.8
-,,43,Motion 40-49,960,Fredric Randström,Hagfors MS,4,10:54.1,17:21.3,17:46.7,17:52.3,17:53.7
-,,44,Motion -39,537,Emil Meijer,Götene MK,4,11:24.2,17:09.0,18:05.1,17:55.5,18:14.5
-,,45,Motion 40-49,1006,Anton Bernhardsson,Kortedala MK,4,11:25.5,17:24.4,17:52.2,18:07.6,18:01.2
-,,46,Motion -39,584,Johan Arne Wärnelöv,Tranås MS,4,11:25.6,17:15.9,17:47.8,18:02.8,18:18.9
-,,47,Motion -39,695,Dennis Eriksson,SMK Ronneby,4,11:32.0,17:29.6,17:51.4,18:07.1,18:03.7
-,,48,Motion 40-49,935,Stefan Andersson,Lilla Edets MCK,4,11:45.4,17:21.4,17:25.1,18:48.6,18:10.2
-,,49,Motion -39,729,Gustav Malm,Hallsbergs MK,4,11:46.0,17:30.8,17:43.0,18:00.6,18:31.5
-,,50,Motion -39,560,John Larsson,Carlsborgs MK,4,11:48.7,17:42.7,18:07.3,18:10.2,17:48.4
-,,51,Motion 40-49,933,Ola Korsell,Götene MK,4,12:05.3,16:45.7,18:01.2,19:06.4,18:11.9
-,,52,Motion 40-49,901,Mattias Eriksson,Varbergs MK,4,12:07.8,17:20.9,17:39.6,18:07.5,18:59.6
-,,53,Motion -39,510,Simon Öberg,Norrahammars MK,4,12:22.1,17:25.3,18:00.5,18:17.1,18:39.0
-,,54,Motion -39,574,Andreas Nordström,Eds-Skottbacka MX Förening,4,12:22.3,17:46.6,17:50.7,18:03.4,18:41.4
-,,55,Motion 40-49,957,Markus Andersson,MK Team Treske,4,12:24.4,17:25.3,18:08.8,18:31.5,18:18.7
-,,56,Motion -39,580,Albin Pettersson,Kristdala Motorsällskap,4,12:27.3,17:21.9,18:14.5,18:19.4,18:31.3
-,,57,Motion 40-49,911,Ronny Eskengren,Älvbygdens MK,4,12:29.1,17:29.0,18:03.7,18:25.9,18:30.3
-,,58,Motion -39,593,Patrik Johansson,Tibro MK,4,12:35.7,18:20.5,17:57.5,18:09.9,18:07.7
-,,59,Motion -39,566,Henrik Madsen,Huskvarna MK,4,12:36.9,17:36.1,17:49.7,18:23.7,18:47.3
-,,60,Motion -39,591,Thim Svensson,Vissefjärda EK,4,12:44.3,17:58.8,17:32.7,18:21.5,18:51.2
-,,61,Motion 40-49,908,Martin Börjesson,FMCK Borås,4,13:00.0,17:20.5,18:10.3,18:44.0,18:45.1
-,,62,Motion -39,799,Patrik Förkrök Ledström,SMK Vadstena,4,13:02.6,17:48.5,17:59.4,18:32.8,18:41.7
-,,63,Motion 40-49,997,Robert Strandberg,Hjo MK,4,13:04.0,17:33.4,18:05.9,18:19.9,19:04.7
-,,64,Ungdom E1,194,Edwin Djurstedt,Djursdala SK,4,13:06.5,17:21.9,18:05.7,18:57.9,18:40.9
-,,65,Motion -39,509,Jonathan Storm,Kortedala MK,4,13:17.4,17:54.4,18:22.8,18:41.3,18:18.8
-,,66,Motion -39,589,Joel Rådberg,SMK Trollhättan,4,13:18.1,17:56.0,18:05.5,18:23.2,18:53.2
-,,67,Motion 40-49,1012,Mattias Ringholm,Hallsbergs MK,4,13:19.7,17:40.8,17:55.2,18:20.0,19:23.6
-,,68,Motion -39,562,Johan Hedström,Kinds MK,4,13:24.4,17:48.1,18:18.7,18:49.6,18:27.8
-,,69,Motion -39,549,Rasmus Levén,Bodafors MK,4,13:32.0,18:04.2,18:14.9,18:40.7,18:32.1
-,,70,Motion 40-49,995,Oddbjørn Sandvik,Flittig Enduro,4,13:36.9,17:45.9,18:15.5,18:36.8,18:58.6
-,,71,Motion -39,540,Ronnie Nilsson,Töreboda MK,4,13:45.5,17:49.9,18:35.2,18:50.0,18:30.3
-,,72,Motion 40-49,989,Fredrik Sääv,Götene MK,4,13:52.4,17:38.8,18:24.3,18:37.4,19:11.7
-,,73,Motion -39,573,Jimmi Jakobsson,MK Team Treske,4,13:56.3,17:48.4,18:05.1,18:50.8,19:11.9
-,,74,Motion -39,501,Linus Kjellström,Götene MK,4,14:14.0,17:28.9,18:40.8,19:08.1,18:56.1
-,,75,Motion -39,528,Hugo Lindström,FMCK Borås,4,14:17.0,18:15.5,18:45.8,18:27.7,18:48.0
-,,76,Motion 40-49,903,Björn Bäckström,MK Ran,4,14:23.1,17:46.2,18:14.1,20:10.8,18:11.8
-,,77,Motion -39,500,Tommy Oldenburg,FMCK Skövde,4,14:25.5,17:50.9,18:28.2,18:58.9,19:07.2
-,,78,Motion 40-49,943,Anton Gustavsson,Mariestads EK,4,14:33.4,18:17.3,18:15.9,18:51.3,19:08.8
-,,79,Motion -39,535,Johan Andersson,SMK Östgöta,4,14:38.8,17:42.6,18:21.4,19:14.4,19:20.3
-,,80,Motion 40-49,952,Christian Johansson,Tidaholms MK,4,14:45.0,17:47.6,18:44.6,18:38.1,19:34.5
-,,81,Motion 40-49,928,Johan Debrianté,SMK Ljungby,4,14:48.4,18:02.6,18:16.8,19:14.1,19:14.7
-,,82,Motion -39,631,Dennis Olesen,Kullings MS,4,14:50.2,17:10.7,19:33.2,18:44.0,19:22.2
-,,83,Motion 40-49,947,Magnus Enander,Ulricehamns MK,4,14:50.5,17:43.0,18:34.9,18:52.2,19:40.2
-,,84,Motion -39,572,Axel Karlsson,Laxå MK,4,15:01.7,18:07.6,18:57.4,18:48.4,19:08.2
-,,85,Motion 40-49,973,Björn Runfeldt,Norrahammars MK,4,15:04.5,18:33.6,18:34.2,18:41.4,19:15.1
-,,86,Motion 40-49,961,Daniel Lundqvist,Töreboda MK,4,15:13.4,18:19.1,18:56.1,19:13.7,18:44.4
-,,87,Motion -39,565,Erik Wallskog,Töreboda MK,4,15:14.5,18:25.9,18:12.6,18:46.6,19:49.2
-,,88,Motion -39,632,Viktor Hultman,Mariestads EK,4,15:30.5,18:16.7,18:24.0,19:16.6,19:33.0
-,,89,Motion -39,545,Grim Fallenius,Götene MK,4,15:32.7,18:47.0,18:38.3,18:47.9,19:19.4
-,,90,Motion -39,556,Tommy Gustafsson,Huskvarna MK,4,15:41.9,18:29.9,19:03.9,19:12.2,18:55.7
-,,91,Motion -39,569,Christoffer Jonasson,SMC,4,15:49.4,18:15.2,19:29.9,19:07.6,18:56.5
-,,92,Motion -39,585,Niklas Kedén,Hjo MK,4,15:57.0,18:31.7,18:24.0,19:10.1,19:51.0
-,,93,Ungdom E1,186,Emil Elmwall,Hallsbergs MK,4,16:01.8,18:30.7,20:21.3,18:48.0,18:21.7
-,,94,Motion -39,543,Axel Gustafsson,Lidköpings MCK,4,16:19.2,19:02.5,18:51.4,18:49.0,19:36.2
-,,95,Motion -39,541,Patric Gustafsson,Huskvarna MK,4,16:21.6,18:22.7,19:08.3,19:29.6,19:20.9
-,,96,Motion -39,555,Dennis Hörberg,Norrahammars MK,4,16:22.3,18:45.7,18:51.1,19:16.6,19:28.8
-,,97,Motion 40-49,917,Tomas Blom,Hallsbergs MK,4,16:30.1,18:11.9,18:54.0,19:45.9,19:38.1
-,,98,Motion -39,523,Rasmus Bengt Olof Malmborg,Björkö EK,4,16:30.6,19:14.0,18:53.8,18:59.3,19:23.5
-,,99,Motion -39,530,Patrik Olsson,Lilla Edets MCK,4,16:36.2,17:40.0,21:50.2,18:35.5,18:30.4
-,,100,Motion 40-49,913,Daniel Blomqvist,FMCK Skövde,4,16:46.5,19:06.2,19:12.3,19:26.3,19:01.5
-,,101,Motion -39,786,Anton Persson,Tibro MK,4,17:06.1,18:31.5,19:30.6,19:47.3,19:16.5
-,,102,Motion 40-49,920,Christoffer Johnsson,Hisingens MK,4,17:09.6,18:12.6,18:55.7,19:55.1,20:06.1
-,,103,Motion 40-49,981,Patrick Wik,Skene MS,4,17:09.8,18:51.9,18:47.7,19:39.5,19:50.5
-,,104,Motion -39,582,Jonathan Lagerqvist,Björkö EK,4,17:24.5,18:59.7,19:28.0,19:14.2,19:42.5
-,,105,Motion 40-49,932,Niklas Utterberg,Norrahammars MK,4,17:35.2,19:08.6,19:14.8,19:44.5,19:27.2
-,,106,Motion 40-49,1004,Rickard Persson,Tibro MK,4,17:42.8,19:17.5,19:21.3,19:23.2,19:40.6
-,,107,Motion -39,639,Melker Jansson,Karlskoga EK,4,17:43.1,17:05.1,18:15.3,24:01.2,18:21.3
-,,108,Motion -39,667,Philip Baumgartner,Götene MK,4,17:47.7,18:38.7,19:17.4,20:04.5,19:46.8
-,,109,Motion 40-49,904,Henrik Lindström,FMCK Borås,4,17:48.2,18:34.0,19:53.6,19:50.7,19:29.8
-,,110,Motion -39,689,Jonatan Svantesson,Kullings MS,4,18:00.1,18:44.9,19:58.7,19:36.8,19:39.5
-,,111,Motion 40-49,934,Fredrik Hassesjö,Ulricehamns MK,4,18:00.6,19:02.1,19:38.0,19:49.7,19:30.8
-,,112,Motion 40-49,955,Henrik Nilsson,Mariestads EK,4,18:07.8,19:37.9,19:30.9,19:13.2,19:45.7
-,,113,Motion -39,544,Anton Isaksson,Götene MK,4,18:10.0,19:02.3,19:31.7,20:03.6,19:32.3
-,,114,Ungdom E1,198,Jacob Stacke,SMK Värnamo,4,18:10.5,18:22.5,18:14.9,22:01.6,19:31.4
-,,115,Motion 40-49,930,Jonas Lyttbacka,Örebro EK,4,18:13.2,18:46.0,19:33.6,19:46.7,20:06.9
-,,116,Motion -39,559,Jesper Herngren,Falköpings MK,4,18:27.3,18:27.1,19:21.0,19:24.7,21:14.2
-,,117,Motion -39,669,Albin Johansson,Lidköpings MCK,4,18:35.9,19:15.5,19:11.6,20:09.5,19:59.1
-,,118,Motion -39,728,Arvid Siggesson,Tibro MK,4,18:47.0,19:37.6,19:34.0,19:57.1,19:38.1
-,,119,Motion -39,517,Simon Gustafsson,Älvbygdens MK,4,18:49.6,19:08.5,19:35.4,20:04.9,20:00.6
-,,120,Motion 40-49,958,Erik Bergstrand,Oskarshamns MSK,4,18:57.5,19:20.4,19:30.9,19:54.2,20:11.8
-,,121,Motion 40-49,1005,Marcus Stacke,SMK Värnamo,4,19:01.5,18:47.5,19:14.4,21:02.3,19:57.1
-,,122,Motion -39,546,Rikard Sundström,Götene MK,4,19:03.1,19:09.8,19:40.2,20:01.8,20:11.2
-,,123,Motion -39,542,Bernard Abrahamsson,FMCK BohusDal,4,19:03.6,18:51.7,20:20.0,20:10.3,19:41.4
-,,124,Motion 40-49,950,Johan Elfving,Ulricehamns MK,4,19:04.2,19:14.6,19:13.7,20:11.8,20:23.9
-,,125,Motion -39,502,Johan Svensson,Falköpings MK,4,19:11.7,19:28.7,20:20.5,19:54.8,19:27.6
-,,126,Motion -39,567,Victor Joensuu,MSK Hammaren,4,19:29.2,19:05.8,19:24.3,19:54.1,21:04.8
-,,127,Ungdom E1,115,Simon Rutgersson,Stenungsunds MS,4,19:30.1,19:30.4,19:08.9,22:12.9,18:37.6
-,,128,Motion -39,762,Markus Göransson,Lilla Edets MCK,4,19:32.3,19:46.2,19:58.3,19:44.9,20:02.8
-,,129,Motion -39,652,Filip Johansson,Tidaholms MK,4,19:35.6,19:17.4,19:25.8,20:51.0,20:01.2
-,,130,Motion 40-49,922,Mikael Sahlin,Lidköpings MCK,4,19:43.8,19:53.4,19:36.4,20:01.2,20:12.6
-,,131,Motion 40-49,972,Jonas Svensson,Hallsbergs MK,4,19:54.7,19:06.7,19:59.9,20:00.0,20:47.9
-,,132,Motion 40-49,988,Martin Bonander,Stenungsunds MS,4,20:17.9,21:07.8,19:15.4,19:57.1,19:57.5
-,,133,Ungdom E1,125,Wiggo Hansson,Tidaholms MK,4,20:23.3,19:05.8,20:17.4,21:04.1,19:55.9
-,,134,Motion 40-49,990,Johan Kjellson,FMCK Skövde,4,20:24.2,18:43.6,20:08.9,20:35.4,20:56.2
-,,135,Ungdom E1,181,Emil Gabrielsson,Skene MS,4,20:29.4,19:17.7,20:05.7,20:47.9,20:18.0
-,,136,Motion 40-49,956,Tommy Jonsson,Mariestads EK,4,20:34.1,20:40.5,19:47.9,19:46.2,20:19.3
-,,137,Motion 40-49,910,Per Eriksson,Hallsbergs MK,4,20:37.7,18:56.7,19:42.1,21:02.8,20:55.9
-,,138,Motion 40-49,907,Jonas Milefors,Kortedala MK,4,20:43.7,19:18.9,19:55.9,20:35.6,20:53.2
-,,139,Ungdom E1,103,Lisa Nyqvist,Stenungsunds MS,4,20:48.7,20:10.5,19:30.6,20:28.2,20:39.2
-,,140,Ungdom E1,107,Thure Rudklint,Oskarshamns MSK,4,20:57.5,19:51.8,19:55.6,20:55.4,20:14.5
-,,141,Ungdom E1,126,Marwin Wik,Skene MS,4,20:57.7,20:20.4,19:54.2,20:30.3,20:12.7
-,,142,Motion -39,610,David Hörberg,Försvarsmaktens EK,4,20:58.1,19:16.8,19:52.1,20:48.2,21:00.8
-,,143,Motion 40-49,915,Martin Jonsson,Töreboda MK,4,21:06.7,19:26.0,20:12.8,21:03.6,20:24.2
-,,144,Motion 40-49,945,Oscar Ekdahl,FMCK Borås,4,21:08.8,20:14.1,20:24.5,20:14.7,20:15.4
-,,145,Motion -39,612,Christian Kurist,Falköpings MK,4,21:29.1,19:44.7,20:12.5,20:12.7,21:19.1
-,,146,Motion -39,529,Jacob Emilsson,Kristdala Motorsällskap,4,21:45.1,19:40.4,19:37.2,22:19.5,20:07.9
-,,147,Motion -39,586,Johan Lidén,Eda MK,4,21:57.5,20:06.8,20:25.5,20:45.3,20:39.7
-,,148,Motion 40-49,926,Mark Edvardsson,Alingsås MCK,4,22:09.4,19:46.6,20:19.6,21:12.6,20:50.4
-,,149,Motion -39,515,Gustav Strinne,Edsvära MCK,4,22:09.6,18:49.5,20:59.5,20:12.3,22:08.2
-,,150,Ungdom E1,111,Anton Andersson,Norrahammars MK,4,23:16.5,19:49.0,20:28.1,20:57.4,22:01.8
-,,151,Motion -39,614,Henrik Stråhle,Ma Lerum,4,23:38.5,20:36.4,21:25.0,21:07.0,20:29.9
-,,152,Ungdom E1,199,William Blom,Skene MS,4,24:04.8,20:43.7,20:54.7,21:19.4,21:06.8
-,,153,Ungdom E1,122,Tuva Sahlin Palmstedt,Lidköpings MCK,4,24:26.0,20:39.9,20:17.8,21:31.7,21:56.4
-,,154,Motion 40-49,912,Peter Berggren,BMK Uddevalla,4,24:41.0,20:29.7,21:08.5,21:26.4,21:36.3
-,,155,Motion -39,511,Oliver Wennerholm,FMCK Borås,4,24:50.2,19:52.4,20:42.4,21:48.5,22:26.8
-,,156,Motion -39,594,Anton Torgin,Donkelo RK,4,25:05.3,21:07.4,21:03.4,21:30.4,21:23.9
-,,157,Motion -39,538,Rasmus Hansson,Skene MS,4,25:17.6,20:36.6,21:37.4,21:11.0,21:52.4
-,,158,Motion 40-49,951,Jonas Eriksson,Mariestads EK,4,25:47.4,20:38.3,21:07.9,21:54.1,22:07.0
-,,159,Motion 40-49,984,Robban Markusson,SMK Vadstena,4,26:01.9,20:25.0,20:40.4,21:55.8,23:00.7
-,,160,Motion 40-49,998,Karl Henrik Johan Wass,Götene MK,4,26:10.0,20:52.5,21:42.9,22:37.9,20:56.5
-,,161,Motion 40-49,906,Anders Billestedt Andersson,Stenungsunds MS,4,26:22.5,20:24.4,21:20.9,22:00.0,22:37.0
-,,162,Motion 40-49,982,Cristoffer Matlak,Alingsås MCK,4,26:56.4,20:37.8,21:51.5,22:04.0,22:23.1
-,,163,Ungdom E1,195,Casper Svahn,Örebro MK,4,28:18.8,19:46.6,21:18.3,23:26.0,23:47.8
-,,164,Ungdom E1,124,Sam Aronsson,Töreboda MK,4,29:41.6,21:06.9,21:50.6,24:02.1,22:41.9
-,,165,Motion 40-49,999,Johan Törnqvist,FMCK Skövde,4,33:16.3,22:24.7,23:11.2,23:41.3,23:58.9
-,,166,Motion -39,590,Tobias Hagelin,FMCK Borås,4,33:47.7,25:03.4,22:56.5,22:50.0,22:57.7
-,,167,Motion -39,533,Jimmy Josefsson,Skene MS,3,52:10.9,16:53.4,17:17.9,17:59.5,
-,,168,Motion -39,553,Petter Hedlund,Hallsbergs MK,3,54:25.6,17:46.5,17:59.6,18:39.4,
-,,169,Motion 40-49,978,Johan Karlsson,Älvbygdens MK,3,55:57.2,18:07.4,18:39.8,19:09.9,
-,,170,Motion 40-49,1020,Jonas Gustafsson,Götene MK,3,57:10.1,18:46.6,18:45.8,19:37.6,
-,,171,Motion 40-49,975,Hannu Ylipekkala,Anderstorp RC,3,59:18.3,19:29.5,19:51.2,19:57.4,
-,,172,Motion 40-49,919,Robert Ahlin,Falköpings MK,3,59:21.8,19:11.2,19:28.0,20:42.6,
-,,173,Motion 40-49,942,Rikard Hofvander,Hallsbergs MK,3,00:44.3,20:20.7,19:57.4,20:26.0,
-,,174,Motion -39,703,Martin Johansson,Skara MK,3,02:31.3,20:08.3,20:51.7,21:31.2,
-,,175,Motion 40-49,963,Ronny Larsen,Flittig Enduro,3,03:25.9,20:49.4,20:53.0,21:43.4,
-,,176,Motion -39,534,Richard Mickelsson,Tibro MK,3,04:40.2,21:14.6,21:33.3,21:52.2,
-,,177,Motion 40-49,937,Henrik Olsson,Falköpings MK,3,05:05.5,20:43.0,22:13.1,22:09.3,
-,,178,Motion 40-49,936,Per Karlsson,SMK Vadstena,3,07:08.9,21:20.0,21:20.7,24:28.1,
-,,179,Motion 40-49,974,Ulric Karlsson,Tidaholms MK,3,07:15.6,20:09.8,20:56.0,26:09.7,
-,,180,Motion 40-49,1121,Andreas Lambert Melander,Lilla Edets MCK,3,08:09.4,21:22.7,23:32.1,23:14.4,
-,,181,Motion -39,563,Axel Virgin Ericsson,Götene MK,3,09:44.6,22:58.0,22:42.8,24:03.7,
-,,182,Motion 40-49,1002,Andreas Sjöberg,Tibro MK,3,10:42.1,23:00.9,23:13.5,24:27.6,
-,,183,Motion 40-49,983,Magnus Lilja,Älvbygdens MK,3,12:01.2,23:04.8,24:33.9,24:22.3,
-,,184,Motion 40-49,1000,Christoffer Bergström,Försvarsmaktens EK,3,12:23.1,22:52.5,24:53.8,24:36.6,
-,,185,Motion -39,575,David Reker Andersson,Falköpings MK,3,12:24.0,23:26.3,23:57.6,24:59.9,
-,,186,Motion 40-49,914,Emil Kårlin,Lilla Edets MCK,3,12:44.7,23:01.1,23:35.7,26:07.7,
-,,187,Motion 40-49,902,Andreas Sandberg,FMCK Borås,3,16:46.3,23:26.0,25:10.0,28:10.2,
-,,188,Ungdom E1,183,Mille Söderblom,Hallsbergs MK,2,34:16.6,16:09.3,18:07.2,,
-,,189,Motion -39,512,Eric Lindblad,Hjo MK,2,35:08.3,17:37.4,17:30.8,,
-,,190,Motion -39,550,Eric Gustafsson,SMK Vingåker,2,37:27.4,20:50.7,16:36.7,,
-,,191,Motion 40-49,996,Filip Starck,Norrahammars MK,2,38:17.0,17:10.7,21:06.3,,
-,,192,Motion -39,525,Hans Palm,Norrahammars MK,2,41:30.0,20:32.5,20:57.4,,
-,,193,Motion 40-49,965,Eric Ackeby,Beskaskinn MC,2,59:32.0,27:36.7,31:55.2,,
-,,194,Motion -39,557,Wiktor Hjalmarsson,Oskarshamns MSK,1,17:47.7,17:47.7,,,
-,,195,Ungdom E1,145,Wilmer Jansson,Tidaholms MK,1,30:18.8,30:18.8,,,
-,,196,Motion 40-49,1003,Robert Blomquist,Flittig Enduro,0,00:00.0,,,,
+Töreboda MK,2023.0,Plac,Klass,#,Namn,Klubb,Varv,Tid,Varv 1,Varv 2,Varv 3,Varv 4,Varv 5,Varv 6
+,,1,Ungdom E0,15,Wiggo Lifvendahl,MK Orion,4,00:50.1,14:50.6,14:55.0,15:22.8,15:41.6,,
+,,2,Motion 50-59,1222,Klas Elofsson,Skene MS,4,01:57.3,15:14.1,15:30.9,15:32.1,15:40.1,,
+,,3,Motion 50-59,1248,Jonas Johansson,FMCK Borås,4,02:15.7,15:06.3,15:22.9,15:49.6,15:56.8,,
+,,4,Motion 50-59,1244,Robert Salomonsson,Tibro MK,4,02:33.5,15:19.4,15:23.6,15:50.5,15:59.8,,
+,,5,Ungdom E0,1,Hampus Andersson,Tibro MK,4,02:39.7,15:46.4,15:24.5,15:43.9,15:44.9,,
+,,6,Motion 50-59,1286,Mikael Wiberg,Hallsbergs MK,4,03:16.2,15:30.8,15:39.1,16:09.1,15:57.1,,
+,,7,Ungdom E0,85,Ville Hjelm,Finspångs MS,4,04:10.0,15:54.5,15:35.0,16:14.6,16:25.8,,
+,,8,Motion 50-59,1284,Magnus Kallander,Linköpings MS,4,04:33.1,15:51.5,16:00.6,16:11.9,16:28.9,,
+,,9,Motion 50-59,1291,Joakim Fri,Älvbygdens MK,4,04:33.9,15:42.3,15:59.6,16:12.8,16:39.1,,
+,,10,Motion 50-59,1203,Peter Appelqvist,Kortedala MK,4,04:48.5,15:49.5,15:47.3,16:10.7,17:00.9,,
+,,11,Ungdom E0,6,Olle Persson,Hallsbergs MK,4,04:56.7,16:14.0,15:56.4,16:06.4,16:39.8,,
+,,12,Ungdom E0,57,Filip Wahlström,Hallsbergs MK,4,04:57.0,16:06.7,15:55.9,16:16.9,16:37.5,,
+,,13,Motion 60-,1561,Jan-Olof Wallskog,Töreboda MK,4,05:06.9,16:01.1,16:19.5,16:22.2,16:23.9,,
+,,14,Motion 50-59,1215,Christer Johansson,Varbergs MK,4,05:16.1,16:16.6,15:59.3,16:21.5,16:38.6,,
+,,15,Motion 60-,1526,Inge Edberg,Huskvarna MK,4,05:25.6,16:02.5,16:16.1,16:38.2,16:28.7,,
+,,16,Motion 50-59,1255,Jimmy Kaukinen,Wäxjö MS,4,05:25.7,15:42.8,16:27.0,16:33.1,16:42.6,,
+,,17,Ungdom E0,19,Douglas Sjöblom,SMK Värnamo,4,05:33.3,16:15.8,15:52.5,16:30.4,16:54.4,,
+,,18,Ungdom E0,7,Leo Klasson,Tibro MK,4,05:39.0,15:58.2,16:26.3,16:43.4,16:31.0,,
+,,19,Motion 50-59,1205,Peter Björnqvist,FMCK Borås,4,05:55.8,16:21.2,16:22.6,16:27.0,16:44.8,,
+,,20,Motion 50-59,1287,Terje Berge,Flittig,4,05:56.8,16:11.5,16:12.1,16:34.8,16:58.2,,
+,,21,Motion 60-,1503,Roger Jakobsson,Kullings MS,4,06:00.0,16:29.9,16:35.9,16:20.2,16:33.9,,
+,,22,Ungdom E0,89,Hjalmar Johansson,SMK Eksjö,4,06:02.6,16:26.1,16:08.5,16:31.0,16:56.9,,
+,,23,Motion 50-59,1210,Lars Arvidsson,Kullings MS,4,06:08.9,16:13.0,16:23.3,16:36.0,16:56.5,,
+,,24,Motion 50-59,1209,Roger Ottosson,Vimmerby MS,4,06:21.3,16:23.7,16:28.9,16:37.5,16:51.0,,
+,,25,Motion 50-59,1300,Christian Hagberg,FMCK Borås,4,06:22.3,15:59.8,16:21.1,16:45.4,17:15.9,,
+,,26,Motion 50-59,1228,Jerker Svantesson,Kullings MS,4,06:23.8,16:18.5,16:26.3,16:44.4,16:54.5,,
+,,27,Motion 50-59,1267,Tommi Ragnarsson,Skene MS,4,06:25.4,16:15.8,16:51.2,16:30.7,16:47.4,,
+,,28,Motion 50-59,1227,Anders Roth,Kristdala Motorsällskap,4,06:35.2,16:25.1,16:48.9,16:29.2,16:51.8,,
+,,29,Motion 60-,1521,Mikael Persson,Töreboda MK,4,06:49.0,16:05.3,16:36.4,16:50.6,17:16.6,,
+,,30,Motion 50-59,1355,Robert Oskarsson,Hallsbergs MK,4,06:55.0,16:16.4,16:06.5,16:46.7,17:45.3,,
+,,31,Motion 50-59,1292,Stefan Claesson,Götene MK,4,07:10.1,16:24.9,16:52.2,16:40.0,17:12.8,,
+,,32,Motion 50-59,1245,Tony Larsson,FMCK Borås,4,07:20.9,16:24.9,16:30.7,16:55.6,17:29.5,,
+,,33,Motion 50-59,1263,Magnus Ragnarsson,Skene MS,4,07:23.1,16:40.5,16:39.5,16:51.1,17:11.9,,
+,,34,Motion 60-,1520,Anders Johansson,MCK Hallandia,4,07:29.5,16:29.9,16:40.0,16:51.4,17:28.1,,
+,,35,Motion 50-59,1218,Johan Karlsson,Götene MK,4,07:47.2,16:39.6,16:44.8,17:02.2,17:20.5,,
+,,36,Motion 50-59,1321,Michael Larsson,SMK Värnamo,4,08:04.5,16:18.9,17:03.9,17:08.4,17:33.2,,
+,,37,Motion 50-59,1206,Christer Hedihn,FMCK Borås,4,08:10.0,16:12.8,17:05.4,16:50.6,18:01.0,,
+,,38,Motion 50-59,1237,Jan Wester,FMCK Skövde,4,08:11.7,16:36.0,16:45.2,17:09.5,17:40.7,,
+,,39,Motion 50-59,1225,Joakim Holm,FMCK Skövde,4,08:30.9,16:50.9,16:47.9,17:25.1,17:26.9,,
+,,40,Ungdom E0,92,Algot Hessel,Tidaholms MK,4,08:37.8,16:22.5,17:19.7,17:19.0,17:36.5,,
+,,41,Motion 50-59,1214,Stefan Andersson,SMK Trollhättan,4,08:49.4,16:22.0,16:45.9,17:42.3,17:59.0,,
+,,42,Motion 50-59,1217,Tomas Karlsson,Skene MS,4,09:03.7,17:18.0,17:08.2,17:06.3,17:31.0,,
+,,43,Motion 50-59,1257,Kenneth Zimmerblad,Skene MS,4,09:14.3,17:08.5,17:04.7,17:12.5,17:48.5,,
+,,44,Ungdom E0,30,Sebastian Brodin,Örebro EK,4,09:18.6,17:04.2,17:10.7,17:37.9,17:25.6,,
+,,45,Motion 50-59,1367,Anders Olsson,Götene MK,4,09:25.2,17:31.3,17:21.0,17:13.4,17:19.4,,
+,,46,Motion 50-59,1311,Fredrik Eisner,Alingsås MCK,4,09:26.9,17:05.2,17:08.5,17:25.5,17:47.4,,
+,,47,Motion 50-59,1334,Jonas Nordmark,Varbergs MK,4,09:30.4,17:24.1,17:14.4,17:26.1,17:25.6,,
+,,48,Motion 50-59,1262,Jörgen Petersson,Oskarshamns MSK,4,09:31.6,17:09.4,17:05.6,17:32.9,17:43.5,,
+,,49,Motion 50-59,1373,Jimmy Johansson,Tranås MS,4,09:35.1,16:53.7,17:13.2,17:25.6,18:02.5,,
+,,50,Motion 50-59,1211,Mats Johansson,Götene MK,4,09:37.5,17:10.6,17:14.6,17:38.8,17:33.5,,
+,,51,Motion 50-59,1302,Sven Sköld,SMK Värnamo,4,10:03.2,16:58.4,17:19.2,17:38.9,18:06.6,,
+,,52,Motion 50-59,1467,Jens Andersson,Töreboda MK,4,10:13.5,17:01.1,17:35.7,17:37.7,17:58.8,,
+,,53,Motion 50-59,1251,Sören Larsson,FMCK Borås,4,10:20.1,17:23.5,17:24.0,17:47.3,17:45.2,,
+,,54,Motion 60-,1517,Peter Elofsson,Skene MS,4,10:27.5,17:39.1,17:18.3,17:22.8,18:07.1,,
+,,55,Motion 50-59,1333,Kenneth Pettersson,FMCK Skövde,4,10:40.2,17:23.4,17:17.1,17:36.9,18:22.7,,
+,,56,Motion 50-59,1241,Alf Thomas Johansson,Götene MK,4,10:51.4,16:42.2,17:48.9,17:58.5,18:21.8,,
+,,57,Motion 50-59,1253,Fabian Aleryd,Kullings MS,4,10:54.0,17:38.6,17:32.7,17:38.6,18:03.9,,
+,,58,Motion Dam,471,Frida Östlund,Karlskoga EK,4,11:16.2,17:58.5,17:33.4,18:10.6,17:33.6,,
+,,59,Motion 50-59,1226,Hans Svärd,Alingsås MCK,4,11:23.7,17:31.3,17:48.1,17:48.9,18:15.3,,
+,,60,Motion 50-59,1200,Tony Lundberg,Hällefors MK,4,11:24.0,17:27.3,17:23.3,17:58.2,18:35.0,,
+,,61,Motion 50-59,1260,Mathias Svensson,Skene MS,4,11:32.4,17:40.8,17:35.4,17:55.9,18:20.1,,
+,,62,Motion 50-59,1219,Björn Sandstedt,Tibro MK,4,11:36.7,17:19.4,17:54.1,17:59.9,18:23.2,,
+,,63,Motion 50-59,1221,Benny Andersson,Kullings MS,4,12:03.6,17:19.6,18:09.2,17:44.7,18:49.9,,
+,,64,Motion 50-59,1235,Patrik Högberg,Edsvära MCK,4,12:06.1,17:25.3,17:37.3,18:05.6,18:57.8,,
+,,65,Ungdom E0,20,Albin Glansén,Tidaholms MK,4,12:08.8,17:58.0,17:35.9,17:59.6,18:35.1,,
+,,66,Motion Dam,472,Vilma Norlander,Kullings MS,4,12:09.5,17:39.2,17:59.3,18:23.4,18:07.3,,
+,,67,Motion 50-59,1234,Johan Karlsson,Falköpings MK,4,12:15.4,17:27.8,17:42.1,18:02.7,19:02.7,,
+,,68,Ungdom E0,37,Malte Olsson,Falköpings MK,4,12:30.0,18:59.6,17:31.6,17:59.7,17:59.0,,
+,,69,Motion 50-59,1293,Niclas Starck,Wäxjö MS,4,12:32.5,17:38.5,18:11.6,18:15.8,18:26.3,,
+,,70,Motion 50-59,1449,Jonas Eriksson,Skene MS,4,12:55.7,17:30.3,18:12.0,18:55.5,18:17.7,,
+,,71,Motion 50-59,1457,Magnus Persson,Götene MK,4,13:02.6,17:43.9,18:02.6,18:08.4,19:07.5,,
+,,72,Motion 60-,1523,Mikael Kristensson,MCK Hallandia,4,13:02.7,17:44.4,18:03.9,18:17.4,18:56.8,,
+,,73,Ungdom E0,52,Alvis Petersson,Norrahammars MK,4,13:05.5,18:04.3,18:20.8,18:07.2,18:33.1,,
+,,74,Motion 60-,1611,Bo Karlsson,Lilla Edets MCK,4,13:08.7,18:05.4,18:11.5,18:26.4,18:25.2,,
+,,75,Motion 60-,1522,Morgan Ernstsson,Bengtsfors MCC,4,13:10.1,17:37.7,17:25.8,19:10.7,18:55.7,,
+,,76,Motion 50-59,1304,Henrik Karlsson,Stenungsunds MS,4,13:38.9,18:06.1,18:23.3,18:33.3,18:36.0,,
+,,77,Motion 60-,1501,Kennet Eriksson,SMK Trollhättan,4,13:50.6,18:20.3,18:12.1,18:26.9,18:51.1,,
+,,78,Ungdom E0,40,Isac Tornberg,Carlsborgs MK,4,14:02.6,18:20.0,18:17.4,18:16.2,19:08.7,,
+,,79,Ungdom E0,56,Åke Wellander,Hallsbergs MK,4,14:06.6,18:54.7,18:05.5,18:01.5,19:04.7,,
+,,80,Motion 50-59,1259,Markus Hansson,FMCK Borås,4,14:25.7,18:31.6,18:14.8,18:40.1,18:59.0,,
+,,81,Motion 50-59,1208,Marcus Ljung,SMK Trollhättan,4,14:34.3,18:24.5,18:27.8,18:49.6,18:52.4,,
+,,82,Motion 50-59,1446,Anders Berglund,Örebro EK,4,14:37.7,17:59.0,18:15.7,18:47.7,19:35.1,,
+,,83,Motion 50-59,1204,Peter Damgren,FMCK Skövde,4,14:39.8,18:23.9,18:05.6,18:29.7,19:40.4,,
+,,84,Motion 50-59,1278,Andreas Holmstrand,FMCK Borås,4,14:53.2,18:45.2,18:24.2,18:55.2,18:48.4,,
+,,85,Ungdom E0,12,Benjamin Bengtsson,Falköpings MK,4,14:53.2,18:17.1,18:42.6,18:52.9,19:00.4,,
+,,86,Motion 50-59,1254,Jörgen Rutgersson,Stenungsunds MS,4,14:56.9,18:36.2,18:13.6,18:43.0,19:23.9,,
+,,87,Motion 50-59,1273,Jan-Eric Höög,Skene MS,4,15:09.1,18:26.8,18:23.2,18:51.5,19:27.4,,
+,,88,Motion 60-,1512,Asbjørn Sletholt,"Flittig, Utenlandsk klubb",4,15:14.2,18:22.9,18:23.7,18:50.6,19:36.9,,
+,,89,Ungdom E0,2,Elvira Auvinen,FMCK Skövde,4,15:16.6,18:56.1,18:28.9,18:46.5,19:04.9,,
+,,90,Motion 50-59,1265,Kenny Elfström,Örebro EK,4,15:33.6,18:56.9,18:47.9,19:01.0,18:47.7,,
+,,91,Motion 50-59,1233,Jimmy Öhlin,MK Ran,4,15:36.9,18:46.6,18:56.0,18:51.7,19:02.3,,
+,,92,Motion 60-,1500,Tommy Berndtsson,SMK Trollhättan,4,15:38.1,18:41.5,19:20.6,18:48.9,18:46.9,,
+,,93,Motion 50-59,1285,Stefan Larsson,Carlsborgs MK,4,15:52.9,18:36.3,18:47.6,19:08.2,19:20.6,,
+,,94,Motion 60-,1617,Staffan Oldenburg,FMCK Skövde,4,15:58.7,18:45.0,18:55.3,19:00.9,19:17.3,,
+,,95,Motion 50-59,1223,Roger Wallgren,FMCK Skövde,4,16:02.2,18:23.4,18:25.6,19:07.2,20:05.9,,
+,,96,Motion 50-59,1213,Lars Nilsson,BMK Uddevalla,4,16:05.5,18:37.6,18:56.3,19:16.5,19:15.0,,
+,,97,Motion 50-59,1376,Karl Essgärde,Götene MK,4,16:14.5,18:16.6,18:50.2,19:42.5,19:25.1,,
+,,98,Motion 60-,1660,Joakim Hedström,Kinds MK,4,16:28.2,18:39.2,19:04.9,19:13.2,19:30.7,,
+,,99,Motion 50-59,1346,Fredrik Langvall,Skene MS,4,16:40.4,18:38.3,18:46.7,19:24.5,19:50.8,,
+,,100,Motion 60-,1548,Lennart Bengtsson,SMK Hedemora,4,16:45.5,18:14.9,18:31.8,19:53.0,20:05.7,,
+,,101,Motion 50-59,1220,Lennart Bodin,FMCK Borås,4,16:51.4,18:38.1,18:46.3,19:23.0,20:03.8,,
+,,102,Motion 60-,1508,Berth-Åke Åhman,FMCK Borås,4,17:01.6,18:30.8,18:46.2,19:11.7,20:32.7,,
+,,103,Motion 60-,1511,Håkan Persson,MK Ran,4,17:10.5,18:25.7,18:34.9,20:10.0,19:59.8,,
+,,104,Ungdom E0,24,Wilmer Nilsson,Hallsbergs MK,4,17:14.4,19:01.3,18:33.1,20:13.1,19:26.7,,
+,,105,Motion 60-,1515,Thomas Nilsson,Falköpings MK,4,17:17.8,19:03.7,18:36.6,19:35.5,20:01.8,,
+,,106,Ungdom E0,42,Sander Sangberg,Lidköpings MCK,4,17:44.4,19:27.8,19:38.3,19:21.7,19:16.4,,
+,,107,Motion 60-,1697,Mats Karlsson,Kungsbacka MA,4,18:07.7,18:55.9,18:41.0,20:02.0,20:28.7,,
+,,108,Motion 60-,1600,Tony Johnsson,FMCK Borås,4,18:12.7,18:49.0,21:00.9,19:06.9,19:15.8,,
+,,109,Motion 60-,1514,Karl-Axel Andersson,FMCK Borås,4,18:34.7,18:57.0,19:01.8,19:59.6,20:36.2,,
+,,110,Motion 60-,1506,Lars-Gunnar Skogh,Falköpings MK,4,18:59.6,19:17.9,19:11.1,20:26.2,20:04.3,,
+,,111,Motion 50-59,1252,Richard Kling,MK Pionjär,4,20:04.0,19:26.6,19:59.1,20:21.1,20:17.0,,
+,,112,Motion 50-59,1256,Jim Larsson,Stenungsunds MS,4,20:09.9,19:52.9,19:37.8,20:31.2,20:07.8,,
+,,113,Motion Dam,462,Carolin Wedemalm,Falköpings MK,4,20:24.5,19:24.3,19:29.5,20:20.7,21:09.8,,
+,,114,Motion Dam,499,Victoria Wester,FMCK Skövde,4,21:26.6,20:46.5,20:03.9,20:14.9,20:21.1,,
+,,115,Motion 50-59,1282,Mikael Starby,Tranås MS,4,21:37.2,20:25.9,19:59.0,20:42.5,20:29.7,,
+,,116,Ungdom E0,28,Olle Söderberg,Falköpings MK,4,22:10.6,20:36.8,20:06.7,20:49.4,20:37.5,,
+,,117,Motion 50-59,1201,Anders Edin,Falköpings MK,4,22:15.4,20:08.4,20:04.1,20:36.0,21:26.7,,
+,,118,Ungdom E0,31,Egon Pettersson Blomström,Karlskoga EK,4,22:16.4,20:18.8,20:19.3,21:37.0,20:01.2,,
+,,119,Motion 50-59,1421,Tomas Aronsson,Töreboda MK,4,22:35.6,20:44.6,20:27.4,20:39.1,20:44.4,,
+,,120,Motion 50-59,1312,Christian Larsson,Ulricehamns MK,4,22:45.6,21:29.9,20:23.0,20:25.3,20:27.3,,
+,,121,Motion Dam,450,Louise Svensson,Götene MK,4,23:45.7,21:44.6,20:16.0,21:13.5,20:31.6,,
+,,122,Motion 60-,1507,Thomas Gustafsson,Älvbygdens MK,4,24:20.5,20:45.2,21:01.6,21:07.6,21:25.9,,
+,,123,Motion Dam,451,Linnéa Jensmark,Solshesters MCK,4,24:30.2,21:04.7,21:01.5,21:03.9,21:20.0,,
+,,124,Motion 50-59,1368,Anders Engström,Stenungsunds MS,4,24:46.6,20:28.0,20:49.8,21:22.8,22:05.8,,
+,,125,Motion 50-59,1250,Rikard Bengtsson,FMCK Borås,4,25:34.3,20:43.9,20:55.6,21:43.4,22:11.2,,
+,,126,Ungdom E0,11,Alicia Isaksson,Falköpings MK,4,25:59.0,21:09.9,21:29.8,21:26.7,21:52.5,,
+,,127,Motion 60-,1516,Jan Backelin,MK Pionjär,4,26:19.8,20:36.8,20:27.4,21:00.2,24:15.3,,
+,,128,Motion Dam,459,Marie Gustafsson,Ulricehamns MK,4,26:23.0,20:29.1,21:50.3,21:49.2,22:14.2,,
+,,129,Motion 60-,1510,Stefan Pettersen,Falköpings MK,4,28:18.5,21:38.5,21:16.6,22:58.1,22:25.1,,
+,,130,Motion 50-59,1264,Tommy Johansson,Skene MS,4,29:29.5,20:41.7,21:58.3,24:02.2,22:47.0,,
+,,131,Ungdom E0,80,Arvid Bursell,SMK Värnamo,4,32:48.1,20:39.3,22:03.8,23:00.5,27:04.5,,
+,,132,Ungdom E0,69,Pontus Martinez Johansson,Töreboda MK,3,01:21.6,20:55.0,19:58.2,20:28.2,,,
+,,133,Motion 50-59,1272,Johan Thorn,Beskaskinn MC,3,02:23.1,19:34.3,20:25.6,22:23.0,,,
+,,134,Motion 50-59,1246,Claes Gustafsson,Töreboda MK,3,05:00.5,20:54.0,21:33.5,22:33.0,,,
+,,135,Motion 60-,1555,Bengt Ekdahl,FMCK Borås,3,07:50.9,21:09.7,22:46.9,23:54.2,,,
+,,136,Ungdom E0,58,Alice Wahlström,Hallsbergs MK,3,11:40.3,23:39.6,23:16.3,24:44.3,,,
+,,137,Ungdom E0,16,Knut Persson,Tibro MK,3,11:48.4,22:24.5,23:37.4,25:46.4,,,
+,,138,Ungdom E0,9,William Sköld,Falköpings MK,3,16:15.9,23:41.5,25:50.8,26:43.5,,,
+,,139,Motion 50-59,1216,Per Hedskog,SMK Trollhättan,2,34:35.3,17:16.9,17:18.4,,,,
+,,140,Motion 50-59,1238,Tomas Sjöquist,Försvarsmaktens EK,2,35:49.0,17:56.9,17:52.0,,,,
+,,141,Ungdom E0,94,Wilje Bogren,Töreboda MK,2,36:06.3,17:50.2,18:16.0,,,,
+,,142,Ungdom E0,21,William Larsson,FMCK Skövde,2,44:31.0,18:54.8,25:36.1,,,,
+,,143,Ungdom E0,93,Billy Aronsson,Töreboda MK,2,00:25.1,25:02.1,35:22.9,,,,
+,,144,Ungdom E0,3,William Marcher,Hallsbergs MK,1,17:08.9,17:08.9,,,,,
+,,1,Ungdom E1,169,Olof Backman,Karlskoga EK,4,01:14.0,14:56.8,15:13.7,15:26.0,15:37.3,,
+,,2,Motion -39,539,Niklas Mörk,Laxå MK,4,01:48.7,14:53.7,15:14.8,15:32.9,16:07.1,,
+,,3,Ungdom E1,175,William Almén,SMK Värnamo,4,02:01.9,14:50.7,15:07.8,15:50.9,16:12.3,,
+,,4,Ungdom E1,100,Hugo Andersson,Tibro MK,4,02:32.6,14:44.2,15:09.5,15:51.4,16:47.3,,
+,,5,Ungdom E1,104,Theodor Popp,SMK Värnamo,4,02:50.2,15:14.8,15:40.6,15:52.6,16:02.1,,
+,,6,Motion -39,519,Erik Larsson,Tibro MK,4,02:55.3,15:30.6,15:26.2,15:44.4,16:13.9,,
+,,7,Ungdom E1,184,Sven Höglander,Djursdala SK,4,03:01.3,15:09.7,15:44.9,15:58.6,16:07.9,,
+,,8,Motion -39,552,Jakob Johansson,Tidaholms MK,4,03:59.9,15:18.2,15:47.8,16:08.7,16:45.1,,
+,,9,Motion -39,518,Alexander Fält,Försvarsmaktens EK,4,04:43.0,15:35.5,16:09.0,16:31.6,16:26.7,,
+,,10,Motion 40-49,1111,Magnus Edberg,Huskvarna MK,4,04:51.3,15:29.2,16:01.5,16:26.9,16:53.6,,
+,,11,Ungdom E1,193,Emil Wänndahl,Huskvarna MK,4,05:08.6,15:23.3,15:59.4,16:14.7,17:31.2,,
+,,12,Ungdom E1,165,Hugo Hellström,Norrahammars MK,4,05:17.3,15:35.9,15:55.9,16:39.5,17:05.9,,
+,,13,Ungdom E1,162,Axel Plogner,Karlstad MX Klubb,4,05:42.2,16:10.0,16:13.5,16:45.0,16:33.4,,
+,,14,Motion -39,620,Hampus Östensson,Hallsbergs MK,4,05:55.3,15:54.2,16:34.5,16:42.5,16:44.0,,
+,,15,Motion 40-49,970,Roy Kolberg,Team Westom Motorcykel,4,06:04.6,15:51.5,16:30.1,16:50.8,16:52.1,,
+,,16,Motion 40-49,1008,Christer Huss,Göta MS,4,06:08.1,16:17.6,16:32.4,16:44.6,16:33.3,,
+,,17,Ungdom E1,188,Liam Ljungström,SMK Vingåker,4,06:46.3,15:59.0,16:22.1,16:59.5,17:25.5,,
+,,18,Motion -39,536,Andreas Mörk,Laxå MK,4,06:55.1,16:12.5,16:33.6,16:58.5,17:10.3,,
+,,19,Motion -39,507,Alfred Ivarsson,Älvbygdens MK,4,07:09.1,16:31.1,16:46.3,16:46.2,17:05.3,,
+,,20,Ungdom E1,105,Alfred Gustavsson,Mariestads EK,4,07:12.0,16:39.2,16:37.8,16:46.6,17:08.3,,
+,,21,Motion 40-49,931,Mårten Gustavsson,Försvarsmaktens EK,4,07:27.2,15:58.2,17:22.4,17:29.7,16:36.8,,
+,,22,Motion 40-49,976,Joakim Ericsson,Töreboda MK,4,07:34.5,16:47.6,16:35.6,17:00.0,17:11.3,,
+,,23,Motion 40-49,944,Niklas Strömberg,Götene MK,4,07:36.4,15:52.5,16:57.5,17:21.2,17:25.1,,
+,,24,Ungdom E1,102,Liam Qvist,Åbågen MCK,4,07:37.4,16:09.0,16:43.6,17:14.1,17:30.6,,
+,,25,Motion -39,513,Joacim Wigertson,Kullings MS,4,07:38.5,16:14.4,16:43.3,17:16.2,17:24.4,,
+,,26,Ungdom E1,177,Max Karlsson,Stenungsunds MS,4,07:42.2,15:51.0,17:36.2,16:44.2,17:30.7,,
+,,27,Motion -39,520,Linus Ernstsson,Bengtsfors MCC,4,07:42.9,16:16.2,16:50.6,17:00.7,17:35.3,,
+,,28,Motion -39,408,Matilda Huss,Göta MS,4,08:06.2,16:59.8,17:03.6,17:07.2,16:55.5,,
+,,29,Ungdom E1,151,Liam Nilsson,FMCK Skövde,4,08:10.1,16:14.1,17:57.3,16:45.6,17:12.9,,
+,,30,Motion 40-49,923,Stefan Liljedahl,Tibro MK,4,08:18.7,16:33.9,17:09.5,17:12.5,17:22.6,,
+,,31,Motion -39,576,Robert Lind,Tranås MS,4,08:30.9,16:23.8,16:48.1,17:36.5,17:42.3,,
+,,32,Motion -39,794,Joel Kvist,Försvarsmaktens EK,4,08:31.2,15:33.4,17:57.9,17:39.2,17:20.6,,
+,,33,Motion -39,521,Simon Holmbäck,Hjo MK,4,08:31.7,16:28.6,16:58.8,17:25.3,17:38.8,,
+,,34,Motion 40-49,1007,Henrik Klövmark,Ma Lerum,4,08:48.7,16:17.9,17:09.9,17:44.9,17:35.8,,
+,,35,Motion 40-49,964,Andreas Remfäldt,Mariestads EK,4,08:52.5,16:59.1,17:24.6,17:18.4,17:10.2,,
+,,36,Motion -39,547,Felix Johansson,Kinds MK,4,09:29.7,17:04.5,17:13.9,17:29.4,17:41.7,,
+,,37,Motion -39,527,George Svantesson,Kullings MS,4,09:31.1,17:12.1,17:28.1,17:29.9,17:20.8,,
+,,38,Motion -39,526,Simon Henriksson,Lilla Edets MCK,4,09:33.0,16:56.8,17:07.5,18:00.2,17:28.5,,
+,,39,Motion 40-49,994,Mikael Bengtsson,Falköpings MK,4,09:36.8,17:05.7,17:42.7,17:31.3,17:17.0,,
+,,40,Motion -39,568,Dennis Larsson,Örebro EK,4,09:46.8,16:50.8,17:41.5,17:34.6,17:39.8,,
+,,41,Motion 40-49,924,Sebastian Carlsson,SMK Vadstena,4,10:15.6,16:34.3,17:10.5,18:04.8,18:25.9,,
+,,42,Motion 40-49,1011,Mikael Hjelm,Finspångs MS,4,10:18.0,17:16.6,17:41.9,17:42.5,17:36.8,,
+,,43,Motion 40-49,960,Fredric Randström,Hagfors MS,4,10:54.1,17:21.3,17:46.7,17:52.3,17:53.7,,
+,,44,Motion -39,537,Emil Meijer,Götene MK,4,11:24.2,17:09.0,18:05.1,17:55.5,18:14.5,,
+,,45,Motion 40-49,1006,Anton Bernhardsson,Kortedala MK,4,11:25.5,17:24.4,17:52.2,18:07.6,18:01.2,,
+,,46,Motion -39,584,Johan Arne Wärnelöv,Tranås MS,4,11:25.6,17:15.9,17:47.8,18:02.8,18:18.9,,
+,,47,Motion -39,695,Dennis Eriksson,SMK Ronneby,4,11:32.0,17:29.6,17:51.4,18:07.1,18:03.7,,
+,,48,Motion 40-49,935,Stefan Andersson,Lilla Edets MCK,4,11:45.4,17:21.4,17:25.1,18:48.6,18:10.2,,
+,,49,Motion -39,729,Gustav Malm,Hallsbergs MK,4,11:46.0,17:30.8,17:43.0,18:00.6,18:31.5,,
+,,50,Motion -39,560,John Larsson,Carlsborgs MK,4,11:48.7,17:42.7,18:07.3,18:10.2,17:48.4,,
+,,51,Motion 40-49,933,Ola Korsell,Götene MK,4,12:05.3,16:45.7,18:01.2,19:06.4,18:11.9,,
+,,52,Motion 40-49,901,Mattias Eriksson,Varbergs MK,4,12:07.8,17:20.9,17:39.6,18:07.5,18:59.6,,
+,,53,Motion -39,510,Simon Öberg,Norrahammars MK,4,12:22.1,17:25.3,18:00.5,18:17.1,18:39.0,,
+,,54,Motion -39,574,Andreas Nordström,Eds-Skottbacka MX Förening,4,12:22.3,17:46.6,17:50.7,18:03.4,18:41.4,,
+,,55,Motion 40-49,957,Markus Andersson,MK Team Treske,4,12:24.4,17:25.3,18:08.8,18:31.5,18:18.7,,
+,,56,Motion -39,580,Albin Pettersson,Kristdala Motorsällskap,4,12:27.3,17:21.9,18:14.5,18:19.4,18:31.3,,
+,,57,Motion 40-49,911,Ronny Eskengren,Älvbygdens MK,4,12:29.1,17:29.0,18:03.7,18:25.9,18:30.3,,
+,,58,Motion -39,593,Patrik Johansson,Tibro MK,4,12:35.7,18:20.5,17:57.5,18:09.9,18:07.7,,
+,,59,Motion -39,566,Henrik Madsen,Huskvarna MK,4,12:36.9,17:36.1,17:49.7,18:23.7,18:47.3,,
+,,60,Motion -39,591,Thim Svensson,Vissefjärda EK,4,12:44.3,17:58.8,17:32.7,18:21.5,18:51.2,,
+,,61,Motion 40-49,908,Martin Börjesson,FMCK Borås,4,13:00.0,17:20.5,18:10.3,18:44.0,18:45.1,,
+,,62,Motion -39,799,Patrik Förkrök Ledström,SMK Vadstena,4,13:02.6,17:48.5,17:59.4,18:32.8,18:41.7,,
+,,63,Motion 40-49,997,Robert Strandberg,Hjo MK,4,13:04.0,17:33.4,18:05.9,18:19.9,19:04.7,,
+,,64,Ungdom E1,194,Edwin Djurstedt,Djursdala SK,4,13:06.5,17:21.9,18:05.7,18:57.9,18:40.9,,
+,,65,Motion -39,509,Jonathan Storm,Kortedala MK,4,13:17.4,17:54.4,18:22.8,18:41.3,18:18.8,,
+,,66,Motion -39,589,Joel Rådberg,SMK Trollhättan,4,13:18.1,17:56.0,18:05.5,18:23.2,18:53.2,,
+,,67,Motion 40-49,1012,Mattias Ringholm,Hallsbergs MK,4,13:19.7,17:40.8,17:55.2,18:20.0,19:23.6,,
+,,68,Motion -39,562,Johan Hedström,Kinds MK,4,13:24.4,17:48.1,18:18.7,18:49.6,18:27.8,,
+,,69,Motion -39,549,Rasmus Levén,Bodafors MK,4,13:32.0,18:04.2,18:14.9,18:40.7,18:32.1,,
+,,70,Motion 40-49,995,Oddbjørn Sandvik,Flittig Enduro,4,13:36.9,17:45.9,18:15.5,18:36.8,18:58.6,,
+,,71,Motion -39,540,Ronnie Nilsson,Töreboda MK,4,13:45.5,17:49.9,18:35.2,18:50.0,18:30.3,,
+,,72,Motion 40-49,989,Fredrik Sääv,Götene MK,4,13:52.4,17:38.8,18:24.3,18:37.4,19:11.7,,
+,,73,Motion -39,573,Jimmi Jakobsson,MK Team Treske,4,13:56.3,17:48.4,18:05.1,18:50.8,19:11.9,,
+,,74,Motion -39,501,Linus Kjellström,Götene MK,4,14:14.0,17:28.9,18:40.8,19:08.1,18:56.1,,
+,,75,Motion -39,528,Hugo Lindström,FMCK Borås,4,14:17.0,18:15.5,18:45.8,18:27.7,18:48.0,,
+,,76,Motion 40-49,903,Björn Bäckström,MK Ran,4,14:23.1,17:46.2,18:14.1,20:10.8,18:11.8,,
+,,77,Motion -39,500,Tommy Oldenburg,FMCK Skövde,4,14:25.5,17:50.9,18:28.2,18:58.9,19:07.2,,
+,,78,Motion 40-49,943,Anton Gustavsson,Mariestads EK,4,14:33.4,18:17.3,18:15.9,18:51.3,19:08.8,,
+,,79,Motion -39,535,Johan Andersson,SMK Östgöta,4,14:38.8,17:42.6,18:21.4,19:14.4,19:20.3,,
+,,80,Motion 40-49,952,Christian Johansson,Tidaholms MK,4,14:45.0,17:47.6,18:44.6,18:38.1,19:34.5,,
+,,81,Motion 40-49,928,Johan Debrianté,SMK Ljungby,4,14:48.4,18:02.6,18:16.8,19:14.1,19:14.7,,
+,,82,Motion -39,631,Dennis Olesen,Kullings MS,4,14:50.2,17:10.7,19:33.2,18:44.0,19:22.2,,
+,,83,Motion 40-49,947,Magnus Enander,Ulricehamns MK,4,14:50.5,17:43.0,18:34.9,18:52.2,19:40.2,,
+,,84,Motion -39,572,Axel Karlsson,Laxå MK,4,15:01.7,18:07.6,18:57.4,18:48.4,19:08.2,,
+,,85,Motion 40-49,973,Björn Runfeldt,Norrahammars MK,4,15:04.5,18:33.6,18:34.2,18:41.4,19:15.1,,
+,,86,Motion 40-49,961,Daniel Lundqvist,Töreboda MK,4,15:13.4,18:19.1,18:56.1,19:13.7,18:44.4,,
+,,87,Motion -39,565,Erik Wallskog,Töreboda MK,4,15:14.5,18:25.9,18:12.6,18:46.6,19:49.2,,
+,,88,Motion -39,632,Viktor Hultman,Mariestads EK,4,15:30.5,18:16.7,18:24.0,19:16.6,19:33.0,,
+,,89,Motion -39,545,Grim Fallenius,Götene MK,4,15:32.7,18:47.0,18:38.3,18:47.9,19:19.4,,
+,,90,Motion -39,556,Tommy Gustafsson,Huskvarna MK,4,15:41.9,18:29.9,19:03.9,19:12.2,18:55.7,,
+,,91,Motion -39,569,Christoffer Jonasson,SMC,4,15:49.4,18:15.2,19:29.9,19:07.6,18:56.5,,
+,,92,Motion -39,585,Niklas Kedén,Hjo MK,4,15:57.0,18:31.7,18:24.0,19:10.1,19:51.0,,
+,,93,Ungdom E1,186,Emil Elmwall,Hallsbergs MK,4,16:01.8,18:30.7,20:21.3,18:48.0,18:21.7,,
+,,94,Motion -39,543,Axel Gustafsson,Lidköpings MCK,4,16:19.2,19:02.5,18:51.4,18:49.0,19:36.2,,
+,,95,Motion -39,541,Patric Gustafsson,Huskvarna MK,4,16:21.6,18:22.7,19:08.3,19:29.6,19:20.9,,
+,,96,Motion -39,555,Dennis Hörberg,Norrahammars MK,4,16:22.3,18:45.7,18:51.1,19:16.6,19:28.8,,
+,,97,Motion 40-49,917,Tomas Blom,Hallsbergs MK,4,16:30.1,18:11.9,18:54.0,19:45.9,19:38.1,,
+,,98,Motion -39,523,Rasmus Bengt Olof Malmborg,Björkö EK,4,16:30.6,19:14.0,18:53.8,18:59.3,19:23.5,,
+,,99,Motion -39,530,Patrik Olsson,Lilla Edets MCK,4,16:36.2,17:40.0,21:50.2,18:35.5,18:30.4,,
+,,100,Motion 40-49,913,Daniel Blomqvist,FMCK Skövde,4,16:46.5,19:06.2,19:12.3,19:26.3,19:01.5,,
+,,101,Motion -39,786,Anton Persson,Tibro MK,4,17:06.1,18:31.5,19:30.6,19:47.3,19:16.5,,
+,,102,Motion 40-49,920,Christoffer Johnsson,Hisingens MK,4,17:09.6,18:12.6,18:55.7,19:55.1,20:06.1,,
+,,103,Motion 40-49,981,Patrick Wik,Skene MS,4,17:09.8,18:51.9,18:47.7,19:39.5,19:50.5,,
+,,104,Motion -39,582,Jonathan Lagerqvist,Björkö EK,4,17:24.5,18:59.7,19:28.0,19:14.2,19:42.5,,
+,,105,Motion 40-49,932,Niklas Utterberg,Norrahammars MK,4,17:35.2,19:08.6,19:14.8,19:44.5,19:27.2,,
+,,106,Motion 40-49,1004,Rickard Persson,Tibro MK,4,17:42.8,19:17.5,19:21.3,19:23.2,19:40.6,,
+,,107,Motion -39,639,Melker Jansson,Karlskoga EK,4,17:43.1,17:05.1,18:15.3,24:01.2,18:21.3,,
+,,108,Motion -39,667,Philip Baumgartner,Götene MK,4,17:47.7,18:38.7,19:17.4,20:04.5,19:46.8,,
+,,109,Motion 40-49,904,Henrik Lindström,FMCK Borås,4,17:48.2,18:34.0,19:53.6,19:50.7,19:29.8,,
+,,110,Motion -39,689,Jonatan Svantesson,Kullings MS,4,18:00.1,18:44.9,19:58.7,19:36.8,19:39.5,,
+,,111,Motion 40-49,934,Fredrik Hassesjö,Ulricehamns MK,4,18:00.6,19:02.1,19:38.0,19:49.7,19:30.8,,
+,,112,Motion 40-49,955,Henrik Nilsson,Mariestads EK,4,18:07.8,19:37.9,19:30.9,19:13.2,19:45.7,,
+,,113,Motion -39,544,Anton Isaksson,Götene MK,4,18:10.0,19:02.3,19:31.7,20:03.6,19:32.3,,
+,,114,Ungdom E1,198,Jacob Stacke,SMK Värnamo,4,18:10.5,18:22.5,18:14.9,22:01.6,19:31.4,,
+,,115,Motion 40-49,930,Jonas Lyttbacka,Örebro EK,4,18:13.2,18:46.0,19:33.6,19:46.7,20:06.9,,
+,,116,Motion -39,559,Jesper Herngren,Falköpings MK,4,18:27.3,18:27.1,19:21.0,19:24.7,21:14.2,,
+,,117,Motion -39,669,Albin Johansson,Lidköpings MCK,4,18:35.9,19:15.5,19:11.6,20:09.5,19:59.1,,
+,,118,Motion -39,728,Arvid Siggesson,Tibro MK,4,18:47.0,19:37.6,19:34.0,19:57.1,19:38.1,,
+,,119,Motion -39,517,Simon Gustafsson,Älvbygdens MK,4,18:49.6,19:08.5,19:35.4,20:04.9,20:00.6,,
+,,120,Motion 40-49,958,Erik Bergstrand,Oskarshamns MSK,4,18:57.5,19:20.4,19:30.9,19:54.2,20:11.8,,
+,,121,Motion 40-49,1005,Marcus Stacke,SMK Värnamo,4,19:01.5,18:47.5,19:14.4,21:02.3,19:57.1,,
+,,122,Motion -39,546,Rikard Sundström,Götene MK,4,19:03.1,19:09.8,19:40.2,20:01.8,20:11.2,,
+,,123,Motion -39,542,Bernard Abrahamsson,FMCK BohusDal,4,19:03.6,18:51.7,20:20.0,20:10.3,19:41.4,,
+,,124,Motion 40-49,950,Johan Elfving,Ulricehamns MK,4,19:04.2,19:14.6,19:13.7,20:11.8,20:23.9,,
+,,125,Motion -39,502,Johan Svensson,Falköpings MK,4,19:11.7,19:28.7,20:20.5,19:54.8,19:27.6,,
+,,126,Motion -39,567,Victor Joensuu,MSK Hammaren,4,19:29.2,19:05.8,19:24.3,19:54.1,21:04.8,,
+,,127,Ungdom E1,115,Simon Rutgersson,Stenungsunds MS,4,19:30.1,19:30.4,19:08.9,22:12.9,18:37.6,,
+,,128,Motion -39,762,Markus Göransson,Lilla Edets MCK,4,19:32.3,19:46.2,19:58.3,19:44.9,20:02.8,,
+,,129,Motion -39,652,Filip Johansson,Tidaholms MK,4,19:35.6,19:17.4,19:25.8,20:51.0,20:01.2,,
+,,130,Motion 40-49,922,Mikael Sahlin,Lidköpings MCK,4,19:43.8,19:53.4,19:36.4,20:01.2,20:12.6,,
+,,131,Motion 40-49,972,Jonas Svensson,Hallsbergs MK,4,19:54.7,19:06.7,19:59.9,20:00.0,20:47.9,,
+,,132,Motion 40-49,988,Martin Bonander,Stenungsunds MS,4,20:17.9,21:07.8,19:15.4,19:57.1,19:57.5,,
+,,133,Ungdom E1,125,Wiggo Hansson,Tidaholms MK,4,20:23.3,19:05.8,20:17.4,21:04.1,19:55.9,,
+,,134,Motion 40-49,990,Johan Kjellson,FMCK Skövde,4,20:24.2,18:43.6,20:08.9,20:35.4,20:56.2,,
+,,135,Ungdom E1,181,Emil Gabrielsson,Skene MS,4,20:29.4,19:17.7,20:05.7,20:47.9,20:18.0,,
+,,136,Motion 40-49,956,Tommy Jonsson,Mariestads EK,4,20:34.1,20:40.5,19:47.9,19:46.2,20:19.3,,
+,,137,Motion 40-49,910,Per Eriksson,Hallsbergs MK,4,20:37.7,18:56.7,19:42.1,21:02.8,20:55.9,,
+,,138,Motion 40-49,907,Jonas Milefors,Kortedala MK,4,20:43.7,19:18.9,19:55.9,20:35.6,20:53.2,,
+,,139,Ungdom E1,103,Lisa Nyqvist,Stenungsunds MS,4,20:48.7,20:10.5,19:30.6,20:28.2,20:39.2,,
+,,140,Ungdom E1,107,Thure Rudklint,Oskarshamns MSK,4,20:57.5,19:51.8,19:55.6,20:55.4,20:14.5,,
+,,141,Ungdom E1,126,Marwin Wik,Skene MS,4,20:57.7,20:20.4,19:54.2,20:30.3,20:12.7,,
+,,142,Motion -39,610,David Hörberg,Försvarsmaktens EK,4,20:58.1,19:16.8,19:52.1,20:48.2,21:00.8,,
+,,143,Motion 40-49,915,Martin Jonsson,Töreboda MK,4,21:06.7,19:26.0,20:12.8,21:03.6,20:24.2,,
+,,144,Motion 40-49,945,Oscar Ekdahl,FMCK Borås,4,21:08.8,20:14.1,20:24.5,20:14.7,20:15.4,,
+,,145,Motion -39,612,Christian Kurist,Falköpings MK,4,21:29.1,19:44.7,20:12.5,20:12.7,21:19.1,,
+,,146,Motion -39,529,Jacob Emilsson,Kristdala Motorsällskap,4,21:45.1,19:40.4,19:37.2,22:19.5,20:07.9,,
+,,147,Motion -39,586,Johan Lidén,Eda MK,4,21:57.5,20:06.8,20:25.5,20:45.3,20:39.7,,
+,,148,Motion 40-49,926,Mark Edvardsson,Alingsås MCK,4,22:09.4,19:46.6,20:19.6,21:12.6,20:50.4,,
+,,149,Motion -39,515,Gustav Strinne,Edsvära MCK,4,22:09.6,18:49.5,20:59.5,20:12.3,22:08.2,,
+,,150,Ungdom E1,111,Anton Andersson,Norrahammars MK,4,23:16.5,19:49.0,20:28.1,20:57.4,22:01.8,,
+,,151,Motion -39,614,Henrik Stråhle,Ma Lerum,4,23:38.5,20:36.4,21:25.0,21:07.0,20:29.9,,
+,,152,Ungdom E1,199,William Blom,Skene MS,4,24:04.8,20:43.7,20:54.7,21:19.4,21:06.8,,
+,,153,Ungdom E1,122,Tuva Sahlin Palmstedt,Lidköpings MCK,4,24:26.0,20:39.9,20:17.8,21:31.7,21:56.4,,
+,,154,Motion 40-49,912,Peter Berggren,BMK Uddevalla,4,24:41.0,20:29.7,21:08.5,21:26.4,21:36.3,,
+,,155,Motion -39,511,Oliver Wennerholm,FMCK Borås,4,24:50.2,19:52.4,20:42.4,21:48.5,22:26.8,,
+,,156,Motion -39,594,Anton Torgin,Donkelo RK,4,25:05.3,21:07.4,21:03.4,21:30.4,21:23.9,,
+,,157,Motion -39,538,Rasmus Hansson,Skene MS,4,25:17.6,20:36.6,21:37.4,21:11.0,21:52.4,,
+,,158,Motion 40-49,951,Jonas Eriksson,Mariestads EK,4,25:47.4,20:38.3,21:07.9,21:54.1,22:07.0,,
+,,159,Motion 40-49,984,Robban Markusson,SMK Vadstena,4,26:01.9,20:25.0,20:40.4,21:55.8,23:00.7,,
+,,160,Motion 40-49,998,Karl Henrik Johan Wass,Götene MK,4,26:10.0,20:52.5,21:42.9,22:37.9,20:56.5,,
+,,161,Motion 40-49,906,Anders Billestedt Andersson,Stenungsunds MS,4,26:22.5,20:24.4,21:20.9,22:00.0,22:37.0,,
+,,162,Motion 40-49,982,Cristoffer Matlak,Alingsås MCK,4,26:56.4,20:37.8,21:51.5,22:04.0,22:23.1,,
+,,163,Ungdom E1,195,Casper Svahn,Örebro MK,4,28:18.8,19:46.6,21:18.3,23:26.0,23:47.8,,
+,,164,Ungdom E1,124,Sam Aronsson,Töreboda MK,4,29:41.6,21:06.9,21:50.6,24:02.1,22:41.9,,
+,,165,Motion 40-49,999,Johan Törnqvist,FMCK Skövde,4,33:16.3,22:24.7,23:11.2,23:41.3,23:58.9,,
+,,166,Motion -39,590,Tobias Hagelin,FMCK Borås,4,33:47.7,25:03.4,22:56.5,22:50.0,22:57.7,,
+,,167,Motion -39,533,Jimmy Josefsson,Skene MS,3,52:10.9,16:53.4,17:17.9,17:59.5,,,
+,,168,Motion -39,553,Petter Hedlund,Hallsbergs MK,3,54:25.6,17:46.5,17:59.6,18:39.4,,,
+,,169,Motion 40-49,978,Johan Karlsson,Älvbygdens MK,3,55:57.2,18:07.4,18:39.8,19:09.9,,,
+,,170,Motion 40-49,1020,Jonas Gustafsson,Götene MK,3,57:10.1,18:46.6,18:45.8,19:37.6,,,
+,,171,Motion 40-49,975,Hannu Ylipekkala,Anderstorp RC,3,59:18.3,19:29.5,19:51.2,19:57.4,,,
+,,172,Motion 40-49,919,Robert Ahlin,Falköpings MK,3,59:21.8,19:11.2,19:28.0,20:42.6,,,
+,,173,Motion 40-49,942,Rikard Hofvander,Hallsbergs MK,3,00:44.3,20:20.7,19:57.4,20:26.0,,,
+,,174,Motion -39,703,Martin Johansson,Skara MK,3,02:31.3,20:08.3,20:51.7,21:31.2,,,
+,,175,Motion 40-49,963,Ronny Larsen,Flittig Enduro,3,03:25.9,20:49.4,20:53.0,21:43.4,,,
+,,176,Motion -39,534,Richard Mickelsson,Tibro MK,3,04:40.2,21:14.6,21:33.3,21:52.2,,,
+,,177,Motion 40-49,937,Henrik Olsson,Falköpings MK,3,05:05.5,20:43.0,22:13.1,22:09.3,,,
+,,178,Motion 40-49,936,Per Karlsson,SMK Vadstena,3,07:08.9,21:20.0,21:20.7,24:28.1,,,
+,,179,Motion 40-49,974,Ulric Karlsson,Tidaholms MK,3,07:15.6,20:09.8,20:56.0,26:09.7,,,
+,,180,Motion 40-49,1121,Andreas Lambert Melander,Lilla Edets MCK,3,08:09.4,21:22.7,23:32.1,23:14.4,,,
+,,181,Motion -39,563,Axel Virgin Ericsson,Götene MK,3,09:44.6,22:58.0,22:42.8,24:03.7,,,
+,,182,Motion 40-49,1002,Andreas Sjöberg,Tibro MK,3,10:42.1,23:00.9,23:13.5,24:27.6,,,
+,,183,Motion 40-49,983,Magnus Lilja,Älvbygdens MK,3,12:01.2,23:04.8,24:33.9,24:22.3,,,
+,,184,Motion 40-49,1000,Christoffer Bergström,Försvarsmaktens EK,3,12:23.1,22:52.5,24:53.8,24:36.6,,,
+,,185,Motion -39,575,David Reker Andersson,Falköpings MK,3,12:24.0,23:26.3,23:57.6,24:59.9,,,
+,,186,Motion 40-49,914,Emil Kårlin,Lilla Edets MCK,3,12:44.7,23:01.1,23:35.7,26:07.7,,,
+,,187,Motion 40-49,902,Andreas Sandberg,FMCK Borås,3,16:46.3,23:26.0,25:10.0,28:10.2,,,
+,,188,Ungdom E1,183,Mille Söderblom,Hallsbergs MK,2,34:16.6,16:09.3,18:07.2,,,,
+,,189,Motion -39,512,Eric Lindblad,Hjo MK,2,35:08.3,17:37.4,17:30.8,,,,
+,,190,Motion -39,550,Eric Gustafsson,SMK Vingåker,2,37:27.4,20:50.7,16:36.7,,,,
+,,191,Motion 40-49,996,Filip Starck,Norrahammars MK,2,38:17.0,17:10.7,21:06.3,,,,
+,,192,Motion -39,525,Hans Palm,Norrahammars MK,2,41:30.0,20:32.5,20:57.4,,,,
+,,193,Motion 40-49,965,Eric Ackeby,Beskaskinn MC,2,59:32.0,27:36.7,31:55.2,,,,
+,,194,Motion -39,557,Wiktor Hjalmarsson,Oskarshamns MSK,1,17:47.7,17:47.7,,,,,
+,,195,Ungdom E1,145,Wilmer Jansson,Tidaholms MK,1,30:18.8,30:18.8,,,,,
+,,196,Motion 40-49,1003,Robert Blomquist,Flittig Enduro,0,00:00.0,,,,,,
+,,1,Senior,1,Albin Elowson,FMCK Skövde,6,24:41.5,13:37.8,14:02.9,14:21.2,14:18.0,14:03.6,14:17.8
+,,2,Senior,28,Niklas Persson,Karlskoga EK,6,25:36.6,13:59.6,14:21.5,14:17.9,14:17.7,14:19.3,14:20.4
+,,3,Senior,73,Rikard Hansson,Tibro MK,6,26:42.8,14:15.9,14:14.5,14:47.6,14:34.0,14:22.7,14:27.9
+,,4,Senior,7,Casper Lindholm,Linköpings MS,6,26:54.3,14:21.9,14:17.9,14:28.9,14:43.4,14:31.6,14:30.4
+,,5,Senior,4,Max Erlandsson,Falköpings MK,6,29:16.2,14:51.0,14:43.4,15:04.7,14:52.4,14:49.4,14:55.0
+,,6,Senior,78,Adam Fast,SMK Vingåker,6,29:55.8,14:32.8,14:44.6,15:06.8,14:53.2,15:15.4,15:22.8
+,,7,Senior,59,Anton Sandstedt,Tibro MK,6,29:59.7,14:47.0,15:04.2,15:12.0,14:52.7,14:58.2,15:05.4
+,,8,Senior,3,Jesper Börjesson,Tibro MK,6,30:02.7,14:34.0,15:14.3,15:02.3,15:05.1,15:00.9,15:05.8
+,,9,Junior,198,Kalle Ahlin,Falköpings MK,6,30:07.2,14:41.9,14:54.5,14:56.8,15:04.1,15:11.3,15:18.4
+,,10,Senior,20,Robert Friberg,FMCK Skövde,6,30:30.2,15:31.9,15:01.7,14:48.1,15:05.1,14:56.3,15:06.9
+,,11,Senior,40,Anton Nordh,FMCK Skövde,6,30:50.3,15:04.7,14:54.9,15:02.1,15:18.6,15:19.8,15:09.9
+,,12,Senior,5,Nisse Bengtsson,Tidaholms MK,6,30:53.9,14:55.3,15:00.0,15:05.4,15:13.4,15:28.3,15:11.2
+,,13,Junior,123,Olle Häger,Örebro EK,6,32:14.8,14:50.4,15:32.6,15:18.7,15:24.8,15:28.7,15:39.4
+,,14,Senior,50,Anders Eriksson,Tibro MK,6,32:26.1,15:10.7,15:09.4,15:24.7,15:21.7,15:37.9,15:41.6
+,,15,Junior,191,Isac Friman,Tidaholms MK,6,32:30.2,15:15.2,15:45.4,15:14.8,15:23.3,15:24.9,15:26.4
+,,16,Junior,110,Carl Olsson,FMCK Skövde,6,32:44.7,15:01.8,15:09.7,15:33.7,15:43.9,15:35.8,15:39.4
+,,17,Junior,109,Jesper Storm,Tidaholms MK,6,33:53.2,16:28.0,15:29.0,15:09.5,15:27.6,15:29.6,15:49.3
+,,18,Junior,105,Hugo Svensson,Vimmerby MS,6,34:44.4,15:31.1,16:10.5,15:25.0,15:35.7,15:49.9,16:12.0
+,,19,Junior,182,Arvid Karlsson,FMCK Skövde,6,34:51.3,15:57.5,16:05.8,15:53.6,15:29.2,15:34.7,15:50.3
+,,20,Junior,125,Oliver Önnefors,FMCK Skövde,6,35:11.0,15:40.1,15:51.8,15:59.8,15:50.9,16:00.2,15:47.9
+,,21,Senior,12,Magnus Thor,Battle of Vikings Sportförening,6,35:18.3,15:45.9,15:34.6,15:34.1,15:54.3,16:11.0,16:18.2
+,,22,Junior,171,Sixten Lundgren,Norrahammars MK,6,35:53.9,16:19.3,15:36.3,15:47.4,16:00.8,15:57.4,16:12.5
+,,23,Junior,106,Dennis Henberg,Hjo MK,6,36:23.6,15:31.7,15:56.4,15:56.4,15:55.1,16:40.8,16:22.9
+,,24,Senior,18,Aleksander Kalbekkdalen,Notodden Crossklubb,6,36:33.5,16:01.7,16:03.2,15:44.6,15:52.1,16:13.1,16:38.5
+,,25,Junior,121,Carl Nydén,SMK Värnamo,6,37:09.2,15:31.1,15:27.7,15:41.9,15:53.1,15:56.8,18:38.4
+,,26,Junior,137,Alfred Karlsson,FMCK Skövde,6,37:18.8,16:00.6,16:42.7,16:16.7,16:03.1,16:09.8,16:05.6
+,,27,Senior,11,Lucas Holgersson,MC Alingsås,6,37:26.0,15:40.1,16:00.5,16:08.5,16:17.1,16:20.4,16:59.1
+,,28,Junior,146,Markus Carlbom,FMCK Skövde,6,39:05.8,16:03.0,16:38.7,16:31.3,16:15.4,16:48.7,16:48.3
+,,29,Junior,107,Lukas Engerstad,Skene MS,6,39:09.8,15:49.6,16:36.9,16:21.6,16:29.9,16:58.5,16:53.0
+,,30,Junior,114,Melvin Blom,Bodafors MK,6,39:27.5,16:12.1,16:46.8,16:33.7,16:15.8,16:39.6,16:59.2
+,,31,Junior,118,Emil Mann,Falköpings MK,6,39:36.1,15:51.9,16:15.2,16:26.8,16:33.2,17:01.7,17:27.0
+,,32,Junior,190,Mattias Cöster,SMK Östgöta,6,39:37.9,16:25.8,16:43.3,16:41.0,16:27.8,16:43.5,16:36.1
+,,33,Junior,149,Linus Knutsson,Falköpings MK,6,41:45.8,16:58.4,16:38.8,16:27.2,17:00.8,17:18.0,17:22.3
+,,34,Junior,108,Olle Gustafsson,Team Värmland MK,6,43:23.3,16:46.5,17:02.3,17:19.6,17:06.6,17:10.4,17:57.6
+,,35,Junior,112,Viggo Johansson,SMK Eksjö,6,44:29.7,17:05.9,17:13.2,17:10.0,17:15.4,17:35.4,18:09.6
+,,36,Junior,101,Arvid Petersson,Tranemo MK,6,46:28.7,17:20.6,17:27.4,17:40.0,17:41.2,17:50.5,18:28.8
+,,37,Junior,103,Arvid Hellqvist,Töreboda MK,6,47:50.0,16:53.8,17:23.8,17:41.3,18:14.4,18:50.5,18:45.9
+,,38,Junior,104,Emil Löf,Karlskoga EK,6,48:20.9,16:57.4,17:25.0,17:29.6,18:06.2,18:44.1,19:38.5
+,,39,Bredd,245,Andreas Toresson,Lilla Edets MCK,5,20:03.9,15:47.3,15:55.8,16:04.9,16:02.0,16:13.7,
+,,40,Bredd,201,Eddie Bergman,Tibro MK,5,20:40.9,15:59.1,16:03.3,16:02.9,16:10.5,16:24.9,
+,,41,Bredd,314,Per Lifvendahl,MK Orion,5,21:36.3,16:05.1,16:11.3,16:42.7,16:08.6,16:28.4,
+,,42,Bredd,210,Melvin Bernström,Carlsborgs MK,5,22:13.9,16:05.6,16:35.9,16:30.5,16:15.7,16:46.1,
+,,43,Bredd,222,Sebastian Lundblad,Falköpings MK,5,22:32.9,15:59.3,16:26.7,16:30.1,16:28.0,17:08.6,
+,,44,Dam,408,Matilda Huss,Göta MS,5,22:37.6,16:09.3,16:06.2,16:38.0,16:36.6,17:07.4,
+,,45,Dam,401,Linnéa Åkesson,FMCK Skövde,5,23:35.2,16:21.5,16:24.1,16:38.9,16:49.9,17:20.6,
+,,46,Bredd,202,Max Wennerlund,Tranås MS,5,23:55.7,16:14.1,16:51.3,16:41.6,16:54.3,17:14.3,
+,,47,Bredd,214,Magnus Blom,Bodafors MK,5,24:40.7,16:42.3,16:46.0,16:46.1,17:02.9,17:23.3,
+,,48,Bredd,277,Jonas Karlsson,Hjo MK,5,24:49.6,16:26.1,16:39.8,16:52.3,17:10.5,17:40.6,
+,,49,Bredd,213,Björn Levin,Kinna MK,5,25:08.9,16:47.3,17:01.6,16:57.9,16:50.1,17:31.7,
+,,50,Bredd,206,Rikard Andersson,SMK Värnamo,5,25:19.5,16:36.5,17:11.5,16:46.5,17:17.1,17:27.7,
+,,51,Bredd,336,Andreas Johansson,Carlsborgs MK,5,27:37.3,16:45.5,16:49.7,17:05.0,17:53.0,19:04.0,
+,,52,Bredd,250,Tobias Olofsson,Varbergs MK,5,28:12.1,17:03.3,17:15.0,17:26.4,17:53.0,18:34.2,
+,,53,Bredd,223,Mathias Sjölander,Karlskoga EK,5,28:25.8,16:51.2,17:06.9,17:48.0,18:49.9,17:49.6,
+,,54,Bredd,299,Magnus Lundén,Wäxjö MS,5,28:33.4,17:15.2,17:35.6,17:51.6,17:49.3,18:01.5,
+,,55,Bredd,256,Emil Hermansson,MC Alingsås,5,28:57.0,17:44.8,17:32.4,17:39.3,17:55.3,18:05.0,
+,,56,Bredd,204,Antti Mankinen,Oslo MK,5,29:25.5,16:59.6,17:32.1,17:40.5,18:04.8,19:08.4,
+,,57,Bredd,332,Ulf Åström,Wäxjö MS,5,29:28.7,17:28.2,17:44.6,18:10.0,17:55.6,18:10.1,
+,,58,Bredd,246,Joakim Svensson,Linköpings MS,5,30:06.4,17:14.2,17:46.0,18:07.5,18:11.2,18:47.2,
+,,59,Bredd,225,Linus Karlsson,Fjugesta MS,5,30:42.2,17:01.6,17:17.4,18:04.7,19:13.2,19:05.1,
+,,60,Dam,414,Emelie Nilsson,Ma Lerum,5,31:07.6,17:32.3,18:01.0,18:13.3,18:42.5,18:38.3,
+,,61,Bredd,271,Håkan Gustafsson,Alingsås MCK,5,32:00.1,17:36.9,17:55.1,18:31.8,18:45.4,19:10.6,
+,,62,Bredd,200,Andreas Josefsson,Falköpings MK,5,32:13.1,18:01.7,18:18.7,18:08.4,18:44.1,19:00.1,
+,,63,Dam,441,Hilda Sjöberg,Tibro MK,5,32:40.7,17:40.1,18:12.6,19:04.8,19:16.0,18:27.0,
+,,64,Bredd,216,Martin Strandberg,BMK Uddevalla,5,34:33.0,17:59.5,18:31.7,18:49.6,19:19.8,19:52.2,
+,,65,Bredd,309,Roger Einerskog,Alingsås MCK,5,34:58.9,18:34.0,18:34.3,19:17.8,18:53.5,19:39.1,
+,,66,Bredd,231,Hannes Östensson,MK Ran,5,35:50.0,18:34.0,19:30.0,19:13.7,19:23.0,19:09.1,
+,,67,Bredd,287,Johan Siggesson,Tibro MK,5,36:06.4,18:04.3,19:01.3,19:16.4,19:51.2,19:52.9,
+,,68,Bredd,219,Mats Alfredsson,Bengtsfors MCC,5,36:13.9,18:33.0,18:55.4,19:05.9,19:26.8,20:12.6,
+,,69,Dam,410,Emelie Sandström,Bengtsfors MCC,5,36:43.7,18:35.5,18:59.3,19:33.6,19:16.8,20:18.2,
+,,70,Bredd,339,Sam Hämäläinen,Tibro MK,5,37:15.0,18:04.2,18:51.2,19:57.3,20:07.5,20:14.6,
+,,71,Dam,400,Moa Hammarbom,Nynäshamns MCK,5,40:19.3,20:06.9,20:03.1,19:57.7,19:55.6,20:15.7,
+,,72,Bredd,234,Patrik Kerttu,Kortedala MK,5,41:22.6,20:17.8,19:46.9,20:08.4,20:39.2,20:30.1,
+,,73,Junior,134,Max Nordmark,Varbergs MK,5,43:01.2,19:30.7,19:32.6,21:04.3,21:22.5,21:30.9,
+,,74,Dam,429,Tilda Mehtonen,FMCK Skövde,5,46:29.1,20:39.4,20:43.7,21:10.1,22:09.8,21:46.0,
+,,75,Bredd,311,Johan Wolgers,FMCK Borås,5,48:00.0,20:12.2,20:38.9,21:21.8,22:53.0,22:53.8,
+,,76,Junior,122,Marcus Eisner,FMCK Skövde,4,07:28.7,16:14.0,16:55.4,16:56.0,17:23.2,,
+,,77,Junior,172,Alexander Andersson,Tranemo MK,4,21:27.9,19:22.7,19:47.8,20:57.0,21:20.2,,
+,,78,Dam,434,Mathilda Sandberg,Skene MS,4,26:40.2,20:54.4,20:48.0,21:41.3,23:16.4,,
+,,79,Junior,145,Ludvig Hamberg,FMCK Skövde,3,51:39.3,16:51.5,17:23.3,17:24.3,,,
+,,80,Dam,415,Emelie Johansson,Götene MK,3,04:01.8,21:00.5,20:57.1,22:04.0,,,
+,,81,Bredd,303,Jacob Holgersson,MC Alingsås,2,41:40.8,19:50.7,21:50.0,,,,
+,,82,Senior,6,Oskar Ljungström,Falköpings MK,1,13:45.3,13:45.3,,,,,

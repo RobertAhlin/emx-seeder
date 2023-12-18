@@ -1,291 +1,874 @@
-Namn,Rank FMCK Skövde,Rank Tidaholms MK,Rank Töreboda MK,Rank Carlsborgs MK,Rank Falköpings MK,Rank Tibro MK,Klass,Klubb,AvgRank
-Hugo Andersson,6.0,3.0,1.0,1.0,2.0,,Ungdom E1,Tibro MK,2.6
-Per Korsell,,,,,4.0,2.0,Motion 40-49,Götene MK,3.0
-Olof Backman,,,4.0,,,,Ungdom E1,Karlskoga EK,4.0
-William Almén,3.0,7.0,2.0,4.0,11.0,1.0,Ungdom E1,SMK Värnamo,4.666666666666667
-Niklas Mörk,11.0,5.0,3.0,3.0,3.0,4.0,Motion -39,Laxå MK,4.833333333333333
-Magnus Edberg,1.0,8.0,10.0,,1.0,11.0,Motion 40-49,Huskvarna MK,6.2
-Erik Larsson,8.0,12.0,7.0,5.0,,3.0,Motion -39,Tibro MK,7.0
-Alexander Fält,5.0,4.0,12.0,11.0,8.0,9.0,Motion -39,Försvarsmaktens EK,8.166666666666666
-Jakob Johansson,9.0,11.0,8.0,6.0,7.0,12.0,Motion -39,Tidaholms MK,8.833333333333334
-Christer Huss,,,21.0,2.0,5.0,,Motion 40-49,Göta MS,9.333333333333334
-Hampus Östensson,10.0,16.0,17.0,7.0,6.0,5.0,Motion -39,Hallsbergs MK,10.166666666666666
-Sven Höglander,,10.0,5.0,,,22.0,Ungdom E1,Djursdala SK,12.333333333333334
-Måns Dalén,2.0,15.0,,15.0,18.0,18.0,Motion -39,FMCK Skövde,13.6
-William Brehag Von Haugwitz,20.0,29.0,,8.0,10.0,10.0,Ungdom E1,Carlsborgs MK,15.4
-Daniel Fridérus,,19.0,,13.0,,,Motion 40-49,Ulricehamns MK,16.0
-Niklas Strömberg,4.0,17.0,20.0,,21.0,26.0,Motion 40-49,Götene MK,17.6
-Mårten Gustavsson,7.0,21.0,31.0,12.0,13.0,23.0,Motion 40-49,Försvarsmaktens EK,17.833333333333332
-Man - Alfred Ivarsson,18.0,,,,,,Motion -39,Älvbygdens MK,18.0
-Tommy Andersson,,,,17.0,19.0,,Motion 40-49,Götene MK,18.0
-Joel Hjelte,,,,18.0,,,Motion -39,Linköpings MS,18.0
-Hugo Hellström,48.0,26.0,11.0,9.0,12.0,6.0,Ungdom E1,Norrahammars MK,18.666666666666668
-Melvin Nordgren,,31.0,,10.0,15.0,,Motion -39,Örebro EK,18.666666666666668
-Liam Ljungström,,22.0,14.0,33.0,14.0,13.0,Ungdom E1,SMK Vingåker,19.2
-Roy Kolberg,,23.0,15.0,16.0,23.0,,Motion 40-49,Team Westom Motorcykel,19.25
-Emil Wänndahl,31.0,20.0,9.0,,,,Ungdom E1,Huskvarna MK,20.0
-Benny Andersson,13.0,27.0,,,,,Motion 40-49,Norrahammars MK,20.0
-Joacim Wigertson,16.0,24.0,23.0,,26.0,17.0,Motion -39,Kullings MS,21.2
-Joel Kvist,19.0,13.0,27.0,21.0,,27.0,Motion -39,Försvarsmaktens EK,21.4
-Linus Ernstsson,,,25.0,,22.0,19.0,Motion -39,Bengtsfors MCC,22.0
-Charlie Turesson,12.0,33.0,,,,,Motion 40-49,FMCK Hässleholm,22.5
-Andreas Mörk,22.0,32.0,19.0,23.0,,21.0,Motion -39,Laxå MK,23.4
-Axel Plogner,27.0,28.0,16.0,22.0,20.0,29.0,Ungdom E1,Karlstad MX Klubb,23.666666666666668
-Kevin Andersson,,,,24.0,,,Motion -39,SMK Kolmården,24.0
-Alfred Ivarsson,,,30.0,19.0,,,Motion -39,Älvbygdens MK,24.5
-Fredrik Starck,,,,,25.0,,Motion -39,Wäxjö MS,25.0
-Niklas Fransson,,25.0,,,,,Motion 40-49,Vimmerby MS,25.0
-Liam Nilsson,35.0,41.0,24.0,20.0,29.0,15.0,Ungdom E1,FMCK Skövde,27.333333333333332
-Alfred Gustavsson,26.0,44.0,29.0,29.0,17.0,20.0,Ungdom E1,Mariestads EK,27.5
-Dennis Larsson,,,43.0,26.0,,14.0,Motion -39,Örebro EK,27.666666666666668
-Mille Söderblom,88.0,18.0,13.0,14.0,,7.0,Ungdom E1,Hallsbergs MK,28.0
-Robert Lind,,,26.0,31.0,,,Motion -39,Tranås MS,28.5
-Stefan Liljedahl,15.0,39.0,35.0,30.0,,25.0,Motion 40-49,Tibro MK,28.8
-Sixten Larsson,23.0,53.0,,28.0,16.0,,Ungdom E1,FMCK Borås,30.0
-Marcus Hjelm,29.0,30.0,,32.0,24.0,35.0,Motion -39,Falköpings MK,30.0
-Mikael Bengtsson,21.0,38.0,44.0,,27.0,,Motion 40-49,Falköpings MK,32.5
-Max Karlsson,,48.0,18.0,35.0,31.0,,Ungdom E1,Stenungsunds MS,33.0
-Simon Holmbäck,,,33.0,,,,Motion -39,Hjo MK,33.0
-Henrik Klövmark,,,34.0,,,,Motion 40-49,Ma Lerum,34.0
-Jonas Bergqvist,,,,,,34.0,Motion 40-49,Skene MS,34.0
-Felix Johansson,,,41.0,,,28.0,Motion -39,Kinds MK,34.5
-Melker Svantesson,34.0,34.0,,45.0,32.0,37.0,Motion -39,Kullings MS,36.4
-Sebastian Carlsson,,68.0,36.0,27.0,,16.0,Motion 40-49,SMK Vadstena,36.75
-Andreas Remfäldt,,35.0,40.0,36.0,49.0,24.0,Motion 40-49,Mariestads EK,36.8
-Matilda Huss,,,37.0,,,,Motion -39,Göta MS,37.0
-Theodor Popp,17.0,14.0,6.0,170.0,9.0,8.0,Ungdom E1,SMK Värnamo,37.333333333333336
-Alfred Hjerp,,,,,38.0,,Motion -39,Tidaholms MK,38.0
-Jonathan Petersson,,,,,,38.0,Motion -39,SMK Trollhättan,38.0
-Simon Henriksson,,43.0,38.0,37.0,35.0,,Motion -39,Lilla Edets MCK,38.25
-Daniel Hellstadius,28.0,50.0,,,,,Motion -39,Kullings MS,39.0
-George Svantesson,47.0,45.0,45.0,,28.0,31.0,Motion -39,Kullings MS,39.2
-Elis Wahlman,,,,41.0,,,Ungdom E1,SMK Kolmården,41.0
-Harald Lindholm,,,,51.0,,33.0,Motion -39,Älvbygdens MK,42.0
-Victor Sterling,,42.0,,,,,Ungdom E1,Linköpings MS,42.0
-Hans Torsborn,39.0,46.0,,,,47.0,Motion 40-49,Ulricehamns MK,44.0
-Fredric Randström,,,53.0,42.0,,39.0,Motion 40-49,Hagfors MS,44.666666666666664
-Joakim Ericsson,74.0,56.0,32.0,34.0,43.0,32.0,Motion 40-49,Töreboda MK,45.166666666666664
-Filip Starck,37.0,,42.0,58.0,,,Motion 40-49,Norrahammars MK,45.666666666666664
-Emil Meijer,50.0,,52.0,47.0,42.0,40.0,Motion -39,Götene MK,46.2
-Eric Lindblad,41.0,49.0,50.0,,,,Motion -39,Hjo MK,46.666666666666664
-Rickard Bengtsson,14.0,80.0,,,,,Motion 40-49,Falköpings MK,47.0
-Isak Ljungström,,2.0,,,,93.0,Motion -39,Hallsbergs MK,47.5
-Andréas Svensson,,58.0,,,47.0,44.0,Motion 40-49,Stenungsunds MS,49.666666666666664
-Patrik Olsson,24.0,55.0,82.0,49.0,41.0,49.0,Motion -39,Lilla Edets MCK,50.0
-Anton Bernhardsson,,,55.0,46.0,,,Motion 40-49,Kortedala MK,50.5
-Albin Pettersson,30.0,62.0,66.0,55.0,50.0,41.0,Motion -39,"Kristdala Motorsällskap, Kristdala MS",50.666666666666664
-Jimmy Josefsson,40.0,51.0,39.0,57.0,70.0,54.0,Motion -39,Skene MS,51.833333333333336
-Liam Qvist,45.0,37.0,22.0,25.0,30.0,153.0,Ungdom E1,Åbågen MCK,52.0
-Markus Stjernström,,52.0,,,,,Motion -39,Vimmerby MS,52.0
-Gustav Malm,,57.0,54.0,53.0,37.0,61.0,Motion -39,Hallsbergs MK,52.4
-Robert Strandberg,25.0,74.0,68.0,39.0,58.0,53.0,Motion 40-49,Hjo MK,52.833333333333336
-Rikard Skerget,36.0,59.0,,70.0,53.0,48.0,Motion 40-49,Stenungsunds MS,53.2
-Ola Korsell,,61.0,47.0,,,,Motion 40-49,Götene MK,54.0
-Johan Arne Wärnelöv,,69.0,51.0,44.0,,,Motion -39,Tranås MS,54.666666666666664
-Olle Samuelsson,43.0,67.0,,,,,Motion -39,Vimmerby MS,55.0
-Daniel Jönsson,,,,,,56.0,Motion 40-49,Vimmerby MS,56.0
-Dennis Eriksson,51.0,76.0,57.0,43.0,,,Motion -39,SMK Ronneby,56.75
-Andreas Nordström,,88.0,67.0,40.0,34.0,,Motion -39,Eds-Skottbacka MX Förening,57.25
-Mattias Eriksson,,64.0,49.0,60.0,55.0,59.0,Motion 40-49,Varbergs MK,57.4
-Ronny Eskengren,,,63.0,68.0,,42.0,Motion 40-49,Älvbygdens MK,57.666666666666664
-Stefan Andersson,66.0,65.0,46.0,54.0,,,Motion 40-49,Lilla Edets MCK,57.75
-Johan Karlsson,,1.0,95.0,83.0,,52.0,Motion 40-49,Älvbygdens MK,57.75
-Jonathan Storm,49.0,73.0,83.0,,36.0,55.0,Motion -39,Kortedala MK,59.2
-Lars-Olof Lindström,54.0,63.0,,63.0,57.0,63.0,Motion 40-49,FMCK Borås,60.0
-Fredrik Sääv,46.0,71.0,77.0,52.0,56.0,,Motion 40-49,Götene MK,60.4
-Jimmy Ivarsson,,,,,61.0,,Motion 40-49,SMK Trollhättan,61.0
-Erik Isaksson,68.0,54.0,,,,,Motion -39,Tranås MS,61.0
-Björn Bäckström,61.0,,74.0,50.0,,,Motion 40-49,MK Ran,61.666666666666664
-Man - Henrik Madsen,62.0,,,,,,Motion -39,Huskvarna MK,62.0
-Daniel Lundqvist,38.0,,101.0,82.0,45.0,45.0,Motion 40-49,Töreboda MK,62.2
-Martin Börjesson,32.0,79.0,61.0,76.0,63.0,66.0,Motion 40-49,FMCK Borås,62.833333333333336
-Oddbjørn Sandvik,,82.0,75.0,72.0,48.0,43.0,Motion 40-49,Flittig Enduro,64.0
-Markus Andersson,,,64.0,65.0,,,Motion 40-49,MK Team Treske,64.5
-Mattias Ringholm,,,65.0,,,,Motion 40-49,Hallsbergs MK,65.0
-Henrik Madsen,,70.0,59.0,67.0,,,Motion -39,Huskvarna MK,65.33333333333333
-Sam Hämäläinen,71.0,60.0,,,,,Motion 40-49,Tibro MK,65.5
-Fredrik Kron,,,,94.0,39.0,,Motion 40-49,Falköpings MK,66.5
-Petter Hedlund,,,69.0,64.0,,,Motion -39,Hallsbergs MK,66.5
-Thim Svensson,55.0,75.0,62.0,,,81.0,Motion -39,Vissefjärda EK,68.25
-Christian Johansson,60.0,72.0,89.0,74.0,59.0,60.0,Motion 40-49,Tidaholms MK,69.0
-Axel Karlsson,,,97.0,73.0,65.0,46.0,Motion -39,Laxå MK,70.25
-Melker Jansson,,47.0,56.0,175.0,44.0,30.0,Motion -39,Karlskoga EK,70.4
-Simon Öberg,86.0,100.0,58.0,38.0,,,Motion -39,Norrahammars MK,70.5
-Jimmi Jakobsson,,,72.0,69.0,,,Motion -39,MK Team Treske,70.5
-Jesper Herngren,63.0,,111.0,61.0,54.0,64.0,Motion -39,Falköpings MK,70.6
-Andreas Almroth,,,,,68.0,75.0,Motion -39,Borås MK,71.5
-Linus Kjellström,44.0,,81.0,88.0,,73.0,Motion -39,Götene MK,71.5
-Patrik Förkrök Ledström,91.0,,70.0,84.0,62.0,51.0,Motion -39,SMK Vadstena,71.6
-Dennis Olesen,141.0,66.0,73.0,56.0,40.0,58.0,Motion -39,Kullings MS,72.33333333333333
-John Larsson,,106.0,71.0,62.0,52.0,,Motion -39,Carlsborgs MK,72.75
-Samuel Thorsell,,,,,73.0,,Motion -39,Göta MS,73.0
-Erik Elowson,,36.0,,,111.0,,Motion -39,FMCK Skövde,73.5
-Tim Johansson,,,,75.0,,,Motion -39,Linköpings MS,75.0
-Johan Debrianté,,99.0,87.0,71.0,69.0,50.0,Motion 40-49,SMK Ljungby,75.2
-Magnus Enander,75.0,84.0,84.0,,71.0,65.0,Motion 40-49,Ulricehamns MK,75.8
-Björn Axelsson,79.0,93.0,,,,57.0,Motion -39,FMCK Skövde,76.33333333333333
-Arvid Siggesson,,9.0,141.0,,,84.0,Motion -39,Tibro MK,78.0
-Dennis Ring,56.0,97.0,,78.0,,85.0,Motion -39,FMCK Borås,79.0
-Tommy Oldenburg,33.0,104.0,86.0,96.0,75.0,83.0,Motion -39,FMCK Skövde,79.5
-Patrik Johansson,,,80.0,,,,Motion -39,Tibro MK,80.0
-Johan Hedström,72.0,112.0,79.0,77.0,67.0,74.0,Motion -39,Kinds MK,80.16666666666667
-Edwin Djurstedt,59.0,125.0,60.0,,,,Ungdom E1,Djursdala SK,81.33333333333333
-Andreas Thell,,,,,82.0,,Motion 40-49,Gotlands MF:s Motorcykelklubb,82.0
-Rasmus Levén,131.0,,85.0,48.0,64.0,,Motion -39,Bodafors MK,82.0
-Andreas Andersson,82.0,,,,,,Motion -39,Kullings MS,82.0
-Joel Rådberg,,,76.0,104.0,,68.0,Motion -39,SMK Trollhättan,82.66666666666667
-Tomas Blom,53.0,90.0,98.0,100.0,,77.0,Motion 40-49,Hallsbergs MK,83.6
-Anton Persson,,85.0,115.0,81.0,77.0,62.0,Motion -39,Tibro MK,84.0
-Mikael Hjelm,,,48.0,59.0,,146.0,Motion 40-49,Finspångs MS,84.33333333333333
-Patric Gustafsson,64.0,92.0,105.0,95.0,72.0,79.0,Motion -39,Huskvarna MK,84.5
-Christer Strand,76.0,,,106.0,85.0,71.0,Motion -39,Tibro MK,84.5
-Dennis Hörberg,65.0,81.0,108.0,,,,Motion -39,Norrahammars MK,84.66666666666667
-Bernard Abrahamsson,42.0,,138.0,,,78.0,Motion -39,FMCK BohusDal,86.0
-Anton Gustavsson,78.0,103.0,90.0,87.0,80.0,82.0,Motion 40-49,Mariestads EK,86.66666666666667
-Hugo Lindström,96.0,83.0,94.0,,78.0,,Motion -39,FMCK Borås,87.75
-Isac Svensson,,,,,,88.0,Motion -39,Vissefjärda EK,88.0
-Jonas Svensson,,,139.0,91.0,,36.0,Motion 40-49,Hallsbergs MK,88.66666666666667
-Björn Runfeldt,,87.0,99.0,,81.0,,Motion 40-49,Norrahammars MK,89.0
-Patrick Wik,67.0,86.0,109.0,109.0,74.0,,Motion 40-49,Skene MS,89.0
-Rasmus Bengt Olof Malmborg,101.0,,112.0,80.0,66.0,,Motion -39,Björkö EK,89.75
-Grim Fallenius,100.0,77.0,104.0,79.0,89.0,,Motion -39,Götene MK,89.8
-Oskar Widin,,,,90.0,,,Motion -39,MK Team Treske,90.0
-Christoffer Jonasson,77.0,,103.0,107.0,76.0,,Motion -39,SMC,90.75
-Håkan Lykkeberg,,91.0,,92.0,,,Motion 40-49,BMK Uddevalla,91.5
-Ronnie Nilsson,,96.0,88.0,103.0,79.0,,Motion -39,Töreboda MK,91.5
-Viktor Hultman,144.0,89.0,93.0,66.0,,67.0,Motion -39,Mariestads EK,91.8
-Ludwig Demegård,,40.0,,,,144.0,Ungdom E1,Tibro MK,92.0
-Eric Gustafsson,106.0,127.0,28.0,113.0,,87.0,Motion -39,SMK Vingåker,92.2
-Johan Andersson,92.0,,78.0,108.0,,,Motion -39,SMK Östgöta,92.66666666666667
-Andreas Jorlöv,94.0,,,,,,Motion 40-49,Kullings MS,94.0
-Niklas Kedén,,,96.0,,,,Motion -39,Hjo MK,96.0
-Jonas Gustafsson,,128.0,106.0,114.0,60.0,80.0,Motion 40-49,Götene MK,97.6
-Fredrik Hassesjö,52.0,94.0,130.0,115.0,,,Motion 40-49,Ulricehamns MK,97.75
-Mattias Göransson,,,,98.0,,,Motion -39,Försvarsmaktens EK,98.0
-Maximillian Fridérus,,177.0,,86.0,33.0,,Ungdom E1,Ulricehamns MK,98.66666666666667
-David Gustafsson,99.0,,,,,,Motion -39,Försvarsmaktens EK,99.0
-Tommy Gustafsson,69.0,117.0,107.0,117.0,90.0,95.0,Motion -39,Huskvarna MK,99.16666666666667
-Per Eriksson,58.0,,127.0,116.0,,,Motion 40-49,Hallsbergs MK,100.33333333333333
-Philip Baumgartner,102.0,,113.0,93.0,,94.0,Motion -39,Götene MK,100.5
-David Thorn,,,,101.0,,,Motion 40-49,Götene MK,101.0
-Erik Wallskog,,109.0,92.0,,93.0,110.0,Motion -39,Töreboda MK,101.0
-Axel Gustafsson,83.0,119.0,110.0,172.0,51.0,76.0,Motion -39,Lidköpings MCK,101.83333333333333
-Emil Elmwall,,,102.0,,,,Ungdom E1,Hallsbergs MK,102.0
-Kristian Trygg,,102.0,,,,,Motion 40-49,Falköpings MK,102.0
-Victor Joensuu,,,124.0,85.0,102.0,,Motion -39,MSK Hammaren,103.66666666666667
-Henrik Lindström,84.0,121.0,121.0,112.0,95.0,89.0,Motion 40-49,FMCK Borås,103.66666666666667
-Andreas Breitfeld,98.0,110.0,,,,,Motion -39,Kungsbacka MA,104.0
-Wiggo Hansson,120.0,95.0,146.0,89.0,,70.0,Ungdom E1,Tidaholms MK,104.0
-Christoffer Johnsson,129.0,108.0,100.0,97.0,46.0,148.0,Motion 40-49,Hisingens MK,104.66666666666667
-Niklas Utterberg,87.0,113.0,120.0,126.0,104.0,92.0,Motion 40-49,Norrahammars MK,107.0
-Gustav Strinne,,123.0,137.0,,84.0,86.0,Motion -39,Edsvära MCK,107.5
-Johan Kjellson,70.0,107.0,136.0,128.0,101.0,105.0,Motion 40-49,FMCK Skövde,107.83333333333333
-Anton Isaksson,85.0,132.0,125.0,123.0,86.0,106.0,Motion -39,Götene MK,109.5
-Jonatan Svantesson,,130.0,119.0,99.0,,91.0,Motion -39,Kullings MS,109.75
-Henrik Nilsson,73.0,116.0,133.0,118.0,,,Motion 40-49,Mariestads EK,110.0
-Joel Björkman,,,,122.0,,100.0,Motion -39,SMK Kolmården,111.0
-Edvin Kindgren,103.0,120.0,,,,,Ungdom E1,SMK Eksjö,111.5
-Jonas Lyttbacka,104.0,126.0,118.0,111.0,116.0,97.0,Motion 40-49,Örebro EK,112.0
-Anders Billestedt Andersson,130.0,6.0,173.0,,125.0,130.0,Motion 40-49,Stenungsunds MS,112.8
-Johan Elfving,90.0,124.0,123.0,,83.0,147.0,Motion 40-49,Ulricehamns MK,113.4
-Wilmer Jansson,81.0,,195.0,131.0,94.0,69.0,Ungdom E1,Tidaholms MK,114.0
-Marcus Stacke,,,114.0,,,,Motion 40-49,SMK Värnamo,114.0
-Måns Kling,,114.0,,,,,Motion -39,Huskvarna MK,114.0
-Edvin Blad,,,,,,114.0,Motion -39,Oskarshamns MSK,114.0
-Jonas Milefors,57.0,144.0,143.0,133.0,99.0,112.0,Motion 40-49,Kortedala MK,114.66666666666667
-Daniel Blomqvist,,161.0,117.0,105.0,119.0,72.0,Motion 40-49,FMCK Skövde,114.8
-Jacob Emilsson,89.0,133.0,144.0,121.0,91.0,111.0,Motion -39,Kristdala Motorsällskap,114.83333333333333
-Karim Chanane,,,,,,115.0,Motion -39,FMCK Skövde,115.0
-Robert Ahlin,125.0,,128.0,,100.0,108.0,Motion 40-49,Falköpings MK,115.25
-Jonathan Lagerqvist,,,116.0,,,,Motion -39,Björkö EK,116.0
-Rickard Persson,,,126.0,120.0,,102.0,Motion 40-49,Tibro MK,116.0
-Albin Johansson,80.0,141.0,122.0,138.0,120.0,103.0,Motion -39,Lidköpings MCK,117.33333333333333
-Filip Johansson,,98.0,131.0,134.0,106.0,118.0,Motion -39,"Tidaholms MK, Skene MS",117.4
-Filip Johansson,,98.0,131.0,134.0,106.0,119.0,Motion -39,Tidaholms MK,117.6
-Christian Larsson,,,,,118.0,,Motion 40-49,Skene MS,118.0
-Johan Svensson,95.0,145.0,148.0,,105.0,99.0,Motion -39,Falköpings MK,118.4
-Martin Bonander,118.0,140.0,142.0,102.0,92.0,,Motion 40-49,Stenungsunds MS,118.8
-Anton Johansson,109.0,,,137.0,,113.0,Motion -39,FMCK Borås,119.66666666666667
-Lisa Nyqvist,,,153.0,130.0,107.0,90.0,Ungdom E1,Stenungsunds MS,120.0
-Albin Strandhag,93.0,174.0,,,113.0,101.0,Motion -39,FMCK Skövde,120.25
-Emil Gabrielsson,,150.0,147.0,,88.0,98.0,Ungdom E1,Skene MS,120.75
-Erik Bergstrand,,118.0,135.0,129.0,,104.0,Motion 40-49,Oskarshamns MSK,121.5
-Simon Gustafsson,113.0,129.0,132.0,140.0,108.0,107.0,Motion -39,Älvbygdens MK,121.5
-Björn Jorlöv,122.0,,,,,,Motion 40-49,Kullings MS,122.0
-Martin Jonsson,108.0,143.0,152.0,125.0,98.0,120.0,Motion 40-49,Töreboda MK,124.33333333333333
-Rikard Sundström,,115.0,134.0,,,,Motion -39,Götene MK,124.5
-Mikael Sahlin,,101.0,149.0,,,,Motion 40-49,Lidköpings MCK,125.0
-Henrik Olsson,107.0,,181.0,,87.0,,Motion 40-49,Falköpings MK,125.0
-Rasmus Hansson,105.0,,175.0,,96.0,,Motion -39,Skene MS,125.33333333333333
-Markus Göransson,,122.0,150.0,119.0,112.0,,Motion -39,Lilla Edets MCK,125.75
-Jacob Stacke,143.0,105.0,91.0,171.0,,,Ungdom E1,SMK Värnamo,127.5
-Aron Goes,111.0,,,145.0,,,Motion -39,Kortedala MK,128.0
-Svante Strömberg,,,,,,128.0,Motion -39,Götene MK,128.0
-Daniel Helmersson,,,,,129.0,,Motion -39,Töreboda MK,129.0
-Andreas Jankowiak,,,,,,129.0,Motion -39,Stenungsunds MS,129.0
-Ronny Larsen,97.0,,171.0,147.0,115.0,116.0,Motion 40-49,"Flittig MX/ATV, Flittig Enduro",129.2
-Hannu Ylipekkala,121.0,134.0,145.0,,,117.0,Motion 40-49,Anderstorp RC,129.25
-Oliver Wennerholm,115.0,137.0,162.0,132.0,103.0,,Motion -39,FMCK Borås,129.8
-David Hörberg,142.0,111.0,140.0,,,,Motion -39,Försvarsmaktens EK,131.0
-Christian Kurist,,,155.0,,110.0,,Motion -39,Falköpings MK,132.5
-Daniel Karlsson,,,,,,133.0,Motion 40-49,Skene MS,133.0
-OkAnton Torgin,133.0,,,,,,Motion -39,Donkelo RK,133.0
-Anton Andersson,124.0,167.0,158.0,,97.0,121.0,Ungdom E1,Norrahammars MK,133.4
-Simon Rutgersson,134.0,136.0,129.0,173.0,,96.0,Ungdom E1,Stenungsunds MS,133.6
-Robban Markusson,,,167.0,136.0,127.0,109.0,Motion 40-49,SMK Vadstena,134.75
-Johan Angerd,,135.0,,,,,Motion 40-49,Tranemo MK,135.0
-Niclas Sjökvist,117.0,158.0,,154.0,128.0,122.0,Motion 40-49,FMCK Borås,135.8
-Wiktor Hjalmarsson,,78.0,194.0,,,,Motion -39,Oskarshamns MSK,136.0
-OKJohan Lindgren,136.0,,,,,,Motion -39,Tranemo MK,136.0
-Oskar Johansson,,,,,,136.0,Motion -39,Linköpings MS,136.0
-Mark Edvardsson,,147.0,156.0,,121.0,123.0,Motion 40-49,Alingsås MCK,136.75
-Robin Karlsson,,138.0,,,,,Motion -39,Hjo MK,138.0
-Nils Jadermark,,,,152.0,,126.0,Motion -39,Karlskoga MF,139.0
-Ulric Karlsson,114.0,146.0,168.0,155.0,124.0,127.0,Motion 40-49,Tidaholms MK,139.0
-Tommy Jonsson,119.0,148.0,151.0,,,,Motion 40-49,Mariestads EK,139.33333333333334
-Marwin Wik,,168.0,157.0,127.0,123.0,124.0,Ungdom E1,Skene MS,139.8
-Göran Göransson,,157.0,,124.0,,,Motion -39,Björkö EK,140.5
-Kent Aasheim,,,,,,141.0,Motion 40-49,Emsk,141.0
-Johan Lidén,,139.0,161.0,149.0,117.0,,Motion -39,Eda MK,141.5
-Viktor Isaksson,,142.0,,,,,Ungdom E1,Kils MK,142.0
-Thure Rudklint,,131.0,154.0,142.0,,,Ungdom E1,Oskarshamns MSK,142.33333333333334
-Christian Klarkner,,,,144.0,,,Motion -39,Västerås MK,144.0
-Per Karlsson,,,179.0,139.0,114.0,,Motion 40-49,SMK Vadstena,144.0
-Richard Mickelsson,123.0,,180.0,148.0,126.0,,Motion -39,Tibro MK,144.25
-Jonas Eriksson,110.0,153.0,174.0,141.0,,,Motion 40-49,Mariestads EK,144.5
-Peter Berggren,116.0,149.0,169.0,,,,Motion 40-49,BMK Uddevalla,144.66666666666666
-Casper Svahn,,159.0,165.0,110.0,,,Ungdom E1,Örebro MK,144.66666666666666
-Christian Appelgren,132.0,151.0,,,,151.0,Motion 40-49,Stenungsunds MS,144.66666666666666
-William Blom,,164.0,170.0,146.0,109.0,135.0,Ungdom E1,Skene MS,144.8
-Maja Reyper,,,,,,145.0,Ungdom E1,Oskarshamns MSK,145.0
-Cristoffer Matlak,,160.0,177.0,,122.0,125.0,Motion 40-49,Alingsås MCK,146.0
-Maria Thomsen,128.0,166.0,,165.0,,139.0,Motion -39,FMCK Borås,149.5
-Johan Törnqvist,127.0,165.0,184.0,161.0,131.0,134.0,Motion 40-49,FMCK Skövde,150.33333333333334
-Henrik Hermansson,,,,151.0,,150.0,Motion 40-49,SMK Vadstena,150.5
-Tuva Sahlin Palmstedt,,154.0,163.0,158.0,130.0,149.0,Ungdom E1,Lidköpings MCK,150.8
-Magnus Lilja,126.0,,190.0,166.0,135.0,140.0,Motion 40-49,Älvbygdens MK,151.4
-Ludvig Nilsson,,,,,,152.0,Motion -39,Anderstorp RC,152.0
-Hans Palm,112.0,178.0,166.0,,,,Motion -39,Norrahammars MK,152.0
-Sam Aronsson,138.0,163.0,182.0,164.0,133.0,137.0,Ungdom E1,Töreboda MK,152.83333333333334
-Anton Torgin,,170.0,176.0,156.0,132.0,131.0,Motion -39,Donkelo RK,153.0
-Rickard Forsberg,137.0,172.0,,168.0,136.0,,Motion -39,Mariestads EK,153.25
-Martin Johansson,,,164.0,143.0,,,Motion -39,Skara MK,153.5
-Tobias Hagelin,139.0,171.0,186.0,162.0,134.0,132.0,Motion -39,FMCK Borås,154.0
-Hans-Petter Eikedalen,,156.0,,,,,Motion -39,Flittig Motocross & ATV,156.0
-Emil Kårlin,135.0,162.0,188.0,160.0,,138.0,Motion 40-49,Lilla Edets MCK,156.6
-Andreas Sandberg,140.0,169.0,192.0,169.0,138.0,143.0,Motion 40-49,FMCK Borås,158.5
-Marcus Alsing,,,,159.0,,,Motion 40-49,SMC,159.0
-Henrik Stråhle,,152.0,172.0,153.0,,,Motion -39,Ma Lerum,159.0
-Oscar Ekdahl,,,160.0,,,,Motion 40-49,FMCK Borås,160.0
-Andreas Sjöberg,,,187.0,135.0,,,Motion 40-49,Tibro MK,161.0
-Axel Virgin Ericsson,,,185.0,,137.0,,Motion -39,Götene MK,161.0
-Jonathon Edwards,,,,163.0,,,Motion -39,BMK Uddevalla,163.0
-Karl Henrik Johan Wass,,155.0,178.0,157.0,,,Motion 40-49,Götene MK,163.33333333333334
-David Reker Andersson,,,189.0,,139.0,,Motion -39,Falköpings MK,164.0
-Andreas Lambert Melander,,,183.0,150.0,,,Motion 40-49,Lilla Edets MCK,166.5
-Rikard Hofvander,,,159.0,174.0,,,Motion 40-49,Hallsbergs MK,166.5
-William Ahlander,,175.0,,,,,Ungdom E1,Tibro MK,175.0
-Axel Darius,,176.0,,,,,Ungdom E1,Lidköpings MCK,176.0
-Eric Ackeby,,173.0,193.0,,,,Motion 40-49,Beskaskinn MC,183.0
-Christoffer Bergström,,,191.0,,,,Motion 40-49,Försvarsmaktens EK,191.0
-Robert Blomquist,,,196.0,,,,Motion 40-49,Flittig Enduro,196.0
+Namn,Rank FMK Skövde,Rank Tidaholms MK,Rank Töreboda MK,Rank Carlsborgs MK,Rank Falköpings MK,Rank Tibro MK,Klass,Klubb,AvgRank
+Albin Elowson,133.0,,1.0,,,,"Elit, Senior",FMCK Skövde,1.0
+Simon Hopander Ankarhake,189.0,,,,1.0,,Motion 16-29,Nyköpings MS,1.0
+Sören Fransson,,1.0,,161.0,,,Motion 50-59,Kinds MK,1.0
+Niklas Persson,,,2.0,,,,Senior,Karlskoga EK,2.0
+Jimmy Ivarsson,,,,,2.0,,Motion 40-49,SMK Trollhättan,2.0
+Rikard Hansson,,,3.0,2.0,,,Senior,Tibro MK,2.0
+Casper Lindholm,,7.0,4.0,1.0,,2.0,Senior,Linköpings MS,2.3333333333333335
+Oskar Ljungström,,4.0,422.0,,3.0,,Senior,Falköpings MK,3.5
+André Högberg,,,,,4.0,,Junior,Falköpings MK,4.0
+Pontus Skoog,,,,,,4.0,Senior,Karlskoga EK,4.0
+Max Erlandsson,,11.0,5.0,,,,Senior,Falköpings MK,5.0
+Marcus Adielsson,,,,5.0,,12.0,Senior,Tibro MK,5.0
+Anton Sandstedt,,,8.0,8.0,,5.0,Senior,Tibro MK,5.0
+Jesper Kulin,,5.0,,,,,Motion 50-59,Kullings MS,5.0
+Isac Friman,,8.0,20.0,3.0,7.0,6.0,Junior,Tidaholms MK,6.0
+Isak Ljungström,,6.0,,,,187.0,Motion -39,Hallsbergs MK,6.0
+Jesper Börjesson,137.0,10.0,9.0,6.0,5.0,1.0,"Elit, Senior",Tibro MK,6.2
+Adam Fast,,12.0,6.0,7.0,10.0,3.0,Senior,SMK Vingåker,6.5
+Victor Fahlén,136.0,,,,,7.0,"Elit, Senior",Försvarsmaktens EK,7.0
+Robert Friberg,,3.0,10.0,12.0,9.0,11.0,Senior,FMCK Skövde,8.25
+Nisse Bengtsson,,14.0,12.0,4.0,,9.0,Senior,Tidaholms MK,8.333333333333334
+Anton Nordh,,,13.0,9.0,,8.0,Senior,FMCK Skövde,8.5
+Alvin Ceder,,9.0,,10.0,8.0,10.0,Junior,Götene MK,8.5
+Kalle Ahlin,,31.0,7.0,11.0,,13.0,Junior,Falköpings MK,10.333333333333334
+Wiggo Lifvendahl,,,11.0,,,,Ungdom E0,MK Orion,11.0
+Hugo Andersson,6.0,15.0,16.0,14.0,,32.0,"Ungdom E1, Junior",Tibro MK,12.75
+Martin Strandberg,,13.0,256.0,,,,Bredd,BMK Uddevalla,13.0
+Charlie Turesson,14.0,112.0,,,,,Motion 40-49,FMCK Hässleholm,14.0
+Olof Backman,,,14.0,,,,Ungdom E1,Karlskoga EK,14.0
+Olle Häger,,,17.0,,14.0,,Junior,Örebro EK,14.0
+Kalle Hindström,,24.0,,16.0,13.0,,Junior,Tibro MK,14.5
+Emil Gustavsson,,,,27.0,,15.0,Senior,Tibro MK,15.0
+Marcel Tara,,20.0,,,23.0,14.0,Junior,Tibro MK,17.0
+Rickard Bengtsson,17.0,221.0,,,,,Motion 40-49,Falköpings MK,17.0
+Anders Eriksson,,,19.0,,171.0,16.0,"Motion 50-59, Senior",Tibro MK,17.5
+Arvid Karlsson,,17.0,34.0,20.0,16.0,19.0,Junior,FMCK Skövde,18.0
+André Blohmé,148.0,18.0,,,,,Junior,FMCK Hässleholm,18.0
+William Almén,5.0,37.0,18.0,22.0,,28.0,Ungdom E1,SMK Värnamo,18.25
+Klas Elofsson,,16.0,23.0,15.0,20.0,76.0,Motion 50-59,Skene MS,18.5
+Niklas Mörk,13.0,30.0,15.0,17.0,,35.0,Motion -39,Laxå MK,18.75
+Per Wikvist,,,,24.0,15.0,54.0,Motion 50-59,Hallsbergs MK,19.5
+Man - Alfred Ivarsson,20.0,,,,,,Motion -39,Älvbygdens MK,20.0
+Tobias Carlsson,,,,,,21.0,Senior,Norrahammars MK,21.0
+Carl Olsson,,22.0,21.0,45.0,,,Junior,FMCK Skövde,21.5
+Robert Salomonsson,,27.0,25.0,18.0,18.0,65.0,Motion 50-59,Tibro MK,22.0
+Dennis Henberg,,28.0,36.0,,21.0,18.0,Junior,Hjo MK,22.333333333333332
+Jesper Storm,,23.0,22.0,26.0,28.0,20.0,Junior,Tidaholms MK,22.75
+Erik Larsson,7.0,44.0,26.0,25.0,,34.0,Motion -39,Tibro MK,23.0
+Petter Wennerlund,151.0,,,23.0,,,Senior,Tranås MS,23.0
+Daniel Hellstadius,24.0,165.0,,,,,Motion -39,Kullings MS,24.0
+Hampus Andersson,,21.0,30.0,21.0,27.0,62.0,Ungdom E0,Tibro MK,24.75
+Sebastian Cederbrant,,,,,,25.0,Senior,Gotland Enduro Cross MS,25.0
+Hugo Svensson,,33.0,27.0,,,23.0,Junior,Vimmerby MS,25.0
+Magnus Edberg,1.0,32.0,45.0,,,51.0,Motion 40-49,Huskvarna MK,26.0
+Andreas Toresson,,39.0,43.0,39.0,12.0,17.0,Bredd,Lilla Edets MCK,26.75
+Per Korsell,,,,,,30.0,Motion 40-49,Götene MK,30.0
+Jakob Johansson,10.0,45.0,35.0,30.0,,52.0,Motion -39,Tidaholms MK,30.0
+Jonas Johansson,239.0,43.0,24.0,31.0,25.0,,Motion 50-59,FMCK Borås,30.75
+Robin Gunnarsson,156.0,26.0,,37.0,,,Junior,Skene MS,31.5
+Sixten Lundgren,,40.0,37.0,33.0,24.0,33.0,Junior,Norrahammars MK,31.75
+Magnus Thor,,,32.0,,,,Senior,Battle of Vikings Sportförening,32.0
+Carl Nydén,,55.0,31.0,97.0,19.0,27.0,Junior,SMK Värnamo,33.0
+Alfred Karlsson,,68.0,53.0,35.0,22.0,22.0,Junior,FMCK Skövde,33.0
+Emil Wänndahl,29.0,64.0,39.0,,,,Ungdom E1,Huskvarna MK,34.0
+Olle Mårtensson,,34.0,,,,,Junior,SMK Värnamo,34.0
+Ville Hjelm,,,40.0,28.0,,121.0,Ungdom E0,Finspångs MS,34.0
+Eric Lindblad,34.0,155.0,155.0,,,,Motion -39,Hjo MK,34.0
+Theodor Popp,11.0,51.0,28.0,364.0,,47.0,Ungdom E1,SMK Värnamo,34.25
+Edvin Hagman,,35.0,,,,,Junior,Falköpings MK,35.0
+Mikael Wiberg,,50.0,33.0,29.0,29.0,81.0,Motion 50-59,Hallsbergs MK,35.25
+Linus Knutsson,,61.0,106.0,,6.0,39.0,Junior,Falköpings MK,35.333333333333336
+Alexander Fält,4.0,25.0,48.0,52.0,175.0,48.0,"Motion 30-39, Motion -39",Försvarsmaktens EK,35.4
+Sven Höglander,,42.0,29.0,,,70.0,Ungdom E1,Djursdala SK,35.5
+Sebastian Adielsson,,,,92.0,,36.0,Bredd,MK Pionjär,36.0
+William Brehag Von Haugwitz,15.0,85.0,,43.0,,50.0,Ungdom E1,Carlsborgs MK,36.0
+William Berg,,36.0,,,,,Junior,Solshesters MCK,36.0
+Oliver Önnefors,,65.0,38.0,,35.0,38.0,Junior,FMCK Skövde,37.0
+Joakim Fri,,,44.0,36.0,32.0,86.0,Motion 50-59,Älvbygdens MK,37.333333333333336
+Lukas Engerstad,,59.0,65.0,46.0,17.0,29.0,Junior,Skene MS,37.75
+Eddie Bergman,,41.0,50.0,67.0,30.0,31.0,Bredd,Tibro MK,38.0
+Hampus Östensson,9.0,67.0,74.0,38.0,,41.0,Motion -39,Hallsbergs MK,38.75
+Lucas Holgersson,,71.0,47.0,,33.0,,Senior,MC Alingsås,40.0
+Måns Dalén,2.0,60.0,,68.0,,61.0,Motion -39,FMCK Skövde,41.0
+Aleksander Kalbekkdalen,,82.0,41.0,41.0,,,Senior,Notodden Crossklubb,41.0
+Hugo Hellström,32.0,91.0,49.0,49.0,,43.0,Ungdom E1,Norrahammars MK,43.25
+Håkon Nohr,,46.0,,44.0,,,Junior,Borg mc klubb,44.0
+Olle Samuelsson,45.0,195.0,,,,,Motion -39,Vimmerby MS,45.0
+Magnus Blom,,66.0,110.0,66.0,26.0,26.0,Bredd,Bodafors MK,46.0
+Melvin Nordgren,,132.0,,47.0,,,Motion -39,Örebro EK,47.0
+Conny Ståhl,,,,48.0,,,Motion 50-59,Hjo MK,48.0
+Christer Huss,200.0,,79.0,19.0,,,Motion 40-49,Göta MS,49.0
+Robin Stjernström,,49.0,,,,,Junior,Vimmerby MS,49.0
+Filip Wahlström,,84.0,52.0,34.0,31.0,89.0,Ungdom E0,Hallsbergs MK,50.25
+Niklas Strömberg,3.0,75.0,103.0,,,74.0,Motion 40-49,Götene MK,50.666666666666664
+Mårten Gustavsson,8.0,70.0,92.0,54.0,,71.0,Motion 40-49,Försvarsmaktens EK,50.75
+Mille Söderblom,53.0,63.0,54.0,50.0,,46.0,Ungdom E1,Hallsbergs MK,50.75
+Emil Mann,178.0,48.0,61.0,62.0,50.0,40.0,Junior,Falköpings MK,52.2
+Joacim Wigertson,16.0,83.0,105.0,,,60.0,Motion -39,Kullings MS,53.0
+Ludvig Pettersson,,53.0,,63.0,,,Junior,Töreboda MK,53.0
+Matilda Huss,,,71.0,69.0,38.0,,Dam,Göta MS,53.5
+Andréas Svensson,,54.0,,,,110.0,Motion 40-49,Stenungsunds MS,54.0
+Alfred Ivarsson,,,95.0,55.0,,,Motion -39,Älvbygdens MK,55.0
+Emil Palm,,56.0,,,,,Junior,Björkö EK,56.0
+Peter Appelqvist,,79.0,42.0,59.0,44.0,319.0,Motion 50-59,Kortedala MK,56.0
+Hjalmar Johansson,,92.0,67.0,40.0,36.0,83.0,Ungdom E0,SMK Eksjö,56.5
+Man - Henrik Madsen,57.0,,,,,,Motion -39,Huskvarna MK,57.0
+Per Lifvendahl,,,57.0,,184.0,,"Motion 50-59, Bredd",MK Orion,57.0
+Sebastian Lundblad,,57.0,66.0,,,,Bredd,Falköpings MK,57.0
+Christer Johansson,,,55.0,61.0,,116.0,Motion 50-59,Varbergs MK,58.0
+Erik Isaksson,58.0,188.0,,,,,Motion -39,Tranås MS,58.0
+Melvin Bernström,,76.0,68.0,78.0,46.0,45.0,Bredd,Carlsborgs MK,58.75
+Axel Plogner,21.0,102.0,63.0,74.0,,79.0,Ungdom E1,Karlstad MX Klubb,59.25
+Marcus Hjelm,28.0,108.0,,108.0,,93.0,Motion -39,Falköpings MK,60.5
+Linnéa Åkesson,,120.0,85.0,83.0,40.0,37.0,Dam,FMCK Skövde,61.25
+Stefan Claesson,,,91.0,71.0,52.0,,Motion 50-59,Götene MK,61.5
+Inge Edberg,,94.0,60.0,51.0,43.0,149.0,Motion 60-,Huskvarna MK,62.0
+Joel Kvist,19.0,73.0,113.0,85.0,,75.0,Motion -39,Försvarsmaktens EK,63.0
+Christian Hagberg,,62.0,70.0,82.0,42.0,113.0,Motion 50-59,FMCK Borås,64.0
+Terje Berge,,115.0,64.0,,,115.0,Motion 50-59,"Flittig, Flittig Enduro",64.0
+Sixten Larsson,27.0,178.0,,101.0,,,Ungdom E1,FMCK Borås,64.0
+Liam Nilsson,30.0,271.0,104.0,64.0,,58.0,"Ungdom E1, Ungdom E0","FMCK Skövde, Tidaholms MK",64.0
+Liam Nilsson,30.0,127.0,104.0,64.0,,58.0,Ungdom E1,FMCK Skövde,64.0
+Mattias Cöster,,,87.0,88.0,,42.0,Junior,SMK Östgöta,64.5
+Magnus Kallander,255.0,80.0,46.0,53.0,34.0,112.0,Motion 50-59,Linköpings MS,65.0
+Tommy Andersson,,,,65.0,,,Motion 40-49,Götene MK,65.0
+Jan-Olof Wallskog,,99.0,58.0,56.0,49.0,139.0,Motion 60-,Töreboda MK,65.5
+Johan Karlsson,,2.0,109.0,104.0,54.0,111.0,"Motion 50-59, Motion 40-49","Älvbygdens MK, Götene MK",67.25
+Johan Karlsson,,2.0,175.0,104.0,54.0,111.0,"Motion 50-59, Motion 40-49","Älvbygdens MK, Falköpings MK, Götene MK",67.75
+Roy Kolberg,,77.0,76.0,60.0,,,Motion 40-49,Team Westom Motorcykel,68.0
+Andreas Mörk,23.0,122.0,88.0,94.0,,67.0,Motion -39,Laxå MK,68.0
+Markus Carlbom,,,69.0,,,,Junior,FMCK Skövde,69.0
+Oscar Karlsson,,69.0,,,,,Bredd,Fjugesta MS,69.0
+Tommi Ragnarsson,,,84.0,77.0,62.0,,Motion 50-59,Skene MS,69.5
+Liam Ljungström,,78.0,78.0,109.0,,53.0,Ungdom E1,SMK Vingåker,69.66666666666667
+Kevin Andersson,,,,70.0,,,Motion -39,SMK Kolmården,70.0
+Jimmy Kaukinen,303.0,81.0,59.0,57.0,60.0,94.0,Motion 50-59,Wäxjö MS,70.2
+Jimmy Johansson,,117.0,131.0,131.0,,24.0,"Motion 50-59, Bredd","Tranås MS, Försvarsmaktens EK",70.5
+Leo Klasson,,97.0,62.0,86.0,39.0,99.0,Ungdom E0,Tibro MK,71.0
+Douglas Sjöblom,,114.0,56.0,96.0,41.0,91.0,Ungdom E0,SMK Värnamo,71.0
+Alex Åhlén,,,,,71.0,,Ungdom E0,FMCK Strängnäs,71.0
+Rikard Andersson,,72.0,118.0,,,,Bredd,SMK Värnamo,72.0
+Mikael Bengtsson,18.0,128.0,142.0,,,,Motion 40-49,Falköpings MK,73.0
+Dennis Larsson,,,147.0,91.0,,56.0,Motion -39,Örebro EK,73.5
+Alfred Gustavsson,31.0,136.0,96.0,103.0,,66.0,Ungdom E1,Mariestads EK,74.0
+Per Kristian Svensrud,,74.0,,,,,Junior,Jevnaker MK,74.0
+Simon Nyström,,,,370.0,74.0,,Bredd,Skene MS,74.0
+Jerker Svantesson,,96.0,81.0,,45.0,109.0,Motion 50-59,Kullings MS,74.0
+Joel Hjelte,,,,75.0,,,Motion -39,Linköpings MS,75.0
+Lars Arvidsson,,98.0,75.0,80.0,51.0,105.0,Motion 50-59,Kullings MS,76.0
+Casper Eriksson,,121.0,,32.0,,194.0,Ungdom E0,FMCK Skövde,76.5
+Olle Persson,,103.0,51.0,361.0,,,Ungdom E0,Hallsbergs MK,77.0
+Arvid Petersson,,93.0,158.0,,72.0,68.0,Junior,Tranemo MK,77.66666666666667
+Felix Johansson,,,137.0,,,78.0,Motion -39,Kinds MK,78.0
+Melvin Blom,150.0,86.0,77.0,371.0,37.0,44.0,"Junior, Motion 16-29","Bodafors MK, Försvarsmaktens EK",78.8
+Peter Björnqvist,,113.0,73.0,79.0,53.0,117.0,Motion 50-59,FMCK Borås,79.5
+Robert Oskarsson,,89.0,72.0,,,95.0,Motion 50-59,Hallsbergs MK,80.5
+Liam Qvist,40.0,116.0,99.0,72.0,,334.0,Ungdom E1,Åbågen MCK,81.75
+Linus Ernstsson,217.0,,100.0,,,64.0,"Motion 30-39, Motion -39",Bengtsfors MCC,82.0
+Roger Ottosson,,141.0,82.0,95.0,70.0,,Motion 50-59,Vimmerby MS,82.33333333333333
+Hans Torsborn,43.0,148.0,,,,122.0,Motion 40-49,Ulricehamns MK,82.5
+Andreas Andersson,84.0,,,,,,Motion -39,Kullings MS,84.0
+George Svantesson,41.0,134.0,145.0,,,82.0,Motion -39,Kullings MS,85.66666666666667
+Mikael Persson,,106.0,83.0,99.0,58.0,104.0,Motion 60-,Töreboda MK,86.0
+Andreas Johansson,,,127.0,105.0,67.0,,Bredd,Carlsborgs MK,86.0
+Andreas Axelsson,,124.0,,145.0,,49.0,Bredd,Tibro MK,86.5
+Jesper Thorsson,,,,,,87.0,Bredd,Kungsbacka MA,87.0
+Michael Larsson,,95.0,112.0,93.0,48.0,150.0,Motion 50-59,SMK Värnamo,87.0
+Roger Jakobsson,346.0,133.0,80.0,73.0,63.0,,"Motion 60+, Motion 60-",Kullings MS,87.25
+Hampus Högström,,88.0,,,,,Senior,Norrahammars MK,88.0
+Harald Lindholm,,,,166.0,,88.0,Motion -39,Älvbygdens MK,88.0
+Andreas Breitfeld,88.0,149.0,,,,,Motion -39,Kungsbacka MA,88.0
+Andreas Jorlöv,89.0,,,,,,Motion 40-49,Kullings MS,89.0
+Richard Karlsson,300.0,87.0,,89.0,61.0,120.0,Motion 50-59,Götene MK,89.25
+Filip Starck,49.0,,130.0,190.0,,,Motion 40-49,Norrahammars MK,89.5
+Stefan Andersson,83.0,107.0,116.0,110.0,59.0,,"Motion 50-59, Motion 40-49","SMK Trollhättan, Lilla Edets MCK",89.75
+Christer Hedihn,292.0,104.0,101.0,98.0,56.0,,Motion 50-59,FMCK Borås,89.75
+Stefan Liljedahl,25.0,130.0,119.0,102.0,205.0,73.0,Motion 40-49,Tibro MK,89.8
+Jonas Bergqvist,,,,,,90.0,Motion 40-49,Skene MS,90.0
+Melker Svantesson,35.0,137.0,,142.0,,98.0,Motion -39,Kullings MS,90.0
+Samuel Öberg,,,,119.0,90.0,,Ungdom E0,Kullings MS,90.0
+Rasmus Andersson,181.0,90.0,,,,,Senior,Götene MK,90.0
+Viggo Johansson,,170.0,134.0,124.0,47.0,57.0,Junior,SMK Eksjö,90.5
+Joakim Holm,,101.0,123.0,81.0,57.0,138.0,Motion 50-59,FMCK Skövde,90.5
+Anders Johansson,,139.0,94.0,90.0,65.0,119.0,Motion 60-,MCK Hallandia,92.0
+Edvin Kindgren,92.0,302.0,,,,,Ungdom E1,SMK Eksjö,92.0
+Johan Karlsson,,105.0,109.0,104.0,54.0,111.0,Motion 50-59,Götene MK,93.0
+Peter Turesson,,,,,93.0,,Motion 50-59,SMK Eksjö,93.0
+Johan Karlsson,,105.0,175.0,104.0,54.0,111.0,Motion 50-59,"Falköpings MK, Götene MK",93.5
+Sebastian Carlsson,,182.0,139.0,84.0,,59.0,Motion 40-49,SMK Vadstena,94.0
+Joakim Ericsson,61.0,147.0,108.0,123.0,,85.0,Motion 40-49,Töreboda MK,94.25
+Gustav Östensson,,,,,97.0,,Ungdom E0,Karlskoga EK,97.0
+Marcus Eisner,,,97.0,,,,Junior,FMCK Skövde,97.0
+Magnus Ragnarsson,,140.0,102.0,106.0,55.0,134.0,Motion 50-59,Skene MS,99.25
+Björn Axelsson,64.0,256.0,,,,135.0,Motion -39,FMCK Skövde,99.5
+Niklas Fransson,,100.0,,,,,Motion 40-49,Vimmerby MS,100.0
+Jonathan Petersson,,,,,,100.0,Motion -39,SMK Trollhättan,100.0
+Philip Johansson,,,,,101.0,,Bredd,Skene MS,101.0
+Tony Larsson,,123.0,90.0,115.0,77.0,140.0,Motion 50-59,FMCK Borås,101.25
+Björn Bäckström,55.0,,207.0,149.0,,,Motion 40-49,MK Ran,102.0
+Aron Goes,104.0,,,324.0,,,Motion -39,Kortedala MK,104.0
+Andreas Remfäldt,,125.0,129.0,117.0,,72.0,Motion 40-49,Mariestads EK,104.66666666666667
+David Gustafsson,105.0,,,,,,Motion -39,Försvarsmaktens EK,105.0
+Ulf Åström,,172.0,181.0,,69.0,77.0,Bredd,Wäxjö MS,106.0
+Bernard Abrahamsson,46.0,,317.0,,,167.0,Motion -39,FMCK BohusDal,106.5
+Emil Meijer,52.0,,173.0,165.0,,103.0,Motion -39,Götene MK,106.66666666666667
+Robert Lind,,,115.0,107.0,,,Motion -39,Tranås MS,107.0
+Max Wennerlund,152.0,,93.0,76.0,169.0,,"Bredd, Motion 16-29",Tranås MS,107.0
+Henrik Olsson,107.0,,395.0,,,,Motion 40-49,Falköpings MK,107.0
+Ludvig Hamberg,280.0,131.0,126.0,,79.0,97.0,Junior,FMCK Skövde,108.25
+Max Karlsson,,135.0,98.0,120.0,,,Ungdom E1,Stenungsunds MS,109.0
+Rikard Skerget,38.0,166.0,,210.0,,123.0,Motion 40-49,Stenungsunds MS,109.0
+Rasmus Hansson,110.0,,384.0,,,,Motion -39,Skene MS,110.0
+Emil Löf,,151.0,153.0,,,69.0,Junior,Karlskoga EK,110.0
+Erik Elowson,,110.0,,,,,Motion -39,FMCK Skövde,110.0
+Jimmy Josefsson,39.0,146.0,125.0,164.0,,131.0,Motion -39,Skene MS,110.25
+Victor Sterling,,111.0,,,,,Ungdom E1,Linköpings MS,111.0
+Björn Levin,,161.0,114.0,118.0,344.0,55.0,Bredd,Kinna MK,112.0
+Lucas Robinsson,,180.0,,160.0,64.0,,"Junior, Bredd",Falköpings MK,112.0
+Niclas Johansson,,,,112.0,,,Motion 50-59,Kullings MS,112.0
+Jonas Karlsson,191.0,118.0,107.0,114.0,,,"Bredd, Senior",Hjo MK,113.0
+Tobias Olofsson,,,149.0,113.0,,,Bredd,Varbergs MK,113.0
+Fredric Randström,,,166.0,129.0,,101.0,Motion 40-49,Hagfors MS,115.0
+Benny Andersson,12.0,109.0,177.0,184.0,94.0,203.0,"Motion 50-59, Motion 40-49","Norrahammars MK, Kullings MS",115.2
+Peter Blomdahl,296.0,,,,75.0,156.0,Motion 50-59,Ulricehamns MK,115.5
+Kenneth Pettersson,,,151.0,,81.0,188.0,Motion 50-59,FMCK Skövde,116.0
+Algot Hessel,,126.0,121.0,125.0,92.0,208.0,Ungdom E0,Tidaholms MK,116.0
+Björn Jorlöv,116.0,,,,,,Motion 40-49,Kullings MS,116.0
+Simon Holmbäck,,,117.0,,,,Motion -39,Hjo MK,117.0
+Albin Bäckström Herbertsson,,251.0,,,117.0,,Bredd,Säffle MCK,117.0
+Arvid Hellqvist,,162.0,159.0,132.0,,63.0,Junior,Töreboda MK,118.0
+Pelle Persson,281.0,47.0,,42.0,338.0,102.0,Motion 50-59,Falköpings MK,118.0
+Jan Wester,,142.0,111.0,126.0,,,Motion 50-59,FMCK Skövde,118.5
+Ludwig Demegård,,119.0,,,,315.0,Ungdom E1,Tibro MK,119.0
+Dennis Eriksson,50.0,204.0,180.0,133.0,,,Motion -39,SMK Ronneby,121.0
+Fredrik Gren,,181.0,,148.0,95.0,,Motion 50-59,FMCK Borås,121.5
+Henrik Klövmark,,,122.0,,,,Motion 40-49,Ma Lerum,122.0
+Alf Thomas Johansson,,145.0,154.0,100.0,,,Motion 50-59,Götene MK,122.5
+Albin Pettersson,36.0,177.0,198.0,172.0,,106.0,Motion -39,"Kristdala MS, Kristdala Motorsällskap",122.75
+Robert Strandberg,22.0,226.0,202.0,139.0,,129.0,Motion 40-49,Hjo MK,123.0
+Olle Gustafsson,,,124.0,,,,Junior,Team Värmland MK,124.0
+Simon Henriksson,,156.0,133.0,116.0,,,Motion -39,Lilla Edets MCK,124.5
+Frida Östlund,242.0,,167.0,122.0,85.0,,"Motion Dam, Dam",Karlskoga EK,124.66666666666667
+Jonathan Storm,42.0,203.0,215.0,,,132.0,Motion -39,Kortedala MK,125.66666666666667
+Anton Magnusson,,159.0,,140.0,87.0,196.0,Ungdom E0,Norrahammars MK,128.66666666666666
+Marcus Lind,,129.0,,,,,Motion 50-59,Tidaholms MK,129.0
+Jesper Herngren,68.0,,289.0,174.0,,146.0,Motion -39,Falköpings MK,129.33333333333334
+Lars Jansson,,,,,,130.0,Motion 50-59,Karlskoga EK,130.0
+Gustav Thell,,,,,130.0,,Ungdom E0,Gotlands MF:s Motorcykelklubb,130.0
+Fabian Bandling,,,,130.0,,,Junior,Vimmerby MS,130.0
+Lars-Olof Lindström,65.0,186.0,,183.0,,145.0,Motion 40-49,FMCK Borås,131.0
+Daniel Lundqvist,47.0,,255.0,233.0,,114.0,Motion 40-49,Töreboda MK,131.33333333333334
+Mats Johansson,,160.0,144.0,207.0,91.0,,Motion 50-59,Götene MK,131.66666666666666
+Daniel Jönsson,,,,,,133.0,Motion 40-49,Vimmerby MS,133.0
+Kenneth Zimmerblad,318.0,157.0,128.0,111.0,78.0,193.0,Motion 50-59,Skene MS,133.4
+Patrik Olsson,26.0,144.0,221.0,158.0,216.0,124.0,"Motion 30-39, Motion -39",Lilla Edets MCK,133.6
+Fredrik Eisner,,189.0,135.0,,,,Motion 50-59,Alingsås MCK,135.0
+Emil Isfeldt,135.0,,,,,,Motion 16-29,Norrahammars MK,135.0
+Malte Olsson,,219.0,183.0,150.0,73.0,,Ungdom E0,Falköpings MK,135.33333333333334
+Fabian Aleryd,,173.0,162.0,,76.0,169.0,Motion 50-59,Kullings MS,135.66666666666666
+Sebastian Brodin,,154.0,136.0,,,,Ungdom E0,Örebro EK,136.0
+Simon Öberg,90.0,241.0,192.0,128.0,,,Motion -39,Norrahammars MK,136.66666666666666
+Per Hedskog,,227.0,140.0,,80.0,191.0,Motion 50-59,SMK Trollhättan,137.0
+Fredrik Sääv,37.0,199.0,218.0,179.0,,,Motion 40-49,Götene MK,138.33333333333334
+Tommy Gustafsson,59.0,38.0,265.0,272.0,,192.0,Motion -39,Huskvarna MK,138.5
+Thim Svensson,51.0,212.0,196.0,,,171.0,Motion -39,Vissefjärda EK,139.33333333333334
+Anders Billestedt Andersson,126.0,19.0,389.0,,,274.0,Motion 40-49,Stenungsunds MS,139.66666666666666
+Einar Sevefelt,,,,362.0,140.0,,Ungdom E0,SMK Eksjö,140.0
+OkAnton Torgin,140.0,,,,,,Motion -39,Donkelo RK,140.0
+Henrik Bolmelid,,,,141.0,,,Motion 50-59,Westerviks MSK,141.0
+Martin Larsson,141.0,,,,,,Elit,Bollnäs MK,141.0
+Jörgen Petersson,,201.0,138.0,144.0,83.0,240.0,Motion 50-59,Oskarshamns MSK,141.5
+OKJohan Lindgren,142.0,,,,,,Motion -39,Tranemo MK,142.0
+Håkan Svensson,,247.0,,173.0,113.0,,Motion 60-,FMCK Eksjö,143.0
+Mattias Ojanperä,143.0,,,,,,Elit,FMCK Skövde,143.0
+Anders Roth,438.0,158.0,86.0,87.0,66.0,320.0,Motion 50-59,Kristdala Motorsällskap,143.4
+Rasmus Levén,131.0,,222.0,156.0,,,Motion -39,Bodafors MK,143.5
+Björn Sandstedt,,174.0,176.0,152.0,86.0,163.0,Motion 50-59,Tibro MK,143.75
+Erik Wahlström,441.0,411.0,,13.0,11.0,,"Elit, Senior",FMCK Skövde,145.0
+Edwin Djurstedt,85.0,309.0,206.0,,,,Ungdom E1,Djursdala SK,145.5
+Axel Westher,146.0,,,,,,Elit,FMCK Skövde,146.0
+Johan Andersson,93.0,,238.0,265.0,108.0,,"Motion 50-59, Motion -39","SMK Östgöta, Göta MS",146.33333333333334
+Jan Olof Carlsson,,,,,147.0,,Motion 60-,Norrahammars MK,147.0
+Pontus Lüppert,,,,147.0,,,Bredd,MK Team Treske,147.0
+Christopher Wiss,147.0,,,,,,Elit,Botkyrka MK,147.0
+Mathias Sjölander,,,148.0,,,,Bredd,Karlskoga EK,148.0
+Ronny Eskengren,,,200.0,189.0,,107.0,Motion 40-49,Älvbygdens MK,148.0
+Albin Strandhag,86.0,402.0,,,,210.0,Motion -39,FMCK Skövde,148.0
+Arvid Siggesson,,29.0,321.0,,243.0,174.0,"Motion -39, Motion 16-29",Tibro MK,148.66666666666666
+Antti Mankinen,,138.0,160.0,,188.0,,"Bredd, Motion 40-49","Oslo MSK, Oslo MK",149.0
+Isak Angerd,,337.0,,,149.0,,Junior,Tranemo MK,149.0
+Oscar Olsson,149.0,,,,,,Motion 16-29,Östhammars MK,149.0
+Andreas Josefsson,159.0,187.0,224.0,231.0,88.0,92.0,"Bredd, Motion 16-29",Falköpings MK,150.0
+Jens Andersson,,,150.0,,,,Motion 50-59,Töreboda MK,150.0
+Martin Börjesson,33.0,228.0,208.0,213.0,,148.0,Motion 40-49,FMCK Borås,150.5
+Peter Elofsson,,150.0,152.0,,,179.0,Motion 60-,Skene MS,151.0
+Magnus Grahn,,152.0,,170.0,,,Motion 50-59,Försvarsmaktens EK,152.0
+Magnus Enander,77.0,234.0,233.0,,,147.0,Motion 40-49,Ulricehamns MK,152.33333333333334
+Dennis Ring,80.0,248.0,,203.0,,175.0,Motion -39,FMCK Borås,152.66666666666666
+Mattias Hägg,153.0,,,,,,Senior,FMCK Strängnäs,153.0
+Elis Wahlman,,,,153.0,,,Ungdom E1,SMK Kolmården,153.0
+Sam Hämäläinen,60.0,168.0,300.0,,231.0,,"Motion 40-49, Bredd",Tibro MK,153.0
+Johan Arne Wärnelöv,,196.0,168.0,138.0,,,Motion -39,Tranås MS,153.0
+Tomas Sjöquist,,153.0,186.0,,,,Motion 50-59,Försvarsmaktens EK,153.0
+Patrik Förkrök Ledström,81.0,,211.0,215.0,194.0,127.0,"Motion 30-39, Motion -39",SMK Vadstena,153.25
+Tobias Häll,154.0,,,,167.0,,Motion 16-29,SMK Östgöta,154.0
+Anton Bernhardsson,,,179.0,154.0,,,Motion 40-49,Kortedala MK,154.0
+Kristian Morsing,,,,285.0,154.0,,Motion 50-59,Carlsborgs MK,154.0
+Dennis Hörberg,71.0,238.0,280.0,,,,Motion -39,Norrahammars MK,154.5
+Jonas Nordmark,,163.0,146.0,,,183.0,Motion 50-59,Varbergs MK,154.5
+Oskar Geidby,155.0,,,,168.0,,Motion 16-29,MK Nitro,155.0
+Jan Backelin,,,369.0,,155.0,,Motion 60-,MK Pionjär,155.0
+Dan Ask,,,,155.0,,,Motion 60-,SMK Trollhättan,155.0
+Christian Johansson,54.0,237.0,234.0,192.0,,142.0,Motion 40-49,Tidaholms MK,155.5
+Tomas Karlsson,362.0,225.0,132.0,121.0,89.0,217.0,Motion 50-59,Skene MS,156.8
+Mikael Andersson,,,,,157.0,,Motion 60-,MK Pionjär,157.0
+Tobias Karlén,157.0,,,,,,Motion 16-29,Götene MK,157.0
+Peter Franzén,,,,211.0,104.0,238.0,Motion 50-59,Kortedala MK,157.5
+Hilda Sjöberg,,305.0,231.0,,,84.0,Dam,Tibro MK,157.5
+Kim Grandell,158.0,,,,,,Elit,Ålands MK,158.0
+Eric Gustafsson,99.0,317.0,89.0,266.0,,178.0,Motion -39,SMK Vingåker,158.0
+Axel Karlsson,,,251.0,200.0,,118.0,Motion -39,Laxå MK,159.0
+Melker Jansson,223.0,143.0,191.0,369.0,,80.0,"Motion -39, Motion 16-29",Karlskoga EK,159.25
+Mattias Eriksson,,175.0,169.0,168.0,,141.0,Motion 40-49,Varbergs MK,159.33333333333334
+Linus Adolfson,,332.0,,,,160.0,Bredd,Ma Lerum,160.0
+Anders Helgerud,160.0,,,,,,Senior,NMK Aurskog Høland,160.0
+Hugo Lindström,79.0,264.0,242.0,,,,Motion -39,FMCK Borås,160.5
+Wilje Bogren,,230.0,184.0,194.0,84.0,184.0,Ungdom E0,Töreboda MK,161.5
+Andreas Almroth,,,,,,162.0,Motion -39,Borås MK,162.0
+Anders Pettersson,162.0,,,,,,Senior,Örebro MK,162.0
+Gustav Malm,190.0,164.0,178.0,163.0,,143.0,"Motion -39, Motion 16-29",Hallsbergs MK,162.0
+Christer Strand,73.0,,,258.0,260.0,157.0,"Motion 30-39, Motion -39",Tibro MK,162.66666666666666
+Emil Rönn,163.0,,,,,,Senior,Uppsala MK,163.0
+Albin Pettersson,238.0,177.0,198.0,172.0,,106.0,"Motion 30-39, Motion -39",Kristdala Motorsällskap,163.25
+Johan Hedström,76.0,263.0,214.0,206.0,,161.0,Motion -39,Kinds MK,164.25
+Henrik Karlsson,,,230.0,197.0,106.0,190.0,Motion 50-59,Stenungsunds MS,164.33333333333334
+Jonas Svensson,,,325.0,234.0,,96.0,Motion 40-49,Hallsbergs MK,165.0
+Joakim Wicksell,165.0,,,,,,Motion 30-39,SMK Uppsala,165.0
+Anders Löf,,,,,,165.0,Motion 50-59,Hallsbergs MK,165.0
+Ola Korsell,,202.0,165.0,,,,Motion 40-49,Götene MK,165.0
+Linus Kjellström,48.0,,232.0,222.0,233.0,159.0,"Motion 30-39, Motion -39",Götene MK,165.25
+Magnus Lundén,,169.0,163.0,,247.0,,"Motion 50-59, Bredd",Wäxjö MS,166.0
+Jonte Fornander,166.0,,,,,,Senior,Haninge MK,166.0
+Joakim Svensson,184.0,207.0,182.0,134.0,,,"Motion 30-39, Bredd",Linköpings MS,166.66666666666666
+Felix Nyström,167.0,,,,,,Junior,Åsätra MK,167.0
+Philip Andersson,168.0,,,,182.0,,Motion 16-29,Haninge MK,168.0
+Simon Jonsson,169.0,,,,,,Motion 16-29,Vrigstad MK,169.0
+Tony Lundberg,365.0,209.0,161.0,137.0,,,Motion 50-59,Hällefors MK,169.0
+Rasmus Bengt Olof Malmborg,119.0,,286.0,220.0,,,Motion -39,Björkö EK,169.5
+Sören Larsson,336.0,167.0,156.0,146.0,,209.0,Motion 50-59,FMCK Borås,169.5
+Mathias Svensson,360.0,200.0,174.0,175.0,100.0,199.0,Motion 50-59,Skene MS,169.6
+Pontus Olofsson,170.0,,,,,,Motion 16-29,SMK Dala Falun,170.0
+Fredrik Bellqvist,,,,,170.0,,Motion 16-29,Örbyhus MCK,170.0
+Grim Fallenius,97.0,210.0,260.0,205.0,,,Motion -39,Götene MK,170.66666666666666
+Charlie Viklund,171.0,,,,,,Senior,SMK Ockelbo,171.0
+Emelie Nilsson,202.0,176.0,210.0,136.0,,,Dam,Ma Lerum,171.33333333333334
+Robert Ahlin,123.0,,304.0,,,220.0,Motion 40-49,Falköpings MK,171.5
+Jens Selling,172.0,,,,179.0,,Motion 30-39,Mockfjärd MK,172.0
+Emil Hermansson,,198.0,172.0,,,,Bredd,MC Alingsås,172.0
+Hampus Söderblom,180.0,,,,172.0,,Motion 30-39,Hedesunda CK,172.0
+Per Eriksson,74.0,,334.0,271.0,,,Motion 40-49,Hallsbergs MK,172.5
+Oskar Hultgren,179.0,,,,173.0,,Motion 16-29,Gotland Enduro Cross MS,173.0
+Oddbjørn Sandvik,,215.0,217.0,196.0,,108.0,Motion 40-49,Flittig Enduro,173.0
+Hugo Dahlberg,174.0,,,,,,Motion 16-29,Norsjö MS,174.0
+Krister Thorell,186.0,,,,174.0,,Motion 50-59,SMK Gävle,174.0
+Mikael Wargbäck,425.0,52.0,,,161.0,310.0,Motion 50-59,FMCK Borås,174.33333333333334
+Oskar Willén,175.0,,,,,,Junior,Göta MS,175.0
+Stefan Larsson,,401.0,268.0,159.0,98.0,,Motion 50-59,Carlsborgs MK,175.0
+Philip Baumgartner,100.0,,299.0,237.0,,189.0,Motion -39,Götene MK,175.33333333333334
+Anton Johansson,121.0,,,317.0,,230.0,Motion -39,FMCK Borås,175.5
+Robert Engberg,176.0,,,,,,Senior,SMK Söderhamnsavdelning,176.0
+Simon Parkkila,,,,,176.0,,Motion 16-29,Uppsala MK,176.0
+Ronnie Bengtsson,399.0,,,176.0,,177.0,Motion 50-59,Tidaholms MK,176.5
+Peter Bysell,207.0,,,,177.0,,Motion 40-49,FMCK Strängnäs,177.0
+Martin Ringdahl,177.0,,,,,,Junior,SMK Kolmården,177.0
+Mikael Kristensson,,218.0,204.0,188.0,99.0,229.0,Motion 60-,MCK Hallandia,177.25
+Eddie Hallblom,,,,,178.0,,Motion 30-39,Ludvika MS,178.0
+Wilmer Jansson,91.0,,420.0,293.0,,154.0,Ungdom E1,Tidaholms MK,179.33333333333334
+Bo Karlsson,404.0,190.0,219.0,178.0,133.0,,"Motion 60+, Motion 60-",Lilla Edets MCK,180.0
+Max Åsåker,197.0,,,,180.0,,Motion 30-39,SMK Hedemora,180.0
+Markus Andersson,,,195.0,180.0,,,Motion 40-49,MK Team Treske,180.0
+Isac Svensson,,,,,,180.0,Motion -39,Vissefjärda EK,180.0
+William Marcher,,192.0,418.0,127.0,,221.0,Ungdom E0,Hallsbergs MK,180.0
+Patrik Högberg,,233.0,170.0,191.0,,,Motion 50-59,Edsvära MCK,180.5
+Magnus Ahlström,218.0,,,,181.0,,Motion 40-49,Värmdö MK,181.0
+Petter Hedlund,,,189.0,181.0,,,Motion -39,Hallsbergs MK,181.0
+Andreas Holmstrand,388.0,,254.0,,109.0,,Motion 50-59,FMCK Borås,181.5
+Patric Gustafsson,63.0,260.0,279.0,236.0,,168.0,Motion -39,Huskvarna MK,181.75
+Joel Rådberg,,,212.0,252.0,,152.0,Motion -39,SMK Trollhättan,182.0
+Philip Gunnari,182.0,,,,,,Motion 16-29,SMK Ockelbo,182.0
+Anders Olsson,340.0,,141.0,,82.0,325.0,Motion 50-59,Götene MK,182.66666666666666
+Johan Siggesson,311.0,223.0,287.0,,68.0,153.0,"Motion 50-59, Bredd",Tibro MK,182.75
+Dennis Sahlin,183.0,,,,,,Motion 16-29,Hudiksvalls MCK,183.0
+Christoffer Gustafsson,,,,,183.0,,Motion 40-49,Försvarsmaktens EK,183.0
+Markus Stjernström,,183.0,,,,,Motion -39,Vimmerby MS,183.0
+Hannes Östensson,,,290.0,240.0,,126.0,Bredd,MK Ran,183.0
+Niclas Starck,,213.0,205.0,218.0,102.0,216.0,Motion 50-59,Wäxjö MS,184.0
+Christoffer Jonasson,66.0,,263.0,254.0,234.0,,"Motion 30-39, Motion -39",SMC,184.66666666666666
+Dennis Olesen,431.0,184.0,236.0,182.0,,137.0,Motion -39,Kullings MS,184.75
+Henrik Gustafsson,185.0,,,,,,Motion 30-39,Karlskoga EK,185.0
+Roger Einerskog,,185.0,266.0,,,,Bredd,Alingsås MCK,185.0
+Roger Berglund,,,,,185.0,,Motion 50-59,Försvarsmaktens EK,185.0
+Jonas Alm,234.0,,,,186.0,,Motion 16-29,Rasbo MK,186.0
+Mikael Sengoltz,211.0,171.0,,,202.0,,"Motion 40-49, Bredd",Wäxjö MS,186.5
+Christopher Skansen,,,,,187.0,,Motion 30-39,Kinds MK,187.0
+John Larsson,,243.0,188.0,186.0,,,Motion -39,Carlsborgs MK,187.0
+Linus Karlsson,,407.0,187.0,,,,Bredd,Fjugesta MS,187.0
+Mats Alfredsson,,249.0,283.0,,125.0,,Bredd,Bengtsfors MCC,187.0
+Emil Gustavson,187.0,,,,,,Senior,Botkyrka MK,187.0
+Michael Danielsson,188.0,,,,191.0,,Motion 30-39,MK Team Treske,188.0
+Albin Glansén,,208.0,185.0,171.0,,233.0,Ungdom E0,Tidaholms MK,188.0
+Tommy Oldenburg,44.0,255.0,237.0,249.0,238.0,173.0,"Motion 30-39, Motion -39",FMCK Skövde,188.2
+Tomas Blom,69.0,283.0,274.0,246.0,,166.0,Motion 40-49,Hallsbergs MK,188.75
+Olof Öberg,,,,,189.0,,Motion 40-49,Kullings MS,189.0
+Johan Debrianté,,324.0,244.0,198.0,,125.0,Motion 40-49,SMK Ljungby,189.0
+Jimmy Öhlin,,222.0,270.0,221.0,111.0,205.0,Motion 50-59,MK Ran,189.75
+Johan Thorn,,,341.0,259.0,122.0,,Motion 50-59,"Beskaskinn MC, Götene MK",190.5
+Måns Kling,,191.0,,,,,Motion -39,Huskvarna MK,191.0
+Peter Damgren,,231.0,226.0,157.0,,,Motion 50-59,FMCK Skövde,191.5
+Stefan Norström,220.0,,,,192.0,,Motion 50-59,Västerås MK,192.0
+Linus Fornander,192.0,,,,,,Motion 16-29,Linköpings MS,192.0
+Isac Tornberg,,281.0,223.0,151.0,115.0,322.0,Ungdom E0,Carlsborgs MK,192.5
+Jimmi Jakobsson,,,220.0,193.0,,,Motion -39,MK Team Treske,193.0
+Kent Nyberg,,,,,193.0,,Motion 50-59,SMK Gävle,193.0
+Anders Viklund,193.0,,,,,,Senior,Botkyrka MK,193.0
+Anton Gustavsson,70.0,258.0,239.0,228.0,277.0,172.0,Motion 40-49,Mariestads EK,193.4
+Fredrik Langvall,,,278.0,219.0,112.0,251.0,Motion 50-59,Skene MS,194.0
+Ronnie Andersson,194.0,,,,,,Motion 40-49,Arlanda MC,194.0
+Andreas Nordström,250.0,232.0,190.0,135.0,223.0,,"Motion 30-39, Motion -39",Eds-Skottbacka MX Förening,195.0
+Patrik Kerttu,,,351.0,,,195.0,Bredd,Kortedala MK,195.0
+Jonathan Skansen,195.0,,,,,,Senior,Botkyrka MK,195.0
+Tim Johansson,,,,195.0,,,Motion -39,Linköpings MS,195.0
+Joakim Rosander,236.0,,,,195.0,,Motion 50-59,Upplands Väsby MK,195.0
+Mattias Jonsson,,,,209.0,196.0,,"Bredd, Motion 40-49",Vimmerby MS,196.0
+Marcus Eriksson,196.0,,,,,,Motion 30-39,SMK Trollhättan,196.0
+Axel Gustafsson,78.0,270.0,273.0,366.0,,164.0,Motion -39,Lidköpings MCK,196.25
+Vilma Norlander,,265.0,193.0,185.0,,212.0,Motion Dam,Kullings MS,196.66666666666666
+Magnus Björkman,,,,169.0,289.0,225.0,Motion 50-59,SMK Kolmården,197.0
+Jonas Eriksson,114.0,352.0,203.0,316.0,96.0,257.0,"Motion 50-59, Motion 40-49","Mariestads EK, Skene MS",197.2
+Fredrik Starck,198.0,,,,,,Senior,Wäxjö MS,198.0
+Henrik Övragård,,,,,198.0,,Motion 30-39,Örbyhus MCK,198.0
+Mattias Ringholm,,,199.0,,,,Motion 40-49,Hallsbergs MK,199.0
+Josef Frank,199.0,,,,,,Motion 16-29,Kalmar Motocross & EnduroKlubb,199.0
+Anders Jansson Lorek,272.0,,,,200.0,,Motion 50-59,Göta MS,200.0
+Magnus Persson,,216.0,197.0,187.0,,234.0,Motion 50-59,Götene MK,200.0
+Fredrik Hassesjö,56.0,268.0,311.0,277.0,,,Motion 40-49,Ulricehamns MK,200.33333333333334
+Anton Edin,201.0,,,,,,Senior,Östhammars MK,201.0
+Morgan Ernstsson,,,201.0,,,,Motion 60-,Bengtsfors MCC,201.0
+Fredrik Genander,227.0,,,,201.0,,Motion 30-39,Nyköpings MS,201.0
+Marcus Ljung,305.0,214.0,248.0,216.0,103.0,227.0,Motion 50-59,SMK Trollhättan,201.6
+Mikael Öhrn,,205.0,,202.0,,,Motion 50-59,Karlskoga EK,202.0
+Tony Johnsson,439.0,,288.0,,116.0,,"Motion 60+, Motion 60-",FMCK Borås,202.0
+Henrik Madsen,,211.0,194.0,214.0,,,Motion -39,Huskvarna MK,202.5
+Philip Lizell,,,,,203.0,,Motion 16-29,Rättvik Boda MK,203.0
+Hedvig Malm,203.0,,,,,,Dam,Norsjö MS,203.0
+Wiggo Hansson,125.0,294.0,328.0,238.0,,155.0,Ungdom E1,Tidaholms MK,203.0
+Håkan Gustafsson,,194.0,216.0,201.0,215.0,,"Motion 50-59, Bredd",Alingsås MCK,203.33333333333334
+Johan Andersson,415.0,,238.0,265.0,108.0,,"Motion 50-59, Motion -39","SMK Östgöta, Göta MS, FMCK Malmö",203.66666666666666
+Carl-Ulric Wendin,265.0,,,,204.0,,Motion 50-59,Östhammars MK,204.0
+Patrik Johansson,226.0,,209.0,,199.0,,"Motion 30-39, Motion -39",Tibro MK,204.0
+Asbjørn Sletholt,,252.0,245.0,242.0,126.0,,Motion 60-,"Flittig, Flittig, Utenlandsk klubb, Utenlandsk klubb, Flittig, Flittig Motocross og ATV",204.33333333333334
+Jimmy Andersson,205.0,,,,220.0,,Motion 40-49,FMCK Falun,205.0
+Jörgen Rutgersson,,229.0,243.0,226.0,123.0,247.0,Motion 50-59,Stenungsunds MS,205.25
+Viktor Hultman,231.0,242.0,253.0,199.0,,151.0,"Motion 30-39, Motion -39",Mariestads EK,205.75
+Emelie Sandström,289.0,284.0,294.0,,114.0,136.0,Dam,Bengtsfors MCC,205.75
+Jacob Johansson,206.0,,,,,335.0,"Bredd, Senior",Skene MS,206.0
+Joel Björkman,,,,281.0,206.0,206.0,"Motion -39, Motion 16-29",SMK Kolmården,206.0
+Mikael Hjelm,295.0,,157.0,167.0,,327.0,Motion 40-49,Finspångs MS,206.33333333333334
+Tomas Eriksson,,,,,207.0,,Motion 40-49,Örebro EK,207.0
+Johan Svensson,111.0,310.0,322.0,,,202.0,Motion -39,Falköpings MK,207.66666666666666
+Markus Hansson,,253.0,241.0,,129.0,259.0,Motion 50-59,FMCK Borås,207.66666666666666
+Berth-Åke Åhman,,245.0,264.0,223.0,120.0,243.0,Motion 60-,FMCK Borås,207.75
+Karl Essgärde,,,267.0,247.0,124.0,253.0,Motion 50-59,Götene MK,208.0
+Ola Thorell,215.0,,,,208.0,,Motion 40-49,Hogdals Motor Klubb,208.0
+Karim Chanane,204.0,,,,213.0,235.0,"Motion -39, Motion 16-29",FMCK Skövde,208.5
+Simon Andersson,219.0,,,,209.0,,Motion 30-39,Team Värmland MK,209.0
+Hans Svärd,357.0,193.0,171.0,,266.0,,Motion 50-59,Alingsås MCK,210.0
+Stefan Karlsson,,,,,210.0,,Motion 50-59,SMK Gävle,210.0
+Joakim Hedlund,210.0,,,,,,Motion 30-39,Skutskärs MS,210.0
+Mats Karlsson,,297.0,297.0,,134.0,288.0,Motion 60-,Kungsbacka MA,211.0
+Claes Hilmersson,,274.0,,227.0,132.0,291.0,Motion 50-59,Stenungsunds MS,211.0
+Oliver Franic,,,,,211.0,,Motion 16-29,Norrahammars MK,211.0
+Eddie Ohlsson,212.0,,,,,,Motion 30-39,FMCK Malmö,212.0
+Johan Kivi,261.0,,,,212.0,,Motion 40-49,SMK Gävle,212.0
+Matilda Alexandersson Fridolfsson,,410.0,,,162.0,262.0,Dam,Götene MK,212.0
+Maximillian Fridérus,,405.0,,212.0,,,Ungdom E1,Ulricehamns MK,212.0
+Anton Persson,,285.0,293.0,208.0,,144.0,Motion -39,Tibro MK,212.33333333333334
+Elliot Främling,213.0,,,332.0,,,Junior,BMK Uddevalla,213.0
+Benjamin Bengtsson,,300.0,250.0,,105.0,284.0,Ungdom E0,Falköpings MK,213.0
+Niklas Utterberg,87.0,287.0,301.0,292.0,,186.0,Motion 40-49,Norrahammars MK,213.0
+Patrick Wik,67.0,244.0,295.0,274.0,269.0,,Motion 40-49,Skene MS,213.5
+Joakim Liljeblad,,259.0,,248.0,135.0,278.0,Motion 50-59,SMK Motala MC-Klubb,214.0
+Johan Elofsson,,,,,214.0,,Motion 30-39,Örebro EK,214.0
+Filip Johansson,132.0,179.0,318.0,307.0,,241.0,"Motion -39, Motion 16-29","BMK Uddevalla, Skene MS, Tidaholms MK",214.75
+Filip Johansson,132.0,179.0,318.0,307.0,,242.0,"Motion -39, Motion 16-29","BMK Uddevalla, Tidaholms MK",215.0
+Staffan Oldenburg,,279.0,272.0,241.0,136.0,,Motion 60-,FMCK Skövde,216.33333333333334
+Henrik Nilsson,96.0,280.0,312.0,273.0,,,Motion 40-49,Mariestads EK,216.33333333333334
+Wiktor Hjalmarsson,,217.0,419.0,,,,Motion -39,Oskarshamns MSK,217.0
+Pontus Holm,,,,,217.0,,Motion 16-29,Vimmerby MS,217.0
+Hans-Erik Holmqvist,253.0,,,,218.0,,Motion 40-49,SMK Gävle,218.0
+Jonas Lyttbacka,101.0,353.0,310.0,264.0,,200.0,Motion 40-49,Örebro EK,218.75
+Mats Israelsson,,,,,219.0,,Motion 30-39,MK Nitro,219.0
+Lars Nilsson,382.0,262.0,277.0,,119.0,,Motion 50-59,BMK Uddevalla,219.33333333333334
+Ronny Larsen,95.0,,373.0,327.0,,236.0,Motion 40-49,"Flittig MX/ATV, Flittig Enduro",219.33333333333334
+Tommy Berndtsson,386.0,267.0,261.0,232.0,107.0,232.0,"Motion 60+, Motion 60-",SMK Trollhättan,219.8
+Henrik Lindström,75.0,314.0,302.0,268.0,274.0,181.0,Motion 40-49,FMCK Borås,220.0
+Roger Wallgren,381.0,239.0,252.0,230.0,121.0,260.0,Motion 50-59,FMCK Skövde,220.4
+Hanna Lagher,221.0,,,,,,Dam,Göta MS,221.0
+Johan Kjellson,72.0,308.0,330.0,291.0,,215.0,Motion 40-49,FMCK Skövde,221.5
+Mats Algotson,256.0,,,,222.0,,Motion 60+,Värmullsåsens Mountainbike & EK,222.0
+Johan Sigby,,322.0,,320.0,139.0,207.0,Bredd,Norrahammars MK,222.0
+Stefan Johansson,,400.0,,235.0,110.0,321.0,"Motion 50-59, Bredd","Karlskoga EK, FMCK Skövde",222.0
+Charlie Bergsten,,246.0,,,,222.0,Ungdom E0,SMK Värnamo,222.0
+Kennet Eriksson,345.0,,227.0,217.0,,,"Motion 60+, Motion 60-",SMK Trollhättan,222.0
+Alexander Andersson,,329.0,346.0,,138.0,204.0,Junior,Tranemo MK,223.66666666666666
+Peter Lundsten,224.0,,,,,,Motion 40-49,FMCK Stockholm,224.0
+Richard Mickelsson,120.0,,394.0,328.0,,,Motion -39,Tibro MK,224.0
+Oskar Widin,,,,224.0,,,Motion -39,MK Team Treske,224.0
+Melvin Qvist,,224.0,,,,,Ungdom E0,Solshesters MCK,224.0
+Mikael Larsson,225.0,,,,,,Motion 40-49,Bollnäs MK,225.0
+Patrik Anehagen,,,,,225.0,,Motion 40-49,Norrahammars MK,225.0
+Håkan Persson,,277.0,282.0,261.0,118.0,248.0,Motion 60-,MK Ran,226.0
+Tommy Jonsson,113.0,363.0,339.0,,,,Motion 40-49,Mariestads EK,226.0
+Martin Bonander,106.0,330.0,326.0,250.0,,,Motion 40-49,Stenungsunds MS,227.33333333333334
+Hugo Holmberg,228.0,,,,,,Junior,Solshesters MCK,228.0
+Niclas Funke,249.0,,,,228.0,,Motion 16-29,Hallsbergs MK,228.0
+Hannu Ylipekkala,122.0,328.0,324.0,,,239.0,Motion 40-49,Anderstorp RC,228.33333333333334
+Victor Joensuu,,,313.0,229.0,,,Motion -39,MSK Hammaren,229.0
+Emma Wennbom,229.0,,,,,,Dam,Göta MS,229.0
+Jacob Emilsson,108.0,296.0,329.0,286.0,,226.0,Motion -39,Kristdala Motorsällskap,229.0
+Fredrik Åkerfeldt,260.0,,,,229.0,,Motion 40-49,Uppsala MK,229.0
+Anders Berglund,,,229.0,,,,Motion 50-59,Örebro EK,229.0
+Jonas Milefors,62.0,333.0,338.0,295.0,,228.0,Motion 40-49,Kortedala MK,229.5
+Claes Gustafsson,,,388.0,,160.0,300.0,Motion 50-59,Töreboda MK,230.0
+Magnus Forsling,286.0,,,,230.0,,Motion 50-59,FMCK Strängnäs,230.0
+Roger Nyström,,,,325.0,152.0,309.0,Motion 50-59,FMCK Borås,230.5
+Edvin Blad,,,,,,231.0,Motion -39,Oskarshamns MSK,231.0
+Peter Johansson,252.0,,,,232.0,,Motion 40-49,Woxnadalens MK,232.0
+Erik Wallskog,,266.0,240.0,,,224.0,Motion -39,Töreboda MK,232.0
+Peter Berggren,118.0,347.0,379.0,,,,Motion 40-49,BMK Uddevalla,232.5
+Elvira Auvinen,,292.0,259.0,280.0,137.0,255.0,Ungdom E0,FMCK Skövde,232.75
+Alfred Albertsson,233.0,,,,,,Motion 16-29,Vrigstad MK,233.0
+Jonas Gustafsson,,293.0,262.0,267.0,,170.0,Motion 40-49,Götene MK,233.0
+Albin Johansson,94.0,340.0,314.0,313.0,,213.0,Motion -39,Lidköpings MCK,233.5
+Hans Palm,103.0,406.0,365.0,,,,Motion -39,Norrahammars MK,234.0
+Christoffer Johnsson,130.0,273.0,285.0,251.0,,329.0,Motion 40-49,Hisingens MK,234.75
+Alvis Petersson,,288.0,213.0,204.0,,306.0,Ungdom E0,Norrahammars MK,235.0
+Åke Wellander,,318.0,228.0,243.0,,,Ungdom E0,Hallsbergs MK,235.5
+Christian Appelgren,139.0,366.0,,,,332.0,Motion 40-49,Stenungsunds MS,235.5
+Simon Rutgersson,134.0,320.0,292.0,367.0,,197.0,Ungdom E1,Stenungsunds MS,235.75
+Christian Svensson,,236.0,,,,,Motion 50-59,Gislaveds MK,236.0
+Jonas Green,,,,,236.0,,Motion 50-59,Göta MS,236.0
+Joel Granath,258.0,,,,237.0,,Motion 30-39,SMK Gävle,237.0
+Ulf Johannesson,,,,,,237.0,Motion 50-59,FMCK Borås,237.0
+Albin Klasbäck,237.0,,,,,,Junior,Linköpings MS,237.0
+Gustav Strinne,,298.0,342.0,,,176.0,Motion -39,Edsvära MCK,237.0
+Ronnie Nilsson,267.0,235.0,225.0,253.0,,,"Motion 30-39, Motion -39",Töreboda MK,237.66666666666666
+Lennart Bodin,380.0,261.0,276.0,275.0,128.0,250.0,Motion 50-59,FMCK Borås,238.0
+Jan-Eric Höög,368.0,272.0,247.0,284.0,131.0,256.0,Motion 50-59,Skene MS,238.0
+Niclas Sjökvist,117.0,359.0,,340.0,,258.0,Motion 40-49,FMCK Borås,238.33333333333334
+Anton Isaksson,82.0,312.0,309.0,299.0,284.0,218.0,"Motion -39, Motion 16-29",Götene MK,238.4
+Simon Gustafsson,102.0,323.0,319.0,315.0,,219.0,Motion -39,Älvbygdens MK,238.75
+Thomas Malmqvist,301.0,,,,239.0,,Motion 60+,Folkare MK,239.0
+Johan Elfving,98.0,304.0,316.0,,,328.0,Motion 40-49,Ulricehamns MK,239.33333333333334
+Anton Isfeldt,240.0,,,,,,Motion 16-29,Norrahammars MK,240.0
+Jörgen Gustafsson,,240.0,,,,,Motion 50-59,Lidköpings MCK,240.0
+Ludwig Eriksson,,,,,240.0,,Motion 16-29,MK Nitro,240.0
+Fredrik Igelström,241.0,,,,,,Motion 30-39,Westerviks MSK,241.0
+Marcus Bennerstam,,,,,241.0,,Motion 16-29,Botkyrka MK,241.0
+Lisa Nyqvist,,,347.0,301.0,,182.0,Ungdom E1,Stenungsunds MS,241.5
+Jim Larsson,,282.0,335.0,257.0,143.0,286.0,Motion 50-59,Stenungsunds MS,242.0
+Petri Mehtonen,278.0,,,,242.0,,Motion 50-59,FMCK Skövde,242.0
+Nils Kron,,,,333.0,166.0,318.0,Ungdom E0,Falköpings MK,242.0
+Kenny Elfström,,306.0,269.0,282.0,144.0,276.0,Motion 50-59,Örebro EK,242.75
+Jim Rundblad,243.0,,,,,,Motion 40-49,Finspångs MS,243.0
+Anton Andersson,124.0,392.0,361.0,,,246.0,Ungdom E1,Norrahammars MK,243.66666666666666
+Oliver Wennerholm,112.0,316.0,371.0,304.0,,,Motion -39,FMCK Borås,244.0
+Roland Ekberg,274.0,,,,244.0,,Motion 40-49,Gnesta MK,244.0
+Rickard Persson,,,307.0,278.0,,211.0,Motion 40-49,Tibro MK,244.5
+Alexander Karlsson,245.0,,,,,,Motion 16-29,SMK Södermanland,245.0
+Håkan Lykkeberg,,295.0,,245.0,,,Motion 40-49,BMK Uddevalla,245.0
+Emil Elmwall,,,246.0,,,,Ungdom E1,Hallsbergs MK,246.0
+Daniel Ek,246.0,,,,,,Senior,Stenungsunds MS,246.0
+Jonas Strand,437.0,,,,246.0,,Motion 50-59,Uppsala MCK,246.0
+Asbjørn Sletholt,,252.0,245.0,242.0,316.0,,"Motion 60+, Motion 60-","Flittig, Utenlandsk klubb, Flittig motocross & ATV, Utenlandsk klubb, Flittig, Flittig Motocross og ATV",246.33333333333334
+Martin Jonsson,109.0,355.0,345.0,289.0,,244.0,Motion 40-49,Töreboda MK,246.75
+Andreas Nordh,248.0,,,,,,Motion 40-49,Bollnäs MK,248.0
+Magnus Holm,,,,,248.0,,Motion 50-59,Vimmerby MS,248.0
+Jonatan Svantesson,,313.0,306.0,255.0,,185.0,Motion -39,Kullings MS,248.66666666666666
+Johan Iwarson,,,,,249.0,,Motion 50-59,Götene MK,249.0
+Mikael Almqvist,,250.0,,,,252.0,Motion 50-59,Lidköpings MCK,250.0
+Lars Hedenskog,,,,,250.0,,Motion 50-59,Upplands Väsby MK,250.0
+Lars-Erik Hult,326.0,,,,251.0,,Motion 50-59,Bollnäs MK,251.0
+Björn Runfeldt,279.0,254.0,249.0,,,,Motion 40-49,Norrahammars MK,251.5
+Max Linder,,299.0,,239.0,,265.0,Ungdom E0,"FMCK Skövde, Tibro MK",252.0
+Rickard Forsberg,145.0,397.0,,359.0,,,Motion -39,Mariestads EK,252.0
+Tord Wigren,288.0,,,,252.0,,Motion 50-59,SMK Ockelbo,252.0
+Christian Rislakki,,,,,253.0,,Motion 50-59,Helsingborgs MCK,253.0
+Morgan Pettersson,,,,,,254.0,Bredd,Christinehamns MK,254.0
+Johan Axelsson,304.0,,,,255.0,,Motion 50-59,Tibro MK,255.0
+Carolin Wedemalm,,319.0,327.0,302.0,145.0,,Motion Dam,Falköpings MK,255.33333333333334
+Mattias Göransson,,,,256.0,,,Motion -39,Försvarsmaktens EK,256.0
+Jacob Backman,257.0,,,,272.0,,Motion 16-29,FMCK Falun,257.0
+Niklas Kedén,,,257.0,,,,Motion -39,Hjo MK,257.0
+Sven Öberg,,,,,257.0,,Motion 50-59,Kullings MS,257.0
+Lukas Jälmestedt,,,,,258.0,,Motion 30-39,Målilla MK Motocrossklubb,258.0
+Richard Kling,,339.0,337.0,,146.0,292.0,Motion 50-59,"MK Pionjär, Kortedala MK",258.3333333333333
+Victor Johansson,,,,,259.0,,Motion 40-49,Norrahammars MK,259.0
+Tomas Strandberg,259.0,,,,,,Motion 40-49,Botkyrka MK,259.0
+Lars-Gunnar Skogh,418.0,290.0,315.0,300.0,127.0,273.0,"Motion 60+, Motion 60-",Falköpings MK,261.0
+Calle Smolsky,,,,,261.0,,Motion 40-49,Botkyrka MK,261.0
+Maria Thomsen,128.0,375.0,,355.0,,302.0,Motion -39,FMCK Borås,261.6666666666667
+David Thorn,,,,262.0,,,Motion 40-49,Götene MK,262.0
+Mikael Arvidsson,262.0,,,,,,Motion 40-49,Norrahammars MK,262.0
+Magnus Lilja,129.0,,412.0,356.0,,303.0,Motion 40-49,Älvbygdens MK,262.6666666666667
+Karl-Axel Andersson,440.0,315.0,303.0,305.0,142.0,249.0,"Motion 60+, Motion 60-",FMCK Borås,262.8
+Anders Persson,263.0,,,,,,Motion 40-49,Värmullsåsens Mountainbike & EK,263.0
+Felix Baldesten Kjellström,,,,,,263.0,Ungdom E0,Tibro MK,263.0
+Anton Rollborn,,,,,263.0,,Motion 30-39,Djursdala SK,263.0
+Daniel Blomqvist,,338.0,296.0,260.0,340.0,158.0,Motion 40-49,FMCK Skövde,263.0
+Fredrik Persson,,,,,264.0,,Motion 50-59,Ydre MK,264.0
+Mikael Thräff,,,,269.0,,264.0,Motion 60-,Götene MK,264.0
+Michael Vikström,264.0,,,,,,Motion 30-39,FMCK Falun,264.0
+Robert Fahlander,308.0,,,,265.0,,Motion 40-49,Hallsbergs MK,265.0
+Robban Markusson,,,378.0,309.0,,223.0,Motion 40-49,SMK Vadstena,266.0
+Emilia Windahl,266.0,,,,,,Dam,Åbågen MCK,266.0
+Emil Gabrielsson,,331.0,336.0,,,201.0,Ungdom E1,Skene MS,266.0
+Per Johansson,273.0,,,,267.0,,Motion 30-39,SMK Södermanland,267.0
+Pierre Ferm,331.0,,,,268.0,,Motion 50-59,SMK Östgöta,268.0
+Nils Jadermark,,,,337.0,,269.0,Motion -39,Karlskoga MF,269.0
+Robin Valberg,269.0,,,,,,Motion 40-49,Frövi MF,269.0
+Anders Bergqvist,270.0,,,,,,Motion 30-39,SMK Södermanland,270.0
+Ove Johansson,344.0,,,,270.0,,Motion 50-59,Åsätra MK,270.0
+Erik Bergstrand,,301.0,320.0,297.0,,214.0,Motion 40-49,Oskarshamns MSK,270.6666666666667
+Lennart Bengtsson,,,271.0,,,,Motion 60-,SMK Hedemora,271.0
+Mikael Strand,342.0,,,,271.0,,Motion 50-59,Uppsala MCK,271.0
+Svante Strömberg,,,,,,271.0,Motion -39,Götene MK,271.0
+Jan-Ove Sjöberg,271.0,,,,,,Motion 50-59,Eda MK,271.0
+Andreas Jankowiak,,,,,,272.0,Motion -39,Stenungsunds MS,272.0
+Johan Wolgers,,354.0,390.0,336.0,153.0,245.0,Bredd,FMCK Borås,272.0
+Ulric Karlsson,115.0,364.0,366.0,341.0,,270.0,Motion 40-49,Tidaholms MK,272.5
+Michael Rehn,,,,,273.0,,Motion 50-59,Timrå EK,273.0
+Conny Kraiman,339.0,,,,275.0,,Motion 50-59,Haninge MK,275.0
+Kristian Trygg,,275.0,,,,,Motion 40-49,Falköpings MK,275.0
+William Larsson,,,275.0,,,,Ungdom E0,FMCK Skövde,275.0
+Ella Bengtsson,275.0,,,,,,Dam,Tidaholms MK,275.0
+Anders Månsson,,,,,,275.0,Motion 50-59,FMCK Borås,275.0
+Jonas Hasselgren,276.0,,,,,,Motion 40-49,SMK Södermanland,276.0
+William Bengtsson,,276.0,,,,,Ungdom E0,Tidaholms MK,276.0
+Sofia Grelsson,277.0,,,,,,Dam,Njurunda MK,277.0
+Daniel Johansson,310.0,289.0,,,283.0,261.0,"Motion 50-59, Motion 30-39","Karlskoga EK, Töreboda MK",277.6666666666667
+Staffan Svensson,332.0,,,,278.0,,Motion 50-59,Helsingborgs MCK,278.0
+Max Nordmark,,365.0,359.0,,,198.0,Junior,Varbergs MK,278.5
+Olle Söderberg,,393.0,363.0,,150.0,323.0,Ungdom E0,Falköpings MK,278.6666666666667
+Henrik Andersen,,,,,279.0,,Motion 50-59,Östhammars MK,279.0
+Peter Andersson,422.0,326.0,,363.0,148.0,,Motion 50-59,FMCK Borås,279.0
+Peter Andersson,412.0,326.0,,363.0,148.0,,"Motion 50-59, Motion 40-49","FMCK Borås, Frövi MF",279.0
+Stefan Johansson,,400.0,,235.0,281.0,321.0,"Motion 50-59, Bredd, Motion 40-49","Karlskoga EK, FMCK Skövde, Falköpings MK",279.0
+Peter Stjernström,330.0,,,,280.0,,Motion 50-59,SMK Södermanland,280.0
+Anders Edin,416.0,345.0,356.0,279.0,141.0,280.0,Motion 50-59,Falköpings MK,280.2
+Filip Georgsson,,,,,,281.0,Ungdom E0,Tibro MK,281.0
+Emelie Johansson,,348.0,377.0,339.0,156.0,,Dam,Götene MK,281.0
+Joakim Hedström,,,281.0,,,,Motion 60-,Kinds MK,281.0
+Daniel Karlsson,,,,,,282.0,Motion 40-49,Skene MS,282.0
+Henrik Johansson,282.0,,,,,,Motion 40-49,SMK Dala Falun,282.0
+William Sköld,,,415.0,358.0,165.0,324.0,Ungdom E0,Falköpings MK,282.3333333333333
+Emil Kårlin,138.0,349.0,409.0,349.0,,294.0,Motion 40-49,Lilla Edets MCK,282.5
+Marie Gustafsson,,373.0,393.0,,164.0,312.0,Motion Dam,Ulricehamns MK,283.0
+Kristoffer Blomstrand,283.0,,,,,,Motion 40-49,Limhamns MK,283.0
+Anders Burström,,,,283.0,,,Motion 50-59,Westerviks MSK,283.0
+Niklas Sandelius,284.0,,,,,,Motion 16-29,Beskaskinn MC,284.0
+Stefan Pettersen,,389.0,398.0,,159.0,305.0,Motion 60-,Falköpings MK,284.3333333333333
+Thomas Nilsson,,278.0,291.0,308.0,,,Motion 60-,Falköpings MK,284.5
+Niklas Borin,285.0,,,,,,Motion 30-39,SMK Södermanland,285.0
+Fredrik Hesselgren,,,,,286.0,,Motion 30-39,Norrahammars MK,286.0
+Stefan Svensson,,286.0,,314.0,,,Motion 60-,SMK Värnamo,286.0
+Gösta Sundborg,298.0,,,,287.0,,Motion 30-39,Battle of Vikings Sportförening,287.0
+Oskar Johansson,,398.0,,,,287.0,"Bredd, Motion -39",Linköpings MS,287.0
+Daniel Andersson,287.0,,,,296.0,,Motion 40-49,Götene MK,287.0
+Wilmer Nilsson,,311.0,284.0,290.0,,,Ungdom E0,Hallsbergs MK,287.0
+Göran Göransson,,362.0,,288.0,,,Motion -39,Björkö EK,288.0
+Kristian Broström,,,,,288.0,,Motion 30-39,Botkyrka MK,288.0
+Thomas Gustafsson,,360.0,376.0,342.0,158.0,293.0,Motion 60-,Älvbygdens MK,288.25
+Sam Aronsson,144.0,367.0,400.0,353.0,,290.0,Ungdom E1,Töreboda MK,288.5
+Johan Törnqvist,127.0,351.0,407.0,350.0,334.0,283.0,Motion 40-49,FMCK Skövde,289.0
+Rikard Bengtsson,,371.0,382.0,329.0,163.0,296.0,Motion 50-59,FMCK Borås,289.75
+Hannes Norr,290.0,,,,,,Motion 16-29,SMK Kolmården,290.0
+Lee Fryer,316.0,,,,290.0,,Motion 40-49,Helsingborgs MCK,290.0
+Jacob Lundholm,,,,,291.0,,Motion 40-49,Hedeland MK,291.0
+Mikael Ohlson,291.0,,,,,,Motion 50-59,Nynäshamns MCK,291.0
+Markus Göransson,,307.0,331.0,276.0,,,Motion -39,Lilla Edets MCK,291.5
+Christian Kurist,,,348.0,,292.0,,"Motion 30-39, Motion -39",Falköpings MK,292.0
+Joakim Wanner,293.0,,,,,,Motion 50-59,SMK Gävle,293.0
+Bength Rolf,294.0,,,,,,Motion 50-59,SMK Östgöta,294.0
+Olle Rodéhn,375.0,,,,295.0,,Motion 40-49,Storfors MK,295.0
+Tobias Hagelin,161.0,390.0,405.0,351.0,,279.0,Motion -39,FMCK Borås,295.25
+Alicia Isaksson,,391.0,392.0,345.0,151.0,297.0,Ungdom E0,Falköpings MK,296.0
+Wilmer Kihlgren,,387.0,,294.0,,298.0,Ungdom E0,Hjo MK,296.0
+Krister Hansson,297.0,,,,,,Motion 50-59,Haninge MK,297.0
+Jacob Stacke,433.0,269.0,258.0,365.0,,,Ungdom E1,SMK Värnamo,297.3333333333333
+Sander Sangberg,,381.0,308.0,287.0,,,Ungdom E0,Lidköpings MCK,297.5
+Jonathan Lagerqvist,,,298.0,,,,Motion -39,Björkö EK,298.0
+Ronnie Femerström,,,,298.0,333.0,,Motion 50-59,SMK Kolmården,298.0
+David Hörberg,432.0,257.0,340.0,,,,Motion -39,Försvarsmaktens EK,298.5
+Stefan Eriksson,361.0,,,,299.0,,Motion 50-59,FMCK Hässleholm,299.0
+Hugo Larsson,299.0,,,,,,Motion 16-29,BMK Uddevalla,299.0
+Sigrid Gunnarsson,,370.0,,,,299.0,Ungdom E0,Ma Lerum,299.0
+Rikard Sundström,,380.0,323.0,,276.0,,"Motion 30-39, Motion -39",Götene MK,299.5
+Henrik Camitz,,,,,300.0,,Motion 40-49,Grängesbergs MS,300.0
+Melker Kihlgren,,378.0,,306.0,,295.0,Ungdom E0,Hjo MK,300.5
+Mikael Starby,,291.0,357.0,310.0,,,Motion 50-59,Tranås MS,300.5
+Björn-Ola Kronander,,,,,,301.0,Motion 50-59,FMCK Borås,301.0
+Mats Andersson,302.0,334.0,,,,,"Motion 50-59, Motion 60-","Botkyrka MK, Kullings MS",302.0
+Marcus Näs,363.0,,,,302.0,,Motion 40-49,SMK Dala Falun,302.0
+Mikael Sahlin,,303.0,332.0,,,,Motion 40-49,Lidköpings MCK,303.0
+Johanna Blom,352.0,,,,303.0,,Motion Dam,Botkyrka MK,303.0
+Andreas Sjöberg,,,408.0,303.0,,,Motion 40-49,Tibro MK,303.0
+Casper Svahn,,344.0,396.0,263.0,,,Ungdom E1,Örebro MK,303.5
+Erik Hedstad,389.0,,,,304.0,,Motion 40-49,Göta MS,304.0
+Marwin Wik,,395.0,350.0,296.0,,267.0,Ungdom E1,Skene MS,304.3333333333333
+Joakim Bröms,356.0,,,,305.0,,Motion 50-59,Mälarö MCK,305.0
+Marcus Stacke,,,305.0,,,,Motion 40-49,SMK Värnamo,305.0
+Johan Alexandersson,400.0,,,,307.0,,Motion 40-49,Götene MK,307.0
+Kent Aasheim,420.0,,,,,307.0,Motion 40-49,Emsk,307.0
+Torbjörn Andersson,409.0,,,,309.0,,"Motion 50-59, Motion 60+","MSK Skinnskatteberg, Finspångs MS",309.0
+Torbjörn Andersson,378.0,,,,309.0,,Motion 60+,MSK Skinnskatteberg,309.0
+Tomas Pers,309.0,,,,,,Motion 40-49,SMK Dala Falun,309.0
+Andreas Loponen,,,,,310.0,,Motion 30-39,SMK Motala MC-Klubb,310.0
+Mikael Blom,,,,311.0,,,Motion 50-59,Tibro MK,311.0
+Pontus Martinez Johansson,,,353.0,319.0,,304.0,Ungdom E0,Töreboda MK,311.5
+Mark Edvardsson,,357.0,358.0,,,266.0,Motion 40-49,Alingsås MCK,311.5
+Johan Eklund,410.0,,,,312.0,,Motion 50-59,Upplands Väsby MK,312.0
+Per Karlsson,,,391.0,312.0,,,Motion 40-49,SMK Vadstena,312.0
+Robin Nielsen,312.0,,,,,,Motion 40-49,SMC,312.0
+Joakim Nystedt,373.0,,,,313.0,,Motion 40-49,Gnesta MK,313.0
+Kevin Brand Pettersson,,,,,,313.0,Ungdom E0,Tibro MK,313.0
+Robin Hedlund,313.0,,,,,,Motion 30-39,Lilla Edets MCK,313.0
+Hans Andersson,314.0,,,,,,Motion 30-39,Bollnäs MK,314.0
+Magnus Fröberg,,,,,314.0,,Motion 50-59,FMCK Stockholm,314.0
+Fredrik Nyberg,315.0,,,,,,Motion 50-59,FMCK Malmö,315.0
+Alice Wahlström,,,410.0,,,316.0,Ungdom E0,Hallsbergs MK,316.0
+Andreas Lambert Melander,,,403.0,331.0,301.0,,Motion 40-49,Lilla Edets MCK,316.0
+Martin Andersson,317.0,,,,,,Motion 30-39,MCK Hallandia,317.0
+Maja Reyper,,,,,,317.0,Ungdom E1,Oskarshamns MSK,317.0
+Viktor Andersson,371.0,,,,317.0,,Motion 16-29,Mariestads EK,317.0
+Conny Rask,376.0,,,,318.0,,Motion 50-59,SMK Södermanland,318.0
+Andreas Sandberg,208.0,394.0,414.0,360.0,,314.0,Motion 40-49,FMCK Borås,319.0
+Fredrik Sjöstedt,379.0,,,,319.0,,Motion 50-59,Norrahammars MK,319.0
+Alexander Hagelin,366.0,,,,320.0,,Motion 16-29,FMCK Stockholm,320.0
+Cristoffer Matlak,,372.0,397.0,,,268.0,Motion 40-49,Alingsås MCK,320.0
+Owe Slätt,,321.0,,,,,Motion 50-59,Stenungsunds MS,321.0
+Pelle Höglund,321.0,,,,,,Motion 50-59,Försvarsmaktens EK,321.0
+Marcus Torstensson,401.0,,,,321.0,,Motion 40-49,MCK Hallandia,321.0
+Thure Rudklint,,325.0,343.0,318.0,,,Ungdom E1,Oskarshamns MSK,321.5
+Stefan Hjelm,,,,,322.0,,Motion 50-59,Åbågen MCK,322.0
+Niclas Thorvaldsson,322.0,,,,,,Motion 50-59,Helsingborgs MCK,322.0
+Martin Johansson,,,364.0,322.0,,,Motion -39,Skara MK,322.0
+Anton Torgin,348.0,386.0,386.0,343.0,,277.0,"Motion -39, Motion 16-29",Donkelo RK,322.6666666666667
+Ludvig Bernhardsson,323.0,,,,,,Motion 30-39,Kortedala MK,323.0
+Christian Klarkner,,,,323.0,,,Motion -39,Västerås MK,323.0
+Hanna Rylander Ericson,374.0,,,,323.0,,Motion Dam,Botkyrka MK,323.0
+Kenneth Backman,413.0,,,,324.0,,Motion 50-59,FMCK Falun,324.0
+David Ekenmo,324.0,,,,,,Motion 40-49,FMCK Eksjö,324.0
+Wilhelm Andersson,325.0,,,,,,Motion 40-49,Ulricehamns MK,325.0
+Daniel Rålin,,,,,325.0,,Motion 40-49,FMCK Strängnäs,325.0
+Johan Ask,,,,,326.0,,Motion 40-49,FMCK Strängnäs,326.0
+Lennartsson Erik,327.0,,,,,,Motion 16-29,Hedeby MCK,327.0
+Robin Karlsson,,327.0,,,,,Motion -39,Hjo MK,327.0
+Jonas Nilsson,417.0,,,,327.0,,Motion 50-59,"MCK Hallandia, Helsingborgs MCK",327.0
+Nicole Canadas Söderblom,328.0,,,,,,Dam,Göta MS,328.0
+Krister Andersson,364.0,,,,328.0,,Motion 50-59,Mariestads EK,328.0
+William Blom,,385.0,375.0,326.0,,285.0,Ungdom E1,Skene MS,328.6666666666667
+Cornelia Lindblad,408.0,,,,329.0,,Motion Dam,SMK Södermanland,329.0
+Clas Ragnarsson,329.0,,,,,,Motion 50-59,Ulricehamns MK,329.0
+Knut Persson,,,406.0,348.0,,311.0,Ungdom E0,Tibro MK,329.5
+Anders Engström,,343.0,374.0,321.0,,326.0,Motion 50-59,Stenungsunds MS,330.0
+Ida Larsson,406.0,,,,330.0,,Motion Dam,Hallsbergs MK,330.0
+Jan Mikkola,,,,,331.0,,Motion 50-59,FMCK Falun,331.0
+Henrik Hermansson,,,,334.0,,331.0,Motion 40-49,SMK Vadstena,331.0
+Carl Christoffer Bruenech,,,,,332.0,,Motion 50-59,Flittig,332.0
+Jacob Holgersson,,409.0,333.0,,,,Bredd,MC Alingsås,333.0
+Ludvig Nilsson,,,,,,333.0,Motion -39,Anderstorp RC,333.0
+Ronny Andersson,333.0,,,,,,Motion 50-59,Team Värmland MK,333.0
+Per Lundell,335.0,,,,,,Motion 50-59,Götene MK,335.0
+Rasmus Engelmann,,,,,335.0,,Motion 30-39,Botkyrka MK,335.0
+Johan Angerd,,336.0,,,,,Motion 40-49,Tranemo MK,336.0
+Johan Saeland,,,,,336.0,,Motion 16-29,Kullings MS,336.0
+Christina Flinge Björsner,,,,,337.0,,Motion Dam,SMK Motala MC-Klubb,337.0
+Tobias Sandahl,337.0,,,,,,Motion 16-29,Norrahammars MK,337.0
+Tuva Sahlin Palmstedt,,335.0,372.0,346.0,,330.0,Ungdom E1,Lidköpings MCK,337.0
+Mattias Dalqvist,338.0,,,,,,Motion 30-39,Hedeby MCK,338.0
+Johan Lidén,,346.0,360.0,330.0,,,Motion -39,Eda MK,338.0
+Fredric Köpsén,,,,,339.0,,Motion 16-29,Kullings MS,339.0
+Johan Söderberg,369.0,,,,341.0,,Motion 40-49,Haninge MK,341.0
+Håkan Jägmar,,341.0,,,,,Motion 50-59,Norrahammars MK,341.0
+Jonas Sjöberg,,,,,342.0,,Motion 50-59,Folkare MK,342.0
+Agnes Kindgren,,342.0,,,,,Motion Dam,SMK Eksjö,342.0
+Alexandra Rosenqvist Hoff,,,,354.0,343.0,,Dam,Skene MS,343.0
+Tilda Mehtonen,306.0,388.0,381.0,,,,Dam,FMCK Skövde,343.5
+Moa Hammarbom,,396.0,344.0,,,,Dam,Nynäshamns MCK,344.0
+Emelie Prins,347.0,,,,,,Motion Dam,SMK Dala Falun,347.0
+Marcus Alsing,349.0,,,347.0,,,Motion 40-49,"SMK Trollhättan, SMC",347.0
+Rikard Hofvander,,,349.0,368.0,,,Motion 40-49,Hallsbergs MK,349.0
+Henrik Stråhle,,361.0,370.0,338.0,,,Motion -39,Ma Lerum,349.5
+Ted Mårtensson,350.0,,,,,,Motion 40-49,FMCK Hässleholm,350.0
+Lisa Skagerberg,,350.0,,,,,Motion Dam,MCK Hallandia,350.0
+Robin Åkerblad,351.0,,,,,,Motion 30-39,Botkyrka MK,351.0
+Egon Pettersson Blomström,,,352.0,,,,Ungdom E0,Karlskoga EK,352.0
+Jonathon Edwards,,,,352.0,,,Motion -39,BMK Uddevalla,352.0
+Stefan Roll,354.0,,,,,,Motion 50-59,FMCK Stockholm,354.0
+Victoria Wester,,,354.0,,,,Motion Dam,FMCK Skövde,354.0
+Oscar Ekdahl,,,355.0,,,,Motion 40-49,FMCK Borås,355.0
+Christian Larsson,,356.0,362.0,,,,Motion 50-59,Ulricehamns MK,356.0
+Karl Henrik Johan Wass,,369.0,385.0,344.0,,,Motion 40-49,Götene MK,356.5
+Liam Arvidsson,358.0,,,,,,Motion 16-29,Wäxjö MS,358.0
+Viktor Isaksson,,358.0,,,,,Ungdom E1,Kils MK,358.0
+Bengt Arvidsson,421.0,383.0,,335.0,,,"Motion 60+, Motion 60-",FMCK Borås,359.0
+Frida Gustavsson,359.0,,,,,,Motion Dam,Botkyrka MK,359.0
+Tomas Aronsson,,,367.0,,,,Motion 50-59,Töreboda MK,367.0
+Nicklas Magnusson,367.0,,,,,,Motion 40-49,FMCK Borås,367.0
+Hans-Petter Eikedalen,,368.0,,,,,Motion -39,Flittig Motocross & ATV,368.0
+Louise Svensson,,,368.0,,,,Motion Dam,Götene MK,368.0
+Anders Arneng,370.0,,,,,,Motion 50-59,Götene MK,370.0
+Tilda Gräsman,372.0,,,,,,Motion Dam,SMC,372.0
+Hans Gustafsson,,374.0,,,,,Motion 50-59,Tibro MK,374.0
+Linnéa Jensmark,,376.0,380.0,,,,Motion Dam,Solshesters MCK,376.0
+Katja Bengtsson,,377.0,,,,,Motion Dam,Falköpings MK,377.0
+Lars-Ola Wiltén,377.0,,,,,,Motion 60+,Ulricehamns MK,377.0
+Tommy Johansson,,379.0,399.0,,,,Motion 50-59,Skene MS,379.0
+Bengt Ekdahl,,382.0,402.0,,,,Motion 60-,FMCK Borås,382.0
+Mathilda Sandberg,,,383.0,,,,Dam,Skene MS,383.0
+Daniel Höjenberg,383.0,,,,,,Motion 40-49,Örebro EK,383.0
+Stefan Erixon,384.0,,,,,,Motion 50-59,Arlanda MC,384.0
+Ida Dienus,,384.0,,,,,Motion Dam,Norrahammars MK,384.0
+Frida Skog,385.0,,,,,,Motion Dam,FMCK Strängnäs,385.0
+Molly Hjälm,387.0,,,,,,Motion Dam,Ludvika MS,387.0
+Oskar Jonzon,390.0,,,,,,Motion 40-49,FMCK Skövde,390.0
+Stefan Vinlöf,391.0,,,,,,Motion 50-59,Vrigstad MK,391.0
+Sebastian Hagelin,392.0,,,,,,Motion 50-59,FMCK Stockholm,392.0
+Acke Pettersson,393.0,,,,,,Motion 50-59,SMK Södermanland,393.0
+Per-Erik Blanck,394.0,,,,,,Motion 60+,Västerås MK,394.0
+Stefan Nordqvist,395.0,,,,,,Motion 40-49,FMCK Malmö,395.0
+Lars Gudmundsson,396.0,,,,,,Motion 60+,SMK Dala Falun,396.0
+Johan Hägg,397.0,,,,,,Motion 50-59,FMCK Malmö,397.0
+Linda Palm,398.0,,,,,,Motion Dam,SMK Södermanland,398.0
+Eric Ackeby,,399.0,417.0,,,,Motion 40-49,Beskaskinn MC,399.0
+Arvid Bursell,,,401.0,,,,Ungdom E0,SMK Värnamo,401.0
+Magnus Eriksson,402.0,,,,,,Motion 40-49,Göta MS,402.0
+Kjell Kronstål,403.0,,,,,,Motion 60+,Vimmerby MS,403.0
+William Ahlander,,403.0,,,,,Ungdom E1,Tibro MK,403.0
+Axel Darius,,404.0,,,,,Ungdom E1,Lidköpings MCK,404.0
+Axel Virgin Ericsson,,,404.0,,,,Motion -39,Götene MK,404.0
+Bosse Rydén,405.0,,,,,,Motion 60+,FMCK Skövde,405.0
+Jonas Winther,407.0,,,,,,Motion 40-49,Sotenäs TC,407.0
+Ed Permstäde,,408.0,,,,,Junior,Örebro EK,408.0
+Joakim Frank,411.0,,,,,,Motion 50-59,Kalmar Motocross & EnduroKlubb,411.0
+David Reker Andersson,,,411.0,,,,Motion -39,Falköpings MK,411.0
+Christoffer Bergström,,,413.0,,,,Motion 40-49,Försvarsmaktens EK,413.0
+Anette Eriksson,414.0,,,,,,Motion Dam,Frövi MF,414.0
+Billy Aronsson,,,416.0,,,,Ungdom E0,Töreboda MK,416.0
+Pär Johansson,419.0,,,,,,Motion 50-59,FMCK Malmö,419.0
+Robert Blomquist,,,421.0,,,,Motion 40-49,Flittig Enduro,421.0
+Joel Hake,424.0,,,,,,Motion 16-29,Stenungsunds MS,424.0
+Katarina Ljung,427.0,,,,,,Motion Dam,FMCK Skövde,427.0
+Helène Persson,428.0,,,,,,Motion Dam,FMCK Skövde,428.0
+Cecilia Axemyr,429.0,,,,,,Motion Dam,Katrineholms MCC,429.0
+Camilla Blomberg,430.0,,,,,,Motion Dam,Arlanda MC,430.0
+Stefan Sundberg,435.0,,,,,,Motion 30-39,SMK Gävle,435.0
+Alexander Wedin,442.0,,,,,,Junior,FMCK Strängnäs,442.0
+Rasmus Petersson,443.0,,,,,,Junior,Åsätra MK,443.0
+Daniel Fridérus,,58.0,,58.0,,,Motion 40-49,Ulricehamns MK,
+Sven Sköld,,,143.0,143.0,,,Motion 50-59,SMK Värnamo,
+Robin Berg,235.0,,,,235.0,,Motion 40-49,SMK Södermanland,
+Fredrik Kron,244.0,,,244.0,,,Motion 40-49,Falköpings MK,
