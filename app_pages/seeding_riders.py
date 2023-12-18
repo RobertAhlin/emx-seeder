@@ -2,9 +2,11 @@ import streamlit as st
 import os
 import datetime
 import pandas as pd
-import base64
 
 def process_uploaded_files(uploaded_file, ranked_dataframe):
+    success_msg = False
+    download_button = False
+
     if uploaded_file is not None:
         try:
             unseeded_dataframe = pd.read_csv(uploaded_file, encoding='cp1252', header=0)
@@ -41,17 +43,15 @@ def process_uploaded_files(uploaded_file, ranked_dataframe):
             
             seeded_df.to_csv(file_name, index=False, encoding='cp1252')  # Windows-1252 encoding
 
+            success_msg = True
+            download_button = True
             st.success(f"File uploaded, processed, and saved successfully to '{file_name}'")
-
-            # Display link to download the file
-            with open(file_name, 'rb') as file:
-                btn = st.download_button(label="Download Processed File", data=file, file_name=file_name, mime='text/csv')
-
         except Exception as e:
             st.error(f"Error processing file: {e}")
 
-    if st.checkbox("Show Contents of Processed File"):
-        st.write(seeded_df)
+    if success_msg and download_button:
+        with open(file_name, 'rb') as file:
+            btn = st.download_button(label="Download Processed File", data=file, file_name=file_name, mime='text/csv')
 
 def main(ranked_dataframe):
     st.title("Seeding Riders")
