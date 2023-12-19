@@ -10,6 +10,8 @@ As a Data Analyst and awesome with predicions from my Predictive Analytics cours
 
 * 1 - The client is interested in seeding riders that has signed up for races, based on their previous results, to get a start list with hopefully the fastest rider first and the slowest last. This to minimize the amount of overtakes the riders have to do.
 * 2 - The rider want to follow up on their results to see the trend. If they are getting faster or slower compared to the other riders.
+* 3 - The rider want to see how they are performing in their class for each competition based on placement.
+
 
 
 ## Hypothesis and how to validate?
