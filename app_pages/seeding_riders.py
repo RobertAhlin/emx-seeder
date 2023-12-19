@@ -63,7 +63,7 @@ def process_uploaded_files(dataframe, ranked_dataframe):
 
 def main(ranked_dataframe):
     st.title("Seeding Riders")
-    st.write("On this page you can upload a CSV with information to seed them for an upcoming event. File columns must be: 'Place of event,Year,Start Number,Name,Club,'")
+    st.write("On this page you can upload a CSV with information to seed them for an upcoming event. File columns must be: 'Place of event,Year,#(StarNo.),Namn(Name),Klubb(Club),Märke(Brand),Klass(Class),'")
 
     # File uploader
     uploaded_file = st.file_uploader("Upload CSV file", type=["csv"])
