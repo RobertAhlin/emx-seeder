@@ -79,6 +79,12 @@ Codeanywhere workspace got really slow and at one time it went offline and I was
 
 # Deployment
 
+## IDE and hosting.
+- Github - For hosting files and be able to do commits and save files.
+- Codeanywhere - Started working in the Codeanywhere IDE. But soon I got frustrated with it being slow and have issues so choosed not to continue with it.
+- Visual Studio Code - Installed it on my computer and learned how to connect it to both github and heroku.
+- Heroku - to make final deployment and run the Streamlit application.
+
 ## Dashboard Design (Streamlit App User Interface)
 
 ### Page 1: Quick project summary
