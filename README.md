@@ -31,7 +31,7 @@ To collect the data I first tried using Pandas to collect data from a table at a
 
 
 ## Business Requirements
-As a Data Analyst and awesome with predicions from my Predictive Analytics course at Code Institute. I can help motorsport, and specially Enduro management to seed riders for upcoming races. Also, individual riders should be able to view their results and how they are trending by they results.
+As a Data Analyst and awesome with predictions from my Predictive Analytics course at Code Institute. I can help motorsport, and specially Enduro management to seed riders for upcoming races. Also, individual riders should be able to view their results and how they are trending by they results.
 
 * **Project Terms & Jargon**
 	* A client is a person that manage events for motorsport. In this case for Enduro competitions.
@@ -58,7 +58,7 @@ As a Data Analyst and awesome with predicions from my Predictive Analytics cours
 
 # Modeling
 
-It was hard to understand what models to use for this project. I ended up using Pandas and Matplotlib.
+It was hard to understand what models to use for this project. I ended up using Numpy, Pandas and Matplotlib.
 I tried using Scikit-learn library, XGBoost, Linear Interpolation, K-Nearest Neighbors (KNN) and Multiple Imputation by Chained Equations (MICE).
 
 # Evaluaton
@@ -80,7 +80,24 @@ Codeanywhere workspace got really slow and at one time it went offline and I was
 
 ### Jupyter Notebook
 
-The work of taking care of, cleaning and sorting data was made using Jupyter Notebooks.
+The work of taking care of, cleaning and sorting data was made using Jupyter Notebooks.  
+I have created five notebook pages to be able to collect, clean a use the data.
+- The first notebook page is just about collecting the data from CSV-files clean the a bit and then save the dataframes as new CSV-files.  
+![Jupyter notebook page one.](readmefiles/jupyter_notebook_01.jpg)   
+
+- Second page is about sorting out the data needed to reach the business requirements  
+![Jupyter notebook page one.](readmefiles/jupyter_notebook_02.jpg)
+
+- Third page is to make plots to show riders ranking according to business requirement 2.  
+![Jupyter notebook page one.](readmefiles/jupyter_notebook_03.jpg)
+
+- Fouth page is used to do some ML to predict and seed rider for upcoming events and reach business requriement 1.  
+![Jupyter notebook page one.](readmefiles/jupyter_notebook_04.jpg)
+
+- Fifth page is a bounus page. Where some analysis of how many occurrances there is of each brand. Which rider rides which brand.  
+And from that sort out hom many that did not finish (DNF) a race. Use that data to find out the likelyhood that a used brand will get a DNF  
+![Jupyter notebook page one.](readmefiles/jupyter_notebook_04.jpg)
+
 
 # Deployment
 
