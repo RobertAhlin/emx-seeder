@@ -8,7 +8,7 @@ def page_summary_body():
     st.write("The Streamlit app comprises multiple pages and functionalities, focusing on analyzing rider rankings, seeding riders based on uploaded data, and providing insights into brand DNF chances.")
 
     st.header("App Structure")
-    st.write("- **app.py**: Defines the main app and its pages using the `MultiPage` class.\n"
+    st.write("- **app.py**: Defines the main app and its pages using the MultiPage class.\n"
              "- **multipage.py**: Implements a class to generate multiple Streamlit pages.\n"
              "- **riders_ranking.py**: Contains functions to select riders, view their rankings, and visualize rankings for selected riders.\n"
              "- **seeding_riders.py**: Includes functions for processing uploaded CSV files, merging data with ranked rider information, assigning seeding based on rankings, and saving the processed file.\n"
@@ -21,7 +21,7 @@ def page_summary_body():
              "- **About Page**: Represents a simple About page.")
 
     st.header("Main Data Used")
-    st.write("The main data source for the app is the 'ranked.csv' file, which presumably contains ranked rider information.")
+    st.write("The main data source for the app is the 'ranked.csv' file, which contains ranked rider information.")
 
     st.header("Features")
     st.write("- **Data Visualization**: Utilizes Matplotlib for visualizing rider rankings and brand DNF chances.\n"
@@ -30,5 +30,3 @@ def page_summary_body():
     st.header("Next Steps")
     st.write("Further enhancements could involve refining visualizations, implementing additional analysis, or integrating more sophisticated machine learning models for predicting rider performances.")
 
-# Test the function
-page_summary_body()
