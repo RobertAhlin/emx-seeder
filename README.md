@@ -59,10 +59,11 @@ As a Data Analyst and awesome with predicions from my Predictive Analytics cours
 # Modeling
 
 It was hard to understand what models to use for this project. I ended up using Pandas and Matplotlib.
-I tried using models as XGBoost, Linear Interpolation, K-Nearest Neighbors (KNN) and Multiple Imputation by Chained Equations (MICE).
+I tried using Scikit-learn library, XGBoost, Linear Interpolation, K-Nearest Neighbors (KNN) and Multiple Imputation by Chained Equations (MICE).
 
 # Evaluaton
 With Pandas and Matplotlib I felt that I had control over what was happening. Using other models just seem to mess up the data and the outcome was not as I expected.
+I tried various plots but nothing really made sense to the Business Requirement. But still fun to try and test to learn.
 
 # Work progress
 
