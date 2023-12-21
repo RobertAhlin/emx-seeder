@@ -73,7 +73,7 @@ I tried various plots but nothing really made sense to the Business Requirement.
 3. Set c.NotebookApp.allow_remote_access = True in jupyter_notebook_config.py
 4. Installed required librarys along the way they were needed.
 
-Launch Notebook with: jupyter notebook --NotebookApp.token='' --NotebookApp.password=''
+Launch Notebook with: jupyter notebook --NotebookApp.token='' --NotebookApp.password=''  
 Launch Streamlit app: streamlit run app.py
 
 Codeanywhere workspace got really slow and at one time it went offline and I wasn't able to start the Jupyter Notebook again. Just got 403 error. After half a day trying to solve it, I switched to VS Code. So that was also a couple of hours learning how to set that up.
@@ -138,9 +138,45 @@ And from that sort out hom many that did not finish (DNF) a race. Use that data 
 * Bonus:
 	* Select a brand from used motorcycle brands during competition and see how likely they will get a DNF.
 
+### page 4: Class Plots
+* Multiple Plot Types:Offers a selection of different visualizations, including:
+	* bar plots
+	* scatterplots
+	* histograms
+	* box plots
+* Interactive Visualization: Enables users to toggle the visibility of different plots using  radio buttons, allowing one plot to be displayed at a time for clear and focused exploration.
+* Plot Descriptions: Provides concise descriptions alongside each plot option, aiding users in understanding the content and purpose of each visualization before making a selection.
+* Data Exploration: Facilitates an exploration of class rankings, average ranks, and frequency distributions through interactive and informative plots.
 
-### Page 4: About
+This tool simplifies the exploration and understanding of ranking data by offering a user-friendly interface with selectable plot options and accompanying descriptions, empowering users to gain insights from their datasets effortlessly.
+
+### Page 5: About
 * Descriptions about this project.
+
+### Bugs
+
+I didn't encounter any real bug during this project.
+However, some code gave me warnings about being old.
+For example this:
+PyplotGlobalUseWarning: You are calling st.pyplot() without any arguments. After December 1st, 2020, we will remove the ability to do this as it requires the use of Matplotlib's global figure object, which is not thread-safe.
+```
+To future-proof this code, you should pass in a figure as shown below:
+
+>>> fig, ax = plt.subplots()
+>>> ax.scatter([1, 2, 3], [1, 2, 3])
+>>>    ... other plotting actions ...
+>>> st.pyplot(fig)
+
+You can disable this warning by disabling the config option: deprecation.showPyplotGlobalUse
+
+st.set_option('deprecation.showPyplotGlobalUse', False)
+
+or in your .streamlit/config.toml
+
+[deprecation]
+showPyplotGlobalUse = false
+```  
+Spending some time trying to solve it but I could not. So I went for the option to disable the warning as suggested in the warning message.
 
 ## Credits
 

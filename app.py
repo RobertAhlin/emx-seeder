@@ -5,6 +5,7 @@ import pandas as pd
 import datetime
 from app_pages.multipage import MultiPage
 from app_pages import riders_ranking, seeding_riders, fun_facts, page_summary
+from app_pages.page_klass_plots import plot_all_klass_plots
 
 # Load your data here
 @st.cache_data  # Add caching for faster reloads
@@ -22,6 +23,7 @@ app.add_page("Project Summary", page_summary.page_summary_body)
 app.add_page("Seeding Riders", lambda: seeding_riders.main(ranked_dataframe))
 app.add_page("Riders rank 2023", lambda: riders_ranking.select_and_plot_rankings(ranked_dataframe))
 app.add_page("Brand DNF Chance", fun_facts.show_dnf_chance)
+app.add_page("Class Plots", lambda: st.pyplot(plot_all_klass_plots(ranked_dataframe)))
 app.add_page("About", lambda: st.write("This is the About page."))
 
 app.run()
