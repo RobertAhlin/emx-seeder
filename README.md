@@ -58,12 +58,15 @@ As a Data Analyst and awesome with predictions from my Predictive Analytics cour
 
 # Modeling
 
-It was hard to understand what models to use for this project. I ended up using Numpy, Pandas and Matplotlib.
-I tried using Scikit-learn library, XGBoost, Linear Interpolation, K-Nearest Neighbors (KNN) and Multiple Imputation by Chained Equations (MICE).
+It was hard to understand what models to use for this project. I ended up using Numpy, Pandas, Matplotlib and Seaborn.
+I went through the XGBoost exercise on Kagglem, thinking I could use that but was unable to fit it to my data.
+
 
 # Evaluaton
+I first tried using XGBoost but after some time I gave up, thinking I needed to perhaps change the whole project with any other data.  
+I briefly had a test with Scikit-learn library, Linear Interpolation, K-Nearest Neighbors (KNN) and Multiple Imputation by Chained Equations (MICE).  
 With Pandas and Matplotlib I felt that I had control over what was happening. Using other models just seem to mess up the data and the outcome was not as I expected.
-I tried various plots but nothing really made sense to the Business Requirement. But still fun to try and test to learn.
+I tried a lot of various plots but nothing really made sense to the Business Requirement. But still fun to try and test to learn.
 
 # Work progress
 
@@ -81,7 +84,7 @@ Codeanywhere workspace got really slow and at one time it went offline and I was
 ### Jupyter Notebook
 
 The work of taking care of, cleaning and sorting data was made using Jupyter Notebooks.  
-I have created five notebook pages to be able to collect, clean a use the data.
+I have created six notebook pages to be able to collect, clean, use and visualize the data.
 - The first notebook page is just about collecting the data from CSV-files clean the a bit and then save the dataframes as new CSV-files.  
 ![Jupyter notebook page one.](readmefiles/jupyter_notebook_01.jpg)   
 
@@ -94,9 +97,12 @@ I have created five notebook pages to be able to collect, clean a use the data.
 - Fouth page is used to do some ML to predict and seed rider for upcoming events and reach business requriement 1.  
 ![Jupyter notebook page one.](readmefiles/jupyter_notebook_04.jpg)
 
-- Fifth page is a bounus page. Where some analysis of how many occurrances there is of each brand. Which rider rides which brand.  
+- Fifth page. Where some analysis of how many occurrances there is of each brand. Which rider rides which brand.  
 And from that sort out hom many that did not finish (DNF) a race. Use that data to find out the likelyhood that a used brand will get a DNF  
-![Jupyter notebook page one.](readmefiles/jupyter_notebook_04.jpg)
+![Jupyter notebook page one.](readmefiles/jupyter_notebook_05.jpg)
+
+- Sixth page is for ploting. Using the Klass (Class) data and how different data can be plotted.  
+![Jupyter notebook page one.](readmefiles/jupyter_notebook_06.jpg)
 
 
 # Deployment
@@ -180,5 +186,7 @@ Spending some time trying to solve it but I could not. So I went for the option 
 
 ## Credits
 
+- https://learn.codeinstitute.net/ - Using the walthrough project two, Churnometer as a template for Jupyther and Streamlit.
+- https://www.kaggle.com/ - The Learn section is good and useful to learn about ML
 - https://www.datascience-pm.com/crisp-dm-2/ - for the image of CRISP-DM
 - https://chat.openai.com/ - ChatGPT to get help to fix issues and get advice on how to use models.
