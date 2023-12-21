@@ -19,7 +19,7 @@ The Cross Industry Standard Process for Data Mining (CRISP-DM) is a process mode
 6. Deployment – How do stakeholders access the results?
 
 # Business understanding
-In the motorsport of Enduro. There are several security aspects to consider. A lot can be managed by good knowledge and keep to the regulation by the event management. But one aspect is the riders themselves. According to the Swedish Enduro Regulations, if a driver is caught, according to the regulations, he must let a faster driver pass. When driving fast on narrow paths in the forest it can be hard to do this safe. And it's up to the slower rider to make let the faster driver pass in a safe way. Of course, there are drivers who during the competition become very competitive and do not want to let anyone pass. In order to minimize the amount of passes needed to be done. Riders are often seeded, with the fastest rider starting first. Seeding riders is always a hard thing to do and often creates irritation among some drivers who think they are faster than they are. Today's seeding system is often up to the "person in charge of timing" and the skills and knowledge of how to seed is very different, therefore seeding can be off. If a ranking system of riders can be handles via ML and AI. The seeding system can be correct.
+In the motorsport Enduro. There are several security aspects to consider. A lot can be managed by good knowledge and keep to the regulations by the event management. But one aspect is the riders themselves. According to the Swedish Enduro Regulations; if a driver is caught, he must let a faster driver pass. When driving fast on narrow paths in the forest it can be hard to do this in a safe way. And it's up to the slower let the faster driver pass in a safe way. Of course, there are drivers who during the competition become very competitive and do not want to let anyone pass. In order to minimize the amount of passes needed to be done. Riders are often seeded, with the fastest rider starting first. Seeding riders is always a hard thing to do and often creates irritation among some drivers who think they are faster than they are. Today's seeding system is often up to the "person in charge of timing" and the skills and knowledge of how to seed is very different, therefore seeding can be off. If a ranking system of riders can be handles via ML and AI. The seeding system can be correct.
 
 ## Hypothesis
 * 1 - We know that overtakes while riding enduro in forests on narrow trails can be hard and dangerous. In order to avoid as much overtakes as possible, the start field of riders needs to be seeded.
@@ -57,7 +57,12 @@ As a Data Analyst and awesome with predictions from my Predictive Analytics cour
 	* We want a rider to be able to compare themself to other riders.
 
 * **Bonus**
-	* For fun, made it possible to se the chance of not finish a race (DNF) depening on the brand on motorcycle. Based in historical data of riders DNF.
+	1. For fun, made it possible to se the chance of not finish a race (DNF) depening on the brand on motorcycle. Based in historical data of riders DNF.
+	2. There are always people interested in statistics. Therefore I would like to display plots for:
+		* Average Rank by Klass
+		* Scatterplot of Rank
+		* Frequency Distribution of Klass
+		* Box Plot of AvgRank by Klass  
 
 
 # Modeling
