@@ -77,8 +77,11 @@ def main(ranked_dataframe):
                 st.error(f"Error processing file: {e}")
         else:
             st.warning("Please upload a CSV file.")
-
+    st.write("---")
     # Button for using system data
+    st.write("""If no CSV file is available for uploading.  
+             Use this button to use preexisting data for testing the seeding function.""")
+
     if st.button("Use system data"):
         existing_file_path = 'unseeded/unseeded.csv'  # Replace with your file path
         try:

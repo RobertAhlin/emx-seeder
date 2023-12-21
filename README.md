@@ -5,7 +5,7 @@ Tool to seed an predict rider placement for upcoming races.
 
 ![CRISP-DM ilustration](readmefiles/crisp-dm.png)
 
-The CRoss Industry Standard Process for Data Mining (CRISP-DM) is a process model that serves as the base for a data science process. It has six sequential phases:
+The Cross Industry Standard Process for Data Mining (CRISP-DM) is a process model that serves as the base for a data science process. It has six sequential phases:
 
 1. Business understanding – What does the business need?
 2. Data understanding – What data do we have / need? Is it clean?
@@ -89,20 +89,20 @@ I have created six notebook pages to be able to collect, clean, use and visualiz
 ![Jupyter notebook page one.](readmefiles/jupyter_notebook_01.jpg)   
 
 - Second page is about sorting out the data needed to reach the business requirements  
-![Jupyter notebook page one.](readmefiles/jupyter_notebook_02.jpg)
+![Jupyter notebook page two.](readmefiles/jupyter_notebook_02.jpg)
 
 - Third page is to make plots to show riders ranking according to business requirement 2.  
-![Jupyter notebook page one.](readmefiles/jupyter_notebook_03.jpg)
+![Jupyter notebook page three.](readmefiles/jupyter_notebook_03.jpg)
 
 - Fouth page is used to do some ML to predict and seed rider for upcoming events and reach business requriement 1.  
-![Jupyter notebook page one.](readmefiles/jupyter_notebook_04.jpg)
+![Jupyter notebook page four.](readmefiles/jupyter_notebook_04.jpg)
 
 - Fifth page. Where some analysis of how many occurrances there is of each brand. Which rider rides which brand.  
 And from that sort out hom many that did not finish (DNF) a race. Use that data to find out the likelyhood that a used brand will get a DNF  
-![Jupyter notebook page one.](readmefiles/jupyter_notebook_05.jpg)
+![Jupyter notebook page five.](readmefiles/jupyter_notebook_05.jpg)
 
 - Sixth page is for ploting. Using the Klass (Class) data and how different data can be plotted.  
-![Jupyter notebook page one.](readmefiles/jupyter_notebook_06.jpg)
+![Jupyter notebook page six.](readmefiles/jupyter_notebook_06.jpg)
 
 
 # Deployment
@@ -124,7 +124,6 @@ And from that sort out hom many that did not finish (DNF) a race. Use that data 
 	* Features
 	* Next Steps
 
-
 ### Page 2: Seeding Riders
 * Before the analysis, we knew we wanted this page to answer business requirement 1. 
 * After data analysis, it should be a possibility to downlaod a file with seeded riders: 
@@ -133,23 +132,34 @@ And from that sort out hom many that did not finish (DNF) a race. Use that data 
 	* Process the file data
 	* Download a new csv-file containing seeded riders.
 	* Visually see the seeded riders on the page.
+* Image showing when a uploaded csv-file has been processed:  
+![Example imaage of Jupyter notebook page one.](readmefiles/streamlit_seeding_riders_01.jpg)  
+If no csv-file is available for uplaoding. You can use the button "Use system data" to use csv-file that is uploaded with preexisting data.  
+![Image of the "Use system data" button.](readmefiles/streamlit_seeding_riders_02.jpg)  
 
 ### page 3: Riders rank 2023
 * State business requirement 2:
 	* Select a Klubb (Swedish for Club)
 	* Select one or more riders
 	* Plot a line chart for selected riders to se their ranks during competitions
+* Image showing a bunch of riders selected showing their ranks:  
+![mage showing a bunch of riders selected showing their ranks](readmefiles/streamlit_riders_rank_01.jpg)  
 
 ### Page 3: Brand DNF Chance
-* Bonus:
-	* Select a brand from used motorcycle brands during competition and see how likely they will get a DNF.
+* Select a brand from used motorcycle brands during competition and see how likely they will get a DNF.
+* Image showing the brand KTM seleced and the chance of get a DNF:  
+![Image showing the brand KTM having the chance of 0.53% getting a DNF](readmefiles/streamlit_brand_dnf_01.jpg)  
 
 ### page 4: Class Plots
 * Multiple Plot Types:Offers a selection of different visualizations, including:
-	* bar plots
-	* scatterplots
-	* histograms
-	* box plots
+	* Bar plots  
+	![Image showing bar plots.](readmefiles/streamlit_class_plots_01.jpg)  
+	* Scatterplots  
+	![Image showing scatterplots.](readmefiles/streamlit_class_plots_02.jpg) 
+	* Histograms  
+	![Image showing histograms.](readmefiles/streamlit_class_plots_03.jpg) 
+	* Box plots  
+	![Image box plots.](readmefiles/streamlit_class_plots_04.jpg) 
 * Interactive Visualization: Enables users to toggle the visibility of different plots using  radio buttons, allowing one plot to be displayed at a time for clear and focused exploration.
 * Plot Descriptions: Provides concise descriptions alongside each plot option, aiding users in understanding the content and purpose of each visualization before making a selection.
 * Data Exploration: Facilitates an exploration of class rankings, average ranks, and frequency distributions through interactive and informative plots.
@@ -187,6 +197,6 @@ Spending some time trying to solve it but I could not. So I went for the option 
 ## Credits
 
 - https://learn.codeinstitute.net/ - Using the walthrough project two, Churnometer as a template for Jupyther and Streamlit.
-- https://www.kaggle.com/ - The Learn section is good and useful to learn about ML
-- https://www.datascience-pm.com/crisp-dm-2/ - for the image of CRISP-DM
+- https://www.kaggle.com/ - The Learn section and XGBoost exercise.
+- https://www.datascience-pm.com/crisp-dm-2/ - for the image of CRISP-DM.
 - https://chat.openai.com/ - ChatGPT to get help to fix issues and get advice on how to use models.
