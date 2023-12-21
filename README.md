@@ -196,7 +196,8 @@ or in your .streamlit/config.toml
 [deprecation]
 showPyplotGlobalUse = false
 ```  
-Spending some time trying to solve it but I could not. So I went for the option to disable the warning as suggested in the warning message.
+Spending some time trying to solve it but I could not. So I went for the option to disable the warning as suggested in the warning message.  
+Sadly, the warning message still show in the deplyed version in Heroku. I have no idea how to solve it for now.
 
 ## Credits
 
