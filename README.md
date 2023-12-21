@@ -1,6 +1,10 @@
 # emx-seeder
 Tool to seed an predict rider placement for upcoming races.
 
+## Demo
+Streamlit applicaton at Heroku:
+<a href="https://emx-ranks-and-seeding-65c93a724d49.herokuapp.com/" target="_blank">https://emx-ranks-and-seeding-65c93a724d49.herokuapp.com/</a>
+
 # CRISP-DM
 
 ![CRISP-DM ilustration](readmefiles/crisp-dm.png)
@@ -196,7 +200,8 @@ Spending some time trying to solve it but I could not. So I went for the option 
 
 ## Credits
 
-- https://learn.codeinstitute.net/ - Using the walthrough project two, Churnometer as a template for Jupyther and Streamlit.
-- https://www.kaggle.com/ - The Learn section and XGBoost exercise.
-- https://www.datascience-pm.com/crisp-dm-2/ - for the image of CRISP-DM.
-- https://chat.openai.com/ - ChatGPT to get help to fix issues and get advice on how to use models.
+- <a href="https://learn.codeinstitute.net/" target="_blank">https://learn.codeinstitute.net/</a> - Using the walthrough project two, Churnometer as a template for Jupyther and Streamlit.
+- <a href="https://www.kaggle.com/" target="_blank">https://www.kaggle.com/</a> - The Learn section and XGBoost exercise.
+- <a href="https://www.datascience-pm.com/crisp-dm-2/" target="_blank">https://www.datascience-pm.com/crisp-dm-2/</a> - for the image of CRISP-DM.
+- <a href="https://chat.openai.com/" target="_blank">https://chat.openai.com/</a> - ChatGPT to get help to fix issues and get advice on how to use models.
+- <a href="https://www.online-spellcheck.com/" target="_blank">https://www.online-spellcheck.com/</a> - for grammar an spelling.
