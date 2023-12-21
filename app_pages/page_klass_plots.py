@@ -1,7 +1,6 @@
 import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
-import pandas as pd
 import seaborn as sns
 
 def plot_1(ranked_dataframe):
@@ -80,7 +79,7 @@ def plot_all_klass_plots(ranked_dataframe):
     """
 
     # Create radio buttons to select a single plot
-    plot_selection = st.radio("", [
+    plot_selection = st.radio("Select a Plot to Display", [
         "Average Rank by Class",
         "Scatterplot of Rank",
         "Frequency Distribution of Klass",

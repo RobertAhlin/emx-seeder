@@ -4,7 +4,8 @@ import pandas as pd
 
 # Function to select riders and plot rankings
 def select_and_plot_rankings(dataframe):
-    st.title("Select Riders and View Rankings")
+    st.write("## Select Riders and View Rankings")
+    st.write("This page will solve the Business requrement 2.")
     st.write("On this page you can either select a Club to display all riders from that club or individual riders to show the rank for each competition.")
 
     available_klubbs = ['All'] + dataframe['Klubb'].unique().tolist()

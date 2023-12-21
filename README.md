@@ -42,7 +42,7 @@ As a Data Analyst and awesome with predictions from my Predictive Analytics cour
 	* A rider is an indiviual that is participating in an event.
 
 * 1 - The client is interested in seeding riders that has signed up for races, based on their previous results, to get a start list with hopefully the fastest rider first and the slowest last. This to minimize the amount of overtakes the riders have to do.
-* 2 - The rider want to follow up on their results to see the trend. If they are getting faster or slower compared to the other riders.
+* 2 - The riders want to follow up on their results to see the trend. If they are getting faster or slower compared to the other riders.
 
 
 ## Use ML to rank a rider from a prediction of how well the rider can perform.
@@ -202,7 +202,7 @@ or in your .streamlit/config.toml
 showPyplotGlobalUse = false
 ```  
 Spending some time trying to solve it but I could not. So I went for the option to disable the warning as suggested in the warning message.  
-Sadly, the warning message still show in the deplyed version in Heroku. I have no idea how to solve it for now.
+Sadly, the warning message still show in the deployed version in Heroku. I have no idea how to solve it for now.
 
 ## Credits
 

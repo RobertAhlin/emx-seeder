@@ -41,7 +41,7 @@ def process_uploaded_files(dataframe, ranked_dataframe):
             os.makedirs(folder_name)
         
         current_time = datetime.datetime.now().strftime("%Y-%m-%d_%H%M")
-        file_name = f"seeded/{current_time}.csv"
+        file_name = f"src/seeded/{current_time}.csv"
         
         seeded_df.to_csv(file_name, index=False, encoding='cp1252')  # Windows-1252 encoding
 
@@ -62,8 +62,10 @@ def process_uploaded_files(dataframe, ranked_dataframe):
         st.write(seeded_df)  # Display the DataFrame content after processing
 
 def main(ranked_dataframe):
-    st.title("Seeding Riders")
-    st.write("On this page you can upload a CSV with information to seed them for an upcoming event. File columns must be: 'Place of event,Year,#(StarNo.),Namn(Name),Klubb(Club),Märke(Brand),Klass(Class),'")
+    st.write("## Seeding Riders")
+    st.write("This page will solve the Business requirement 1.")
+    st.write("On this page you can upload a CSV with information to seed them for an upcoming event.\n"
+             "File columns must be: 'Place of event,Year,#(StarNo.),Namn(Name),Klubb(Club),Märke(Brand),Klass(Class),'")
 
     # File uploader
     uploaded_file = st.file_uploader("Upload CSV file", type=["csv"])
@@ -83,7 +85,7 @@ def main(ranked_dataframe):
              Use this button to use preexisting data for testing the seeding function.""")
 
     if st.button("Use system data"):
-        existing_file_path = 'unseeded/unseeded.csv'  # Replace with your file path
+        existing_file_path = 'src/unseeded/unseeded.csv'  # Replace with your file path
         try:
             if os.path.exists(existing_file_path):
                 existing_data = pd.read_csv(existing_file_path, encoding='cp1252')
@@ -95,6 +97,6 @@ def main(ranked_dataframe):
 
 if __name__ == "__main__":
     # Load your data here
-    ranked_dataframe = pd.read_csv('ranked/ranked.csv')
+    ranked_dataframe = pd.read_csv('src/ranked/ranked.csv')
 
     main(ranked_dataframe)
