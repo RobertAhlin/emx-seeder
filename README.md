@@ -1,7 +1,7 @@
-# emx-seeder
+# Emx-seeder
 The "emx-seeder" project aims to streamline rider placements in motorsport Enduro races using historical data analysis. Leveraging the CRISP-DM framework, it addresses overtaking risks by seeding riders based on past performance. It collects and refines race data from "Vintercupen 2023," providing tools for riders to track trends. Through a Streamlit app hosted on Heroku, the project offers functionalities for seeding riders, visualizing ranks, assessing brand-related DNF probabilities, and exploring class-based data plots. It delivers a comprehensive toolset for effective seeding and performance analysis in Enduro racing.
 
-## Demo
+# Demo
 Streamlit applicaton at Heroku:
 <a href="https://emx-ranks-and-seeding-65c93a724d49.herokuapp.com/" target="_blank">https://emx-ranks-and-seeding-65c93a724d49.herokuapp.com/</a>
 
@@ -203,6 +203,8 @@ showPyplotGlobalUse = false
 ```  
 Spending some time trying to solve it but I could not. So I went for the option to disable the warning as suggested in the warning message.  
 Sadly, the warning message still show in the deployed version in Heroku. I have no idea how to solve it for now.
+
+I went back to try to solve this warning issue again. And spent almost a half day with googling. Found this topic on streamlit forum <a href="https://discuss.streamlit.io/t/pyplotglobalusewarning/6578" taget="blank">discuss.streamlit.io</a> and event tried various solutions with ChatGPT but I couldn't change the code to solve it.
 
 ## Credits
 

@@ -8,7 +8,7 @@ from app_pages.page_klass_plots import plot_all_klass_plots
 @st.cache_data  # Add caching for faster reloads
 def load_data():
     # Load Data into a DataFrame
-    data = pd.read_csv('ranked/ranked.csv')
+    data = pd.read_csv('src/ranked/ranked.csv')
     return data
 
 # Load the data

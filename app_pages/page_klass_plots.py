@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
 
+st.set_option('deprecation.showPyplotGlobalUse', False)
+
 def plot_1(ranked_dataframe):
     sorted_df = ranked_dataframe.sort_values('AvgRank', ascending=False)
     fig, ax = plt.subplots(figsize=(8, 6))
