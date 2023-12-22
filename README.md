@@ -1,5 +1,5 @@
 # emx-seeder
-Tool to seed an predict rider placement for upcoming races.
+The "emx-seeder" project aims to streamline rider placements in motorsport Enduro races using historical data analysis. Leveraging the CRISP-DM framework, it addresses overtaking risks by seeding riders based on past performance. It collects and refines race data from "Vintercupen 2023," providing tools for riders to track trends. Through a Streamlit app hosted on Heroku, the project offers functionalities for seeding riders, visualizing ranks, assessing brand-related DNF probabilities, and exploring class-based data plots. It delivers a comprehensive toolset for effective seeding and performance analysis in Enduro racing.
 
 ## Demo
 Streamlit applicaton at Heroku:
