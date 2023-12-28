@@ -163,7 +163,9 @@ If no csv-file is available for uplaoding. You can use the button "Use system da
 	* Able to upload a commadelimited csv-file with rider participating in an upcoming event. File columns must be: 'Place of event,Year,#(StarNo.),Namn(Name),Klubb(Club),Märke(Brand),Klass(Class),'
 	* Process the file data
 	* Download a new csv-file containing seeded riders.
-	* Visually see the seeded riders on the page.
+	* Visually see the seeded riders on the page. 
+* Image showing a table with seeded riders using AI:  
+![Image showing a table with seeded riders using AI](readmefiles/streamlit_ai_seeding_riders_01.jpg)  
 
 ### page 5: Riders rank 2023
 * State business requirement 2:
