@@ -19,7 +19,7 @@ The Cross Industry Standard Process for Data Mining (CRISP-DM) is a process mode
 6. Deployment – How do stakeholders access the results?
 
 # Business understanding
-In the motorsport Enduro. There are several security aspects to consider. A lot can be managed by good knowledge and keep to the regulations by the event management. But one aspect is the riders themselves. According to the Swedish Enduro Regulations; if a driver is caught, he must let a faster driver pass. When driving fast on narrow paths in the forest it can be hard to do this in a safe way. And it's up to the slower let the faster driver pass in a safe way. Of course, there are drivers who during the competition become very competitive and do not want to let anyone pass. In order to minimize the amount of passes needed to be done. Riders are often seeded, with the fastest rider starting first. Seeding riders is always a hard thing to do and often creates irritation among some drivers who think they are faster than they are. Today's seeding system is often up to the "person in charge of timing" and the skills and knowledge of how to seed is very different, therefore seeding can be off. If a ranking system of riders can be handles via ML and AI. The seeding system can be correct.
+In the motorsport Enduro. There are several security aspects to consider. A lot can be managed by good knowledge and keep to the regulations by the event management. But one aspect is the riders themselves. According to the Swedish Enduro Regulations; if a driver is caught, he must let a faster driver pass. When driving fast on narrow paths in the forest, it can be hard to do this in a safe way. And it's up to the slower rider let the faster driver pass in a safe way. Of course, there are drivers who during the competition become very competitive and do not want to let anyone pass. In order to minimize the amount of passes needed to be done. Riders are often seeded, with the fastest rider starting first. Seeding riders is always a hard thing to do and often creates irritation among some drivers who think they are faster than they are. Today's seeding system is often up to the "person in charge of timing" and the skills and knowledge of how to seed is very different, therefore seeding can be off. If a ranking system of riders can be handles via ML and AI. The seeding system can be correct.
 
 ## Hypothesis
 * 1 - We know that overtakes while riding enduro in forests on narrow trails can be hard and dangerous. In order to avoid as much overtakes as possible, the start field of riders needs to be seeded.
@@ -129,7 +129,9 @@ And from that sort out how many that did not finish (DNF) a race. Use that data 
 
 ## Dashboard Design (Streamlit App User Interface)
 
-### Page 1: Quick project summary
+### Page 1: About
+
+### Page 2: Quick project summary
 * Quick project summary
 	* Summary
 	* App Structure
@@ -138,7 +140,7 @@ And from that sort out how many that did not finish (DNF) a race. Use that data 
 	* Features
 	* Next Steps
 
-### Page 2: Seeding Riders
+### Page 3: Seeding Riders
 * Before the analysis, we knew we wanted this page to answer business requirement 1. 
 * After data analysis, it should be a possibility to downlaod a file with seeded riders: 
 	* State business requirement 1
@@ -149,9 +151,21 @@ And from that sort out how many that did not finish (DNF) a race. Use that data 
 * Image showing when a uploaded csv-file has been processed:  
 ![Example imaage of Jupyter notebook page one.](readmefiles/streamlit_seeding_riders_01.jpg)  
 If no csv-file is available for uplaoding. You can use the button "Use system data" to use csv-file that is uploaded with preexisting data.  
-![Image of the "Use system data" button.](readmefiles/streamlit_seeding_riders_02.jpg)  
+![Image of the "Use system data" button.](readmefiles/streamlit_seeding_riders_02.jpg)
 
-### page 3: Riders rank 2023
+### Page 4: AI Seeding Riders
+* This page uses the idea from the "Seeding Riders" page. Just do it with data with
+	* Imputation and Prediction:
+	* Handles missing values using KNN imputation.
+	* Creates a Linear Regression model to predict a 'Predicted_Rank' based on existing ranking columns.
+* After data analysis, it should be a possibility to downlaod a file with seeded riders: 
+	* State business requirement 1
+	* Able to upload a commadelimited csv-file with rider participating in an upcoming event. File columns must be: 'Place of event,Year,#(StarNo.),Namn(Name),Klubb(Club),Märke(Brand),Klass(Class),'
+	* Process the file data
+	* Download a new csv-file containing seeded riders.
+	* Visually see the seeded riders on the page.
+
+### page 5: Riders rank 2023
 * State business requirement 2:
 	* Select a Klubb (Swedish for Club)
 	* Select one or more riders
@@ -159,12 +173,12 @@ If no csv-file is available for uplaoding. You can use the button "Use system da
 * Image showing a bunch of riders selected showing their ranks:  
 ![mage showing a bunch of riders selected showing their ranks](readmefiles/streamlit_riders_rank_01.jpg)  
 
-### Page 3: Brand DNF Chance
+### Page 6: Brand DNF Chance
 * Select a brand from used motorcycle brands during competition and see how likely they will get a DNF.
 * Image showing the brand KTM seleced and the chance of get a DNF:  
 ![Image showing the brand KTM having the chance of 0.53% getting a DNF](readmefiles/streamlit_brand_dnf_01.jpg)  
 
-### page 4: Class Plots
+### page 7: Class Plots
 * Multiple Plot Types:Offers a selection of different visualizations, including:
 	* Bar plots  
 	![Image showing bar plots.](readmefiles/streamlit_class_plots_01.jpg)  
