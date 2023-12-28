@@ -67,9 +67,14 @@ As a Data Analyst and awesome with predictions from my Predictive Analytics cour
 
 # Modeling
 
-It was hard to understand what models to use for this project. I ended up using Numpy, Pandas, Matplotlib and Seaborn.
+First I did the Seeding Riders to meet the business requirement 1.  
+It was hard to understand what models to use for this project. I ended up using Numpy, Pandas, Matplotlib and Seaborn.  
 I went through the XGBoost exercise on Kaggle, thinking I could use that but was unable to fit it to my data.
 
+Then I wanted to do an other way of seeding riders according to the business requieremen 1.
+I used Imputation and Prediction.
+- Handles missing values using KNN imputation.
+- Creates a Linear Regression model to predict the ranking.
 
 # Evaluaton
 I first tried using XGBoost but after some time I gave up, thinking I needed to perhaps change the whole project with any other data.  
@@ -130,6 +135,7 @@ And from that sort out how many that did not finish (DNF) a race. Use that data 
 ## Dashboard Design (Streamlit App User Interface)
 
 ### Page 1: About
+* Descriptions about this project.
 
 ### Page 2: Quick project summary
 * Quick project summary
@@ -167,7 +173,7 @@ If no csv-file is available for uplaoding. You can use the button "Use system da
 * Image showing a table with seeded riders using AI:  
 ![Image showing a table with seeded riders using AI](readmefiles/streamlit_ai_seeding_riders_01.jpg)  
 
-### page 5: Riders rank 2023
+### Page 5: Riders rank 2023
 * State business requirement 2:
 	* Select a Klubb (Swedish for Club)
 	* Select one or more riders
@@ -180,7 +186,7 @@ If no csv-file is available for uplaoding. You can use the button "Use system da
 * Image showing the brand KTM seleced and the chance of get a DNF:  
 ![Image showing the brand KTM having the chance of 0.53% getting a DNF](readmefiles/streamlit_brand_dnf_01.jpg)  
 
-### page 7: Class Plots
+### Page 7: Class Plots
 * Multiple Plot Types:Offers a selection of different visualizations, including:
 	* Bar plots  
 	![Image showing bar plots.](readmefiles/streamlit_class_plots_01.jpg)  
@@ -196,10 +202,7 @@ If no csv-file is available for uplaoding. You can use the button "Use system da
 
 This tool simplifies the exploration and understanding of ranking data by offering a user-friendly interface with selectable plot options and accompanying descriptions, empowering users to gain insights from their datasets effortlessly.
 
-### Page 5: About
-* Descriptions about this project.
-
-### Bugs
+# Bugs
 
 I didn't encounter any real bug during this project.
 However, some code gave me warnings about being old.
@@ -223,14 +226,22 @@ or in your .streamlit/config.toml
 showPyplotGlobalUse = false
 ```  
 Spending some time trying to solve it but I could not. So I went for the option to disable the warning as suggested in the warning message.  
-Sadly, the warning message still show in the deployed version in Heroku. I have no idea how to solve it for now.
 
 I went back to try to solve this warning issue again. And spent almost a half day with googling. Found this topic on streamlit forum <a href="https://discuss.streamlit.io/t/pyplotglobalusewarning/6578" taget="blank">discuss.streamlit.io</a> and event tried various solutions with ChatGPT but I couldn't change the code to solve it.
 
-## Credits
+# Future Featuers
+I can think of bunch of features to implement in the future. For example:
+- Sort the seeded riders by class
+- Select what classes to be exported in the CSV file in the Streanlit app.
+- Test different models to train AI to rank and seed riders. For example
+
+# Credits
 
 - <a href="https://learn.codeinstitute.net/" target="_blank">https://learn.codeinstitute.net/</a> - Using the walthrough project two, Churnometer as a template for Jupyther and Streamlit.
 - <a href="https://www.kaggle.com/" target="_blank">https://www.kaggle.com/</a> - The Learn section and XGBoost exercise.
 - <a href="https://www.datascience-pm.com/crisp-dm-2/" target="_blank">https://www.datascience-pm.com/crisp-dm-2/</a> - for the image of CRISP-DM.
 - <a href="https://chat.openai.com/" target="_blank">https://chat.openai.com/</a> - ChatGPT to get help to fix issues and get advice on how to use models.
 - <a href="https://www.online-spellcheck.com/" target="_blank">https://www.online-spellcheck.com/</a> - for grammar an spelling.
+
+## Acknowledgement
+During this fifth module and just I started with my PP5, my whole family got a vomiting sickness in turns. My children 3 and 5 years old had to be home from daycare and as well as myself being sick and in bed for three days. In total I lost about two weeks of time. But I think I have done what I can.
