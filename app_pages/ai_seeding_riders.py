@@ -62,8 +62,36 @@ def process_uploaded_files(dataframe, ai_ranked_dataframe):
         st.write(seeded_df)  # Display the DataFrame content after processing
 
 def main(ai_ranked_dataframe):
-    st.write("## Seeding Riders")
-    st.write("This page will solve the Business requirement 1.")
+    st.write("## AI Seeding Riders")
+    st.write("""
+    This use a different ranking method.  
+    
+    Jupyter notebook has been used to read multiple CSV files and the went through these steps.
+
+    Data Cleaning and Conversion:
+
+    - Converts lap time strings into seconds. Extracts and calculates the fastest lap times. Deletes rows with missing values.
+
+    Data Analysis and Computation:
+
+    - Calculates average fastest lap time and merges multiple DataFrames.
+    - Handles duplicates based on 'Namn' and 'Klubb' columns.
+
+    Imputation and Prediction:
+
+    - Handles missing values using KNN imputation.
+    - Creates a Linear Regression model to predict a 'Predicted_Rank' based on existing ranking columns.
+    - Export to a CSV file that contains ranked riders.
+    
+    From the CSV file that contains ranked riders. This Streamlit page read that file to:
+
+    - Merge new list containing information with the ranked data.
+    
+    Data Export:
+
+    - Exports the final data in new CSV file.
+    """)
+    st.write("---")
     st.write("On this page you can upload a CSV with information to seed them for an upcoming event.\n"
              "File columns must be: 'Place of event,Year,#(StarNo.),Namn(Name),Klubb(Club),Märke(Brand),Klass(Class),'")
 

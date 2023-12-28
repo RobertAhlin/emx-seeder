@@ -113,6 +113,11 @@ And from that sort out how many that did not finish (DNF) a race. Use that data 
 - Sixth page is for plotting. Using the Klass (Class) data and how different data can be plotted.  
 ![Jupyter notebook page six.](readmefiles/jupyter_notebook_06.jpg)
 
+- Seventh page is where I did some testing. It really doesn't give much.
+
+- Page Eight. KNN imputation and Linear Regression to predict ranks  
+![Jupyter notebook page eight.](readmefiles/jupyter_notebook_08.jpg)
+
 
 # Deployment
 
