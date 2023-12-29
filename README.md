@@ -96,6 +96,10 @@ Launch Streamlit app: streamlit run app.py
 
 Codeanywhere workspace got really slow and at one time it went offline and I wasn't able to start the Jupyter Notebook again. Just got 403 error. After half a day trying to solve it, I switched to VS Code. That was also a couple of hours learning how to set that up.
 
+### CSV
+
+I choose to read and save to CSV-files and keep them as a data source. First that it is easy to open them in an editor or Excel to easily check the data. And also because that it's a common way to share data between systems. For example the seeded startlist can be imported in a timing solution.
+
 ### Jupyter Notebook
 
 The work of taking care of, cleaning and sorting data was made using Jupyter Notebooks.  
