@@ -21,7 +21,7 @@ app.add_page("About", page_about.readme_sections)
 app.add_page("Project Summary", page_summary.page_summary_body)
 app.add_page("Seeding Riders", lambda: seeding_riders.main(ranked_dataframe))
 app.add_page("AI Seeding Riders", lambda: ai_seeding_riders.main(ai_ranked_dataframe))
-app.add_page("Riders rank 2023", lambda: riders_ranking.select_and_plot_rankings(ranked_dataframe))
+app.add_page("Rider's rank 2023", lambda: riders_ranking.select_and_plot_rankings(ranked_dataframe))
 app.add_page("Brand DNF Chance", fun_facts.show_dnf_chance)
 app.add_page("Class Plots", lambda: st.pyplot(plot_all_klass_plots(ranked_dataframe)))
 
