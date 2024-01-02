@@ -163,6 +163,9 @@ And from that sort out how many that did not finish (DNF) a race. Use that data 
 
 Image showing when a uploaded csv-file has been processed:  
 ![Example image of Jupyter notebook page one.](readmefiles/streamlit_seeding_riders_01.jpg)  
+
+If you wish to try to upload a CSV-file to test the seeding. Please use this file: <a href="/src/unseeded/unseeded.csv" target="_blank">unseeded.csv</a>  
+If you don't want to download and upload it:  
 If no csv-file is available for uploading. You can use the button "Use system data" to use csv-file that is uploaded with preexisting data.  
 ![Image of the "Use system data" button.](readmefiles/streamlit_seeding_riders_02.jpg)
 
