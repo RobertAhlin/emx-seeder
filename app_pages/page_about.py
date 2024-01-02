@@ -27,7 +27,6 @@ def extract_section(file_content, section_name):
 # Function to display README sections in Streamlit
 def readme_sections():
     st.write("## About this project.")
-    st.write("### Text from ../README.md")
 
     # Get the parent directory path
     parent_directory = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
