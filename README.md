@@ -166,7 +166,7 @@ Image showing when a uploaded csv-file has been processed:
 
 If you wish to try to upload a CSV-file to test the seeding. Please use this file: <a href="/src/unseeded/unseeded.csv" target="_blank">unseeded.csv</a>  
 If you don't want to download and upload it:  
-If no csv-file is available for uploading. You can use the button "Use system data" to use csv-file that is uploaded with preexisting data.  
+If no csv-file is available for uploading. You can use the button "Use system data" to use csv-file that is uploaded with preexisting data. In this case it's the same file used as "unseeded.csv". 
 ![Image of the "Use system data" button.](readmefiles/streamlit_seeding_riders_02.jpg)
 
 ### Page 4: AI Seeding Riders
